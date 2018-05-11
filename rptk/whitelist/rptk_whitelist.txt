@@ -1,0 +1,1932 @@
+\Microsoft\Windows\CurrentVersion\Run\bginfo\C:\BGinfo\Bginfo.exe /accepteula /ic:\bginfo\bgconfig.bgi /timer:0
+\Microsoft\Windows\CurrentVersion\Run\VMware User Process\"C:\Program Files\VMware\VMware Tools\vmtoolsd.exe" -n vmusr
+\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell\explorer.exe
+\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit\C:\Windows\system32\userinit.exe,
+\Microsoft\Windows NT\CurrentVersion\Winlogon\VMApplet\SystemPropertiesPerformance.exe /pagefile
+\Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95\StubPath\%SystemRoot%\system32\unregmp2.exe /ShowWMP
+\Microsoft\Active Setup\Installed Components\{2C7339CF-2B09-4501-B3F3-F3508C9228ED\StubPath\%SystemRoot%\system32\regsvr32.exe /s /n /i:/UserInstall %SystemRoot%\system32\themeui.dll
+\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C\StubPath\"%ProgramFiles%\Windows Mail\WinMail.exe" OCInstallUserConfigOE
+\Microsoft\Active Setup\Installed Components\{66C64F22-FC60-4E6C-A6B5-F0D580E680CE\StubPath\C:\Windows\System32\ie4uinit.exe -EnableTLS
+\Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6\StubPath\%SystemRoot%\system32\unregmp2.exe /FirstLogon /Shortcuts /RegBrowsers /ResetMUI
+\Microsoft\Active Setup\Installed Components\{7D715857-A67C-4C2F-A929-038448584D63\StubPath\C:\Windows\System32\ie4uinit.exe -DisableSSL3
+\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4340\StubPath\regsvr32.exe /s /n /i:U shell32.dll
+\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4383\StubPath\C:\Windows\System32\ie4uinit.exe -UserConfig
+\Microsoft\Active Setup\Installed Components\{89B4C1CD-B018-4511-B0A1-5476DBF70820\StubPath\C:\Windows\system32\Rundll32.exe C:\Windows\system32\mscories.dll,Install
+\Wow6432Node\Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95\StubPath\%SystemRoot%\system32\unregmp2.exe /ShowWMP
+\Wow6432Node\Microsoft\Active Setup\Installed Components\{2C7339CF-2B09-4501-B3F3-F3508C9228ED\StubPath\%SystemRoot%\system32\regsvr32.exe /s /n /i:/UserInstall %SystemRoot%\system32\themeui.dll
+\Wow6432Node\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C\StubPath\"%ProgramFiles(x86)%\Windows Mail\WinMail.exe" OCInstallUserConfigOE
+\Wow6432Node\Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6\StubPath\%SystemRoot%\system32\unregmp2.exe /FirstLogon /Shortcuts /RegBrowsers /ResetMUI
+\Wow6432Node\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4340\StubPath\regsvr32.exe /s /n /i:U shell32.dll
+\Wow6432Node\Microsoft\Active Setup\Installed Components\{89B4C1CD-B018-4511-B0A1-5476DBF70820\StubPath\C:\Windows\SysWOW64\Rundll32.exe C:\Windows\SysWOW64\mscories.dll,Install
+\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad\WebCheck\{E6FB5E20-DE35-11CF-9C87-00AA005127ED}
+\Wow6432Node\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad\WebCheck\{E6FB5E20-DE35-11CF-9C87-00AA005127ED}
+\Microsoft\Windows NT\CurrentVersion\Windows\AppInit_DLLs\
+\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows\AppInit_DLLs\
+\Microsoft\Windows NT\CurrentVersion\Windows\IconServiceLib\IconCodecService.dll
+\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders\Common Startup\%ProgramData%\Microsoft\Windows\Start Menu\Programs\Startup
+\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Common Startup\C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+\Classes\batfile\shell\open\command\(default)\"%1" %*
+\Classes\cmdfile\shell\open\command\(default)\"%1" %*
+\Classes\comfile\shell\open\command\(default)\"%1" %*
+\Classes\exefile\shell\open\command\(default)\"%1" %*
+\Classes\exefile\shell\open\command\IsolatedCommand\"%1" %*
+\Classes\htafile\Shell\Open\Command\(default)\C:\Windows\SysWOW64\mshta.exe "%1" %*
+\Classes\htmlfile\shell\open\command\(default)\"C:\Program Files\Internet Explorer\iexplore.exe" %1
+\Classes\htmlfile\shell\open\command\DelegateExecute\{17FE9752-0B5A-4665-84CD-569794602F5C}
+\Classes\htmlfile\shell\opennew\command\(default)\"C:\Program Files\Internet Explorer\iexplore.exe" %1
+\Classes\htmlfile\shell\opennew\command\DelegateExecute\{17FE9752-0B5A-4665-84CD-569794602F5C}
+\Classes\https\shell\open\command\(default)\"C:\Program Files\Internet Explorer\iexplore.exe" %1
+\Classes\https\shell\open\command\DelegateExecute\{17FE9752-0B5A-4665-84CD-569794602F5C}
+\Classes\InternetShortcut\shell\Open\Command\(default)\"C:\Windows\System32\rundll32.exe" "C:\Windows\System32\ieframe.dll",OpenURL %l
+\Classes\JSEFile\Shell\Open\Command\(default)\C:\Windows\System32\WScript.exe "%1" %*
+\Classes\piffile\shell\open\command\(default)\"%1" %*
+\Classes\regfile\shell\open\command\(default)\regedit.exe "%1"
+\Classes\txtfile\shell\open\command\(default)\%SystemRoot%\system32\NOTEPAD.EXE %1
+\Classes\VBSFile\Shell\Open\Command\(default)\"%SystemRoot%\System32\WScript.exe" "%1" %*
+\Classes\WSFFile\Shell\Open\Command\(default)\"%SystemRoot%\System32\WScript.exe" "%1" %*
+\Classes\*\shellex\ContextMenuHandlers\BriefcaseMenu\(default)\{85BBD920-42A0-1069-A2E4-08002B30309D}
+\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32\(default)\%SystemRoot%\system32\syncui.dll
+\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32\(default)\%SystemRoot%\system32\syncui.dll
+\Classes\Wow6432Node\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32\ThreadingModel\Apartment
+\Classes\*\shellex\ContextMenuHandlers\Open With\(default)\{09799AFB-AD67-11d1-ABCD-00C04FC30936}
+\Classes\CLSID\{09799AFB-AD67-11d1-ABCD-00C04FC30936}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{09799AFB-AD67-11d1-ABCD-00C04FC30936}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{09799AFB-AD67-11d1-ABCD-00C04FC30936}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{09799AFB-AD67-11d1-ABCD-00C04FC30936}\InProcServer32\ThreadingModel\Apartment
+\Classes\*\shellex\ContextMenuHandlers\Open With EncryptionMenu\(default)\{A470F8CF-A1E8-4f65-8335-227475AA5C46}
+\Classes\CLSID\{A470F8CF-A1E8-4f65-8335-227475AA5C46}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{A470F8CF-A1E8-4f65-8335-227475AA5C46}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{A470F8CF-A1E8-4f65-8335-227475AA5C46}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{A470F8CF-A1E8-4f65-8335-227475AA5C46}\InProcServer32\ThreadingModel\Apartment
+\Classes\*\shellex\ContextMenuHandlers\Sharing\(default)\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}
+\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\(default)\%SystemRoot%\system32\ntshrui.dll
+\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\(default)\%SystemRoot%\system32\ntshrui.dll
+\Classes\Wow6432Node\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\ThreadingModel\Apartment
+\Classes\*\shellex\ContextMenuHandlers\{90AA3A4E-1CBA-4233-B8BB-535773D48449\(default)\Taskband Pin
+\Classes\CLSID\{90AA3A4E-1CBA-4233-B8BB-535773D48449}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{90AA3A4E-1CBA-4233-B8BB-535773D48449}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{90AA3A4E-1CBA-4233-B8BB-535773D48449}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{90AA3A4E-1CBA-4233-B8BB-535773D48449}\InProcServer32\ThreadingModel\Apartment
+\Classes\*\shellex\ContextMenuHandlers\{a2a9545d-a0c2-42b4-9708-a0b2badd77c8\(default)\Start Menu Pin
+\Classes\CLSID\{a2a9545d-a0c2-42b4-9708-a0b2badd77c8}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{a2a9545d-a0c2-42b4-9708-a0b2badd77c8}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{a2a9545d-a0c2-42b4-9708-a0b2badd77c8}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{a2a9545d-a0c2-42b4-9708-a0b2badd77c8}\InProcServer32\ThreadingModel\Apartment
+\Classes\*\shellex\PropertySheetHandlers\BriefcasePage\(default)\{85BBD920-42A0-1069-A2E4-08002B30309D}
+\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32\(default)\%SystemRoot%\system32\syncui.dll
+\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32\(default)\%SystemRoot%\system32\syncui.dll
+\Classes\Wow6432Node\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32\ThreadingModel\Apartment
+\Classes\*\shellex\PropertySheetHandlers\CryptoSignMenu\(default)\{7444C719-39BF-11D1-8CD9-00C04FC29D45}
+\Classes\CLSID\{7444C719-39BF-11D1-8CD9-00C04FC29D45}\InProcServer32\(default)\%SystemRoot%\system32\cryptext.dll
+\Classes\CLSID\{7444C719-39BF-11D1-8CD9-00C04FC29D45}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{7444C719-39BF-11D1-8CD9-00C04FC29D45}\InProcServer32\(default)\%SystemRoot%\system32\cryptext.dll
+\Classes\Wow6432Node\CLSID\{7444C719-39BF-11D1-8CD9-00C04FC29D45}\InProcServer32\ThreadingModel\Apartment
+\Classes\*\shellex\PropertySheetHandlers\{3EA48300-8CF6-101B-84FB-666CCB9BCD32\(default)\OLE DocFile Property Page
+\Classes\CLSID\{3EA48300-8CF6-101B-84FB-666CCB9BCD32}\InProcServer32\(default)\%SystemRoot%\system32\docprop.dll
+\Classes\CLSID\{3EA48300-8CF6-101B-84FB-666CCB9BCD32}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{3EA48300-8CF6-101B-84FB-666CCB9BCD32}\InProcServer32\(default)\%SystemRoot%\system32\docprop.dll
+\Classes\Wow6432Node\CLSID\{3EA48300-8CF6-101B-84FB-666CCB9BCD32}\InProcServer32\ThreadingModel\Apartment
+\Classes\*\shellex\PropertySheetHandlers\{883373C3-BF89-11D1-BE35-080036B11A03\(default)\Summary Properties Page
+\Classes\CLSID\{883373C3-BF89-11D1-BE35-080036B11A03}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{883373C3-BF89-11D1-BE35-080036B11A03}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{883373C3-BF89-11D1-BE35-080036B11A03}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{883373C3-BF89-11D1-BE35-080036B11A03}\InProcServer32\ThreadingModel\Apartment
+\Classes\AllFilesystemObjects\shellex\ContextMenuHandlers\CopyAsPathMenu\(default)\{f3d06e7c-1e45-4a26-847e-f9fcdee59be0}
+\Classes\CLSID\{f3d06e7c-1e45-4a26-847e-f9fcdee59be0}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{f3d06e7c-1e45-4a26-847e-f9fcdee59be0}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{f3d06e7c-1e45-4a26-847e-f9fcdee59be0}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{f3d06e7c-1e45-4a26-847e-f9fcdee59be0}\InProcServer32\ThreadingModel\Apartment
+\Classes\AllFilesystemObjects\shellex\ContextMenuHandlers\SendTo\(default)\{7BA4C740-9E81-11CF-99D3-00AA004AE837}
+\Classes\CLSID\{7BA4C740-9E81-11CF-99D3-00AA004AE837}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{7BA4C740-9E81-11CF-99D3-00AA004AE837}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{7BA4C740-9E81-11CF-99D3-00AA004AE837}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{7BA4C740-9E81-11CF-99D3-00AA004AE837}\InProcServer32\ThreadingModel\Apartment
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\DV Muxer
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{129D7E40-C10D-11D0-AFB9-00AA00B67A42}
+\Classes\CLSID\{129D7E40-C10D-11D0-AFB9-00AA00B67A42}\InProcServer32\(default)\C:\Windows\system32\qdv.dll
+\Classes\CLSID\{129D7E40-C10D-11D0-AFB9-00AA00B67A42}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{129D7E40-C10D-11D0-AFB9-00AA00B67A42}\InProcServer32\(default)\C:\Windows\SysWOW64\qdv.dll
+\Classes\Wow6432Node\CLSID\{129D7E40-C10D-11D0-AFB9-00AA00B67A42}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{1643E180-90F5-11CE-97D5-00AA0055595A}
+\Classes\CLSID\{1643E180-90F5-11CE-97D5-00AA0055595A}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{1643E180-90F5-11CE-97D5-00AA0055595A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{1643E180-90F5-11CE-97D5-00AA0055595A}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{1643E180-90F5-11CE-97D5-00AA0055595A}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Color Space Converter
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\WM ASF Reader
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{187463A0-5BB7-11D3-ACBE-0080C75E246E}
+\Classes\CLSID\{187463A0-5BB7-11D3-ACBE-0080C75E246E}\InProcServer32\(default)\C:\Windows\system32\qasf.dll
+\Classes\CLSID\{187463A0-5BB7-11D3-ACBE-0080C75E246E}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{187463A0-5BB7-11D3-ACBE-0080C75E246E}\InProcServer32\(default)\C:\Windows\SysWOW64\qasf.dll
+\Classes\Wow6432Node\CLSID\{187463A0-5BB7-11D3-ACBE-0080C75E246E}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Screen Capture filter
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{1A56451B-1315-4012-861E-8587333DD631}
+\Classes\CLSID\{1A56451B-1315-4012-861E-8587333DD631}\InProcServer32\(default)\C:\Windows\System32\wmpsrcwp.dll
+\Classes\CLSID\{1A56451B-1315-4012-861E-8587333DD631}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{1A56451B-1315-4012-861E-8587333DD631}\InProcServer32\(default)\C:\Windows\SysWOW64\wmpsrcwp.dll
+\Classes\Wow6432Node\CLSID\{1A56451B-1315-4012-861E-8587333DD631}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{1B544C20-FD0B-11CE-8C63-00AA0044B51E}
+\Classes\CLSID\{1B544C20-FD0B-11CE-8C63-00AA0044B51E}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{1B544C20-FD0B-11CE-8C63-00AA0044B51E}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{1B544C20-FD0B-11CE-8C63-00AA0044B51E}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{1B544C20-FD0B-11CE-8C63-00AA0044B51E}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\AVI Splitter
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{1DA08500-9EDC-11CF-BC10-00AA00AC74F6}
+\Classes\CLSID\{1DA08500-9EDC-11CF-BC10-00AA00AC74F6}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{1DA08500-9EDC-11CF-BC10-00AA00AC74F6}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{1DA08500-9EDC-11CF-BC10-00AA00AC74F6}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{1DA08500-9EDC-11CF-BC10-00AA00AC74F6}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\VGA 16 Color Ditherer
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\SBE2MediaTypeProfile
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{1f26a602-2b5c-4b63-b8e8-9ea5c1a7dc2e}
+\Classes\CLSID\{1f26a602-2b5c-4b63-b8e8-9ea5c1a7dc2e}\InProcServer32\(default)\C:\Windows\System32\sbe.dll
+\Classes\CLSID\{1f26a602-2b5c-4b63-b8e8-9ea5c1a7dc2e}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{1f26a602-2b5c-4b63-b8e8-9ea5c1a7dc2e}\InProcServer32\(default)\C:\Windows\SysWOW64\sbe.dll
+\Classes\Wow6432Node\CLSID\{1f26a602-2b5c-4b63-b8e8-9ea5c1a7dc2e}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Microsoft DTV-DVD Video Decoder
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{212690FB-83E5-4526-8FD7-74478B7939CD}
+\Classes\CLSID\{212690FB-83E5-4526-8FD7-74478B7939CD}\InProcServer32\(default)\C:\Windows\System32\msmpeg2vdec.dll
+\Classes\CLSID\{212690FB-83E5-4526-8FD7-74478B7939CD}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{212690FB-83E5-4526-8FD7-74478B7939CD}\InProcServer32\(default)\C:\Windows\SysWOW64\msmpeg2vdec.dll
+\Classes\Wow6432Node\CLSID\{212690FB-83E5-4526-8FD7-74478B7939CD}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\AC3 Parser Filter
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{280A3020-86CF-11D1-ABE6-00A0C905F375}
+\Classes\CLSID\{280A3020-86CF-11D1-ABE6-00A0C905F375}\InProcServer32\(default)\C:\Windows\System32\mpg2splt.ax
+\Classes\CLSID\{280A3020-86CF-11D1-ABE6-00A0C905F375}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{280A3020-86CF-11D1-ABE6-00A0C905F375}\InProcServer32\(default)\C:\Windows\SysWOW64\mpg2splt.ax
+\Classes\Wow6432Node\CLSID\{280A3020-86CF-11D1-ABE6-00A0C905F375}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\StreamBufferSink
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{2DB47AE5-CF39-43C2-B4D6-0CD8D90946F4}
+\Classes\CLSID\{2DB47AE5-CF39-43C2-B4D6-0CD8D90946F4}\InProcServer32\(default)\C:\Windows\System32\sbe.dll
+\Classes\CLSID\{2DB47AE5-CF39-43C2-B4D6-0CD8D90946F4}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{2DB47AE5-CF39-43C2-B4D6-0CD8D90946F4}\InProcServer32\(default)\C:\Windows\SysWOW64\sbe.dll
+\Classes\Wow6432Node\CLSID\{2DB47AE5-CF39-43C2-B4D6-0CD8D90946F4}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Microsoft TV Captions Decoder
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{2F7EE4B6-6FF5-4EB4-B24A-2BFC41117171}
+\Classes\CLSID\{2F7EE4B6-6FF5-4EB4-B24A-2BFC41117171}\InProcServer32\(default)\C:\Windows\ehome\MSTVCapn.dll
+\Classes\CLSID\{2F7EE4B6-6FF5-4EB4-B24A-2BFC41117171}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{301056D0-6DFF-11D2-9EEB-006008039E37}
+\Classes\CLSID\{301056D0-6DFF-11D2-9EEB-006008039E37}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{301056D0-6DFF-11D2-9EEB-006008039E37}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{301056D0-6DFF-11D2-9EEB-006008039E37}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{301056D0-6DFF-11D2-9EEB-006008039E37}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\MJPEG Decompressor
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\CBVA DMO wrapper filter
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{31C88FF0-2111-44BD-A121-61DE9CD0412D}
+\Classes\CLSID\{31C88FF0-2111-44BD-A121-61DE9CD0412D}\InProcServer32\(default)\C:\Windows\ehome\cbva.dll
+\Classes\CLSID\{31C88FF0-2111-44BD-A121-61DE9CD0412D}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{336475D0-942A-11CE-A870-00AA002FEAB5}
+\Classes\CLSID\{336475D0-942A-11CE-A870-00AA002FEAB5}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{336475D0-942A-11CE-A870-00AA002FEAB5}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{336475D0-942A-11CE-A870-00AA002FEAB5}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{336475D0-942A-11CE-A870-00AA002FEAB5}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\MPEG-I Stream Splitter
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{33FACFE0-A9BE-11D0-A520-00A0D10129C0}
+\Classes\CLSID\{33FACFE0-A9BE-11D0-A520-00A0D10129C0}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{33FACFE0-A9BE-11D0-A520-00A0D10129C0}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{33FACFE0-A9BE-11D0-A520-00A0D10129C0}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{33FACFE0-A9BE-11D0-A520-00A0D10129C0}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\SAMI (CC) Parser
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\VBI Codec
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{370A1D5D-DDEB-418C-81CD-189E0D4FA443}
+\Classes\CLSID\{370A1D5D-DDEB-418C-81CD-189E0D4FA443}\InProcServer32\(default)\C:\Windows\System32\VBICodec.ax
+\Classes\CLSID\{370A1D5D-DDEB-418C-81CD-189E0D4FA443}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{370A1D5D-DDEB-418C-81CD-189E0D4FA443}\InProcServer32\(default)\C:\Windows\SysWOW64\VBICodec.ax
+\Classes\Wow6432Node\CLSID\{370A1D5D-DDEB-418C-81CD-189E0D4FA443}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\MPEG-2 Splitter
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{3AE86B20-7BE8-11D1-ABE6-00A0C905F375}
+\Classes\CLSID\{3AE86B20-7BE8-11D1-ABE6-00A0C905F375}\InProcServer32\(default)\C:\Windows\System32\mpg2splt.ax
+\Classes\CLSID\{3AE86B20-7BE8-11D1-ABE6-00A0C905F375}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{3AE86B20-7BE8-11D1-ABE6-00A0C905F375}\InProcServer32\(default)\C:\Windows\SysWOW64\mpg2splt.ax
+\Classes\Wow6432Node\CLSID\{3AE86B20-7BE8-11D1-ABE6-00A0C905F375}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Closed Captions Analysis Filter
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{3D07A539-35CA-447C-9B05-8D85CE924F9E}
+\Classes\CLSID\{3D07A539-35CA-447C-9B05-8D85CE924F9E}\InProcServer32\(default)\C:\Windows\System32\cca.dll
+\Classes\CLSID\{3D07A539-35CA-447C-9B05-8D85CE924F9E}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{3D07A539-35CA-447C-9B05-8D85CE924F9E}\InProcServer32\(default)\C:\Windows\SysWOW64\cca.dll
+\Classes\Wow6432Node\CLSID\{3D07A539-35CA-447C-9B05-8D85CE924F9E}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\SBE2FileScan
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{3E458037-0CA6-41aa-A594-2AA6C02D709B}
+\Classes\CLSID\{3E458037-0CA6-41aa-A594-2AA6C02D709B}\InProcServer32\(default)\C:\Windows\System32\sbe.dll
+\Classes\CLSID\{3E458037-0CA6-41aa-A594-2AA6C02D709B}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{3E458037-0CA6-41aa-A594-2AA6C02D709B}\InProcServer32\(default)\C:\Windows\SysWOW64\sbe.dll
+\Classes\Wow6432Node\CLSID\{3E458037-0CA6-41aa-A594-2AA6C02D709B}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Microsoft MPEG-2 Video Encoder
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{42150CD9-CA9A-4EA5-9939-30EE037F6E74}
+\Classes\CLSID\{42150CD9-CA9A-4EA5-9939-30EE037F6E74}\InProcServer32\(default)\C:\Windows\System32\msmpeg2enc.dll
+\Classes\CLSID\{42150CD9-CA9A-4EA5-9939-30EE037F6E74}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{42150CD9-CA9A-4EA5-9939-30EE037F6E74}\InProcServer32\(default)\C:\Windows\SysWOW64\msmpeg2enc.dll
+\Classes\Wow6432Node\CLSID\{42150CD9-CA9A-4EA5-9939-30EE037F6E74}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{48025243-2D39-11CE-875D-00608CB78066}
+\Classes\CLSID\{48025243-2D39-11CE-875D-00608CB78066}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{48025243-2D39-11CE-875D-00608CB78066}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{48025243-2D39-11CE-875D-00608CB78066}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{48025243-2D39-11CE-875D-00608CB78066}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Internal Script Command Renderer
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{4A2286E0-7BEF-11CE-9BD9-0000E202599C}
+\Classes\CLSID\{4A2286E0-7BEF-11CE-9BD9-0000E202599C}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{4A2286E0-7BEF-11CE-9BD9-0000E202599C}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{4A2286E0-7BEF-11CE-9BD9-0000E202599C}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{4A2286E0-7BEF-11CE-9BD9-0000E202599C}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\MPEG Audio Decoder
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\DV Splitter
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{4EB31670-9FC6-11CF-AF6E-00AA00B67A42}
+\Classes\CLSID\{4EB31670-9FC6-11CF-AF6E-00AA00B67A42}\InProcServer32\(default)\C:\Windows\system32\qdv.dll
+\Classes\CLSID\{4EB31670-9FC6-11CF-AF6E-00AA00B67A42}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{4EB31670-9FC6-11CF-AF6E-00AA00B67A42}\InProcServer32\(default)\C:\Windows\SysWOW64\qdv.dll
+\Classes\Wow6432Node\CLSID\{4EB31670-9FC6-11CF-AF6E-00AA00B67A42}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{51B4ABF3-748F-4E3B-A276-C828330E926A}
+\Classes\CLSID\{51B4ABF3-748F-4E3B-A276-C828330E926A}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{51B4ABF3-748F-4E3B-A276-C828330E926A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{51B4ABF3-748F-4E3B-A276-C828330E926A}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{51B4ABF3-748F-4E3B-A276-C828330E926A}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Video Mixing Renderer 9
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Microsoft MPEG-2 Encoder
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{5F5AFF4A-2F7F-4279-88C2-CD88EB39D144}
+\Classes\CLSID\{5F5AFF4A-2F7F-4279-88C2-CD88EB39D144}\InProcServer32\(default)\C:\Windows\System32\msmpeg2enc.dll
+\Classes\CLSID\{5F5AFF4A-2F7F-4279-88C2-CD88EB39D144}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{5F5AFF4A-2F7F-4279-88C2-CD88EB39D144}\InProcServer32\(default)\C:\Windows\SysWOW64\msmpeg2enc.dll
+\Classes\Wow6432Node\CLSID\{5F5AFF4A-2F7F-4279-88C2-CD88EB39D144}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{6A08CF80-0E18-11CF-A24D-0020AFD79767}
+\Classes\CLSID\{6A08CF80-0E18-11CF-A24D-0020AFD79767}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{6A08CF80-0E18-11CF-A24D-0020AFD79767}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{6A08CF80-0E18-11CF-A24D-0020AFD79767}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{6A08CF80-0E18-11CF-A24D-0020AFD79767}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\ACM Wrapper
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{6BC1CFFA-8FC1-4261-AC22-CFB4CC38DB50}
+\Classes\CLSID\{6BC1CFFA-8FC1-4261-AC22-CFB4CC38DB50}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{6BC1CFFA-8FC1-4261-AC22-CFB4CC38DB50}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{6BC1CFFA-8FC1-4261-AC22-CFB4CC38DB50}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{6BC1CFFA-8FC1-4261-AC22-CFB4CC38DB50}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Video Renderer
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\MPEG-2 Video Stream Analyzer
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{6CFAD761-735D-4AA5-8AFC-AF91A7D61EBA}
+\Classes\CLSID\{6CFAD761-735D-4AA5-8AFC-AF91A7D61EBA}\InProcServer32\(default)\C:\Windows\System32\sbe.dll
+\Classes\CLSID\{6CFAD761-735D-4AA5-8AFC-AF91A7D61EBA}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{6CFAD761-735D-4AA5-8AFC-AF91A7D61EBA}\InProcServer32\(default)\C:\Windows\SysWOW64\sbe.dll
+\Classes\Wow6432Node\CLSID\{6CFAD761-735D-4AA5-8AFC-AF91A7D61EBA}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Line 21 Decoder
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{6E8D4A20-310C-11D0-B79A-00AA003767A7}
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{6F26A6CD-967B-47FD-874A-7AED2C9D25A2}
+\Classes\CLSID\{6F26A6CD-967B-47FD-874A-7AED2C9D25A2}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{6F26A6CD-967B-47FD-874A-7AED2C9D25A2}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{6F26A6CD-967B-47FD-874A-7AED2C9D25A2}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{6F26A6CD-967B-47FD-874A-7AED2C9D25A2}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Video Port Manager
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{70E102B0-5556-11CE-97C0-00AA0055595A}
+\Classes\CLSID\{70E102B0-5556-11CE-97C0-00AA0055595A}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{70E102B0-5556-11CE-97C0-00AA0055595A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{70E102B0-5556-11CE-97C0-00AA0055595A}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{70E102B0-5556-11CE-97C0-00AA0055595A}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Video Renderer
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\VPS Decoder
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{7B3BC2A0-AA50-4ae7-BD44-B03649EC87C2}
+\Classes\CLSID\{7B3BC2A0-AA50-4ae7-BD44-B03649EC87C2}\InProcServer32\(default)\C:\Windows\System32\WSTPager.ax
+\Classes\CLSID\{7B3BC2A0-AA50-4ae7-BD44-B03649EC87C2}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{7B3BC2A0-AA50-4ae7-BD44-B03649EC87C2}\InProcServer32\(default)\C:\Windows\SysWOW64\WSTPager.ax
+\Classes\Wow6432Node\CLSID\{7B3BC2A0-AA50-4ae7-BD44-B03649EC87C2}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\WM ASF Writer
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{7C23220E-55BB-11D3-8B16-00C04FB6BD3D}
+\Classes\CLSID\{7C23220E-55BB-11D3-8B16-00C04FB6BD3D}\InProcServer32\(default)\C:\Windows\system32\qasf.dll
+\Classes\CLSID\{7C23220E-55BB-11D3-8B16-00C04FB6BD3D}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{7C23220E-55BB-11D3-8B16-00C04FB6BD3D}\InProcServer32\(default)\C:\Windows\SysWOW64\qasf.dll
+\Classes\Wow6432Node\CLSID\{7C23220E-55BB-11D3-8B16-00C04FB6BD3D}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\VBI Surface Allocator
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{814B9800-1C88-11D1-BAD9-00609744111A}
+\Classes\CLSID\{814B9800-1C88-11D1-BAD9-00609744111A}\InProcServer32\(default)\C:\Windows\System32\vbisurf.ax
+\Classes\CLSID\{814B9800-1C88-11D1-BAD9-00609744111A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{814B9800-1C88-11D1-BAD9-00609744111A}\InProcServer32\(default)\C:\Windows\SysWOW64\vbisurf.ax
+\Classes\Wow6432Node\CLSID\{814B9800-1C88-11D1-BAD9-00609744111A}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\File writer
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{8596E5F0-0DA5-11D0-BD21-00A0C911CE86}
+\Classes\CLSID\{8596E5F0-0DA5-11D0-BD21-00A0C911CE86}\InProcServer32\(default)\C:\Windows\system32\qcap.dll
+\Classes\CLSID\{8596E5F0-0DA5-11D0-BD21-00A0C911CE86}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{8596E5F0-0DA5-11D0-BD21-00A0C911CE86}\InProcServer32\(default)\C:\Windows\SysWOW64\qcap.dll
+\Classes\Wow6432Node\CLSID\{8596E5F0-0DA5-11D0-BD21-00A0C911CE86}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\iTV Data Sink
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{88EBC1EE-F90A-484A-B9C5-8F9C0F37A828}
+\Classes\CLSID\{88EBC1EE-F90A-484A-B9C5-8F9C0F37A828}\InProcServer32\(default)\C:\Windows\System32\itvdata.dll
+\Classes\CLSID\{88EBC1EE-F90A-484A-B9C5-8F9C0F37A828}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{88EBC1EE-F90A-484A-B9C5-8F9C0F37A828}\InProcServer32\(default)\C:\Windows\SysWOW64\itvdata.dll
+\Classes\Wow6432Node\CLSID\{88EBC1EE-F90A-484A-B9C5-8F9C0F37A828}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\iTV Data Capture filter
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{8A51DC27-5A35-4E02-95A3-428BC6244A3C}
+\Classes\CLSID\{8A51DC27-5A35-4E02-95A3-428BC6244A3C}\InProcServer32\(default)\C:\Windows\System32\itvdata.dll
+\Classes\CLSID\{8A51DC27-5A35-4E02-95A3-428BC6244A3C}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{8A51DC27-5A35-4E02-95A3-428BC6244A3C}\InProcServer32\(default)\C:\Windows\SysWOW64\itvdata.dll
+\Classes\Wow6432Node\CLSID\{8A51DC27-5A35-4E02-95A3-428BC6244A3C}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\DVD Navigator
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{9B8C4620-2C1A-11D0-8493-00A02438AD48}
+\Classes\CLSID\{9B8C4620-2C1A-11D0-8493-00A02438AD48}\InProcServer32\(default)\C:\Windows\system32\qdvd.dll
+\Classes\CLSID\{9B8C4620-2C1A-11D0-8493-00A02438AD48}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{9B8C4620-2C1A-11D0-8493-00A02438AD48}\InProcServer32\(default)\C:\Windows\SysWOW64\qdvd.dll
+\Classes\Wow6432Node\CLSID\{9B8C4620-2C1A-11D0-8493-00A02438AD48}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Microsoft TV Subtitles Decoder
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{9F22CFEA-CE07-41ab-8BA0-C7364AF90AF9}
+\Classes\CLSID\{9F22CFEA-CE07-41ab-8BA0-C7364AF90AF9}\InProcServer32\(default)\C:\Windows\ehome\MSTVCapn.dll
+\Classes\CLSID\{9F22CFEA-CE07-41ab-8BA0-C7364AF90AF9}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Overlay Mixer2
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{A0025E90-E45B-11D1-ABE9-00A0C905F375}
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\RDP DShow Redirection Filter
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{AB9D6472-752F-43F6-B29E-61207BDA8E06}
+\Classes\CLSID\{AB9D6472-752F-43F6-B29E-61207BDA8E06}\InProcServer32\(default)\%SystemRoot%\system32\DShowRdpFilter.dll
+\Classes\CLSID\{AB9D6472-752F-43F6-B29E-61207BDA8E06}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{AB9D6472-752F-43F6-B29E-61207BDA8E06}\InProcServer32\(default)\%SystemRoot%\system32\DShowRdpFilter.dll
+\Classes\Wow6432Node\CLSID\{AB9D6472-752F-43F6-B29E-61207BDA8E06}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Microsoft MPEG-2 Audio Encoder
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{ACD453BC-C58A-44D1-BBF5-BFB325BE2D78}
+\Classes\CLSID\{ACD453BC-C58A-44D1-BBF5-BFB325BE2D78}\InProcServer32\(default)\C:\Windows\System32\msmpeg2enc.dll
+\Classes\CLSID\{ACD453BC-C58A-44D1-BBF5-BFB325BE2D78}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{ACD453BC-C58A-44D1-BBF5-BFB325BE2D78}\InProcServer32\(default)\C:\Windows\SysWOW64\msmpeg2enc.dll
+\Classes\Wow6432Node\CLSID\{ACD453BC-C58A-44D1-BBF5-BFB325BE2D78}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\WST Pager
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{AD6C8934-F31B-4F43-B5E4-0541C1452F6F}
+\Classes\CLSID\{AD6C8934-F31B-4F43-B5E4-0541C1452F6F}\InProcServer32\(default)\C:\Windows\System32\WSTPager.ax
+\Classes\CLSID\{AD6C8934-F31B-4F43-B5E4-0541C1452F6F}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{AD6C8934-F31B-4F43-B5E4-0541C1452F6F}\InProcServer32\(default)\C:\Windows\SysWOW64\WSTPager.ax
+\Classes\Wow6432Node\CLSID\{AD6C8934-F31B-4F43-B5E4-0541C1452F6F}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\MPEG-2 Demultiplexer
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{AFB6C280-2C41-11D3-8A60-0000F81E0E4A}
+\Classes\CLSID\{AFB6C280-2C41-11D3-8A60-0000F81E0E4A}\InProcServer32\(default)\C:\Windows\System32\mpg2splt.ax
+\Classes\CLSID\{AFB6C280-2C41-11D3-8A60-0000F81E0E4A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{AFB6C280-2C41-11D3-8A60-0000F81E0E4A}\InProcServer32\(default)\C:\Windows\SysWOW64\mpg2splt.ax
+\Classes\Wow6432Node\CLSID\{AFB6C280-2C41-11D3-8A60-0000F81E0E4A}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\DV Video Decoder
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{B1B77C00-C3E4-11CF-AF79-00AA00B67A42}
+\Classes\CLSID\{B1B77C00-C3E4-11CF-AF79-00AA00B67A42}\InProcServer32\(default)\C:\Windows\system32\qdv.dll
+\Classes\CLSID\{B1B77C00-C3E4-11CF-AF79-00AA00B67A42}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{B1B77C00-C3E4-11CF-AF79-00AA00B67A42}\InProcServer32\(default)\C:\Windows\SysWOW64\qdv.dll
+\Classes\Wow6432Node\CLSID\{B1B77C00-C3E4-11CF-AF79-00AA00B67A42}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\SampleGrabber
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{C1F400A0-3F08-11D3-9F0B-006008039E37}
+\Classes\CLSID\{C1F400A0-3F08-11D3-9F0B-006008039E37}\InProcServer32\(default)\C:\Windows\System32\qedit.dll
+\Classes\CLSID\{C1F400A0-3F08-11D3-9F0B-006008039E37}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{C1F400A0-3F08-11D3-9F0B-006008039E37}\InProcServer32\(default)\C:\Windows\SysWOW64\qedit.dll
+\Classes\Wow6432Node\CLSID\{C1F400A0-3F08-11D3-9F0B-006008039E37}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Null Renderer
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{C1F400A4-3F08-11D3-9F0B-006008039E37}
+\Classes\CLSID\{C1F400A4-3F08-11D3-9F0B-006008039E37}\InProcServer32\(default)\C:\Windows\System32\qedit.dll
+\Classes\CLSID\{C1F400A4-3F08-11D3-9F0B-006008039E37}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{C1F400A4-3F08-11D3-9F0B-006008039E37}\InProcServer32\(default)\C:\Windows\SysWOW64\qedit.dll
+\Classes\Wow6432Node\CLSID\{C1F400A4-3F08-11D3-9F0B-006008039E37}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\MPEG-2 Sections and Tables
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{C666E115-BB62-4027-A113-82D643FE2D99}
+\Classes\CLSID\{C666E115-BB62-4027-A113-82D643FE2D99}\InProcServer32\(default)\C:\Windows\System32\Mpeg2Data.ax
+\Classes\CLSID\{C666E115-BB62-4027-A113-82D643FE2D99}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{C666E115-BB62-4027-A113-82D643FE2D99}\InProcServer32\(default)\C:\Windows\SysWOW64\Mpeg2Data.ax
+\Classes\Wow6432Node\CLSID\{C666E115-BB62-4027-A113-82D643FE2D99}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Microsoft AC3 Encoder
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{C6B400E2-20A7-4E58-A2FE-24619682CE6C}
+\Classes\CLSID\{C6B400E2-20A7-4E58-A2FE-24619682CE6C}\InProcServer32\(default)\C:\Windows\System32\msac3enc.dll
+\Classes\CLSID\{C6B400E2-20A7-4E58-A2FE-24619682CE6C}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{C6B400E2-20A7-4E58-A2FE-24619682CE6C}\InProcServer32\(default)\C:\Windows\SysWOW64\msac3enc.dll
+\Classes\Wow6432Node\CLSID\{C6B400E2-20A7-4E58-A2FE-24619682CE6C}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\StreamBufferSource
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{C9F5FE02-F851-4EB5-99EE-AD602AF1E619}
+\Classes\CLSID\{C9F5FE02-F851-4EB5-99EE-AD602AF1E619}\InProcServer32\(default)\C:\Windows\System32\sbe.dll
+\Classes\CLSID\{C9F5FE02-F851-4EB5-99EE-AD602AF1E619}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{C9F5FE02-F851-4EB5-99EE-AD602AF1E619}\InProcServer32\(default)\C:\Windows\SysWOW64\sbe.dll
+\Classes\Wow6432Node\CLSID\{C9F5FE02-F851-4EB5-99EE-AD602AF1E619}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Smart Tee
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{CC58E280-8AA1-11D1-B3F1-00AA003761C5}
+\Classes\CLSID\{CC58E280-8AA1-11D1-B3F1-00AA003761C5}\InProcServer32\(default)\C:\Windows\system32\qcap.dll
+\Classes\CLSID\{CC58E280-8AA1-11D1-B3F1-00AA003761C5}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{CC58E280-8AA1-11D1-B3F1-00AA003761C5}\InProcServer32\(default)\C:\Windows\SysWOW64\qcap.dll
+\Classes\Wow6432Node\CLSID\{CC58E280-8AA1-11D1-B3F1-00AA003761C5}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Overlay Mixer
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{CD8743A1-3736-11D0-9E69-00C04FD7C15B}
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{CF49D4E0-1115-11CE-B03A-0020AF0BA770}
+\Classes\CLSID\{CF49D4E0-1115-11CE-B03A-0020AF0BA770}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{CF49D4E0-1115-11CE-B03A-0020AF0BA770}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{CF49D4E0-1115-11CE-B03A-0020AF0BA770}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{CF49D4E0-1115-11CE-B03A-0020AF0BA770}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\AVI Decompressor
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\NetBridge
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{D145BF00-4389-49E9-B3A0-4178719550CD}
+\Classes\CLSID\{D145BF00-4389-49E9-B3A0-4178719550CD}\InProcServer32\(default)\C:\Windows\ehome\netbridge.dll
+\Classes\CLSID\{D145BF00-4389-49E9-B3A0-4178719550CD}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{D3588AB0-0781-11CE-B03A-0020AF0BA770}
+\Classes\CLSID\{D3588AB0-0781-11CE-B03A-0020AF0BA770}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{D3588AB0-0781-11CE-B03A-0020AF0BA770}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{D3588AB0-0781-11CE-B03A-0020AF0BA770}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{D3588AB0-0781-11CE-B03A-0020AF0BA770}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\AVI/WAV File Source
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{D51BD5A1-7548-11CF-A520-0080C77EF58A}
+\Classes\CLSID\{D51BD5A1-7548-11CF-A520-0080C77EF58A}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{D51BD5A1-7548-11CF-A520-0080C77EF58A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{D51BD5A1-7548-11CF-A520-0080C77EF58A}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{D51BD5A1-7548-11CF-A520-0080C77EF58A}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Wave Parser
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{D51BD5A2-7548-11CF-A520-0080C77EF58A}
+\Classes\CLSID\{D51BD5A2-7548-11CF-A520-0080C77EF58A}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{D51BD5A2-7548-11CF-A520-0080C77EF58A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{D51BD5A2-7548-11CF-A520-0080C77EF58A}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{D51BD5A2-7548-11CF-A520-0080C77EF58A}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\MIDI Parser
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{D51BD5A3-7548-11CF-A520-0080C77EF58A}
+\Classes\CLSID\{D51BD5A3-7548-11CF-A520-0080C77EF58A}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{D51BD5A3-7548-11CF-A520-0080C77EF58A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{D51BD5A3-7548-11CF-A520-0080C77EF58A}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{D51BD5A3-7548-11CF-A520-0080C77EF58A}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Multi-file Parser
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{D51BD5A5-7548-11CF-A520-0080C77EF58A}
+\Classes\CLSID\{D51BD5A5-7548-11CF-A520-0080C77EF58A}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{D51BD5A5-7548-11CF-A520-0080C77EF58A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{D51BD5A5-7548-11CF-A520-0080C77EF58A}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{D51BD5A5-7548-11CF-A520-0080C77EF58A}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\File stream renderer
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Microsoft DTV-DVD Audio Decoder
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{E1F1A0B8-BEEE-490D-BA7C-066C40B5E2B9}
+\Classes\CLSID\{E1F1A0B8-BEEE-490D-BA7C-066C40B5E2B9}\InProcServer32\(default)\C:\Windows\System32\msmpeg2adec.dll
+\Classes\CLSID\{E1F1A0B8-BEEE-490D-BA7C-066C40B5E2B9}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{E1F1A0B8-BEEE-490D-BA7C-066C40B5E2B9}\InProcServer32\(default)\C:\Windows\SysWOW64\msmpeg2adec.dll
+\Classes\Wow6432Node\CLSID\{E1F1A0B8-BEEE-490D-BA7C-066C40B5E2B9}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\StreamBufferSink2
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{E2448508-95DA-4205-9A27-7EC81E723B1A}
+\Classes\CLSID\{E2448508-95DA-4205-9A27-7EC81E723B1A}\InProcServer32\(default)\C:\Windows\System32\sbe.dll
+\Classes\CLSID\{E2448508-95DA-4205-9A27-7EC81E723B1A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{E2448508-95DA-4205-9A27-7EC81E723B1A}\InProcServer32\(default)\C:\Windows\SysWOW64\sbe.dll
+\Classes\Wow6432Node\CLSID\{E2448508-95DA-4205-9A27-7EC81E723B1A}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\AVI Mux
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{E2510970-F137-11CE-8B67-00AA00A3F1A6}
+\Classes\CLSID\{E2510970-F137-11CE-8B67-00AA00A3F1A6}\InProcServer32\(default)\C:\Windows\system32\qcap.dll
+\Classes\CLSID\{E2510970-F137-11CE-8B67-00AA00A3F1A6}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{E2510970-F137-11CE-8B67-00AA00A3F1A6}\InProcServer32\(default)\C:\Windows\SysWOW64\qcap.dll
+\Classes\Wow6432Node\CLSID\{E2510970-F137-11CE-8B67-00AA00A3F1A6}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{E4206432-01A1-4BEE-B3E1-3702C8EDC574}
+\Classes\CLSID\{E4206432-01A1-4BEE-B3E1-3702C8EDC574}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{E4206432-01A1-4BEE-B3E1-3702C8EDC574}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{E4206432-01A1-4BEE-B3E1-3702C8EDC574}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{E4206432-01A1-4BEE-B3E1-3702C8EDC574}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Line 21 Decoder 2
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{E436EBB5-524F-11CE-9F53-0020AF0BA770}
+\Classes\CLSID\{E436EBB5-524F-11CE-9F53-0020AF0BA770}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{E436EBB5-524F-11CE-9F53-0020AF0BA770}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{E436EBB5-524F-11CE-9F53-0020AF0BA770}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{E436EBB5-524F-11CE-9F53-0020AF0BA770}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\File Source (Async.)
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{E436EBB6-524F-11CE-9F53-0020AF0BA770}
+\Classes\CLSID\{E436EBB6-524F-11CE-9F53-0020AF0BA770}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{E436EBB6-524F-11CE-9F53-0020AF0BA770}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{E436EBB6-524F-11CE-9F53-0020AF0BA770}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{E436EBB6-524F-11CE-9F53-0020AF0BA770}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\File Source (URL)
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Media Center Extender Encryption Filter
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{E55A0B49-2F73-44D4-AD66-48966DED31BA}
+\Classes\CLSID\{E55A0B49-2F73-44D4-AD66-48966DED31BA}\InProcServer32\(default)\C:\Windows\ehome\Mcx2Filter.dll
+\Classes\CLSID\{E55A0B49-2F73-44D4-AD66-48966DED31BA}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\AudioRecorder WAV Dest
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{E882F102-F626-49E9-BD68-CE2BE7E59EA0}
+\Classes\CLSID\{E882F102-F626-49E9-BD68-CE2BE7E59EA0}\InProcServer32\(default)\%systemroot%\system32\WavDest.dll
+\Classes\CLSID\{E882F102-F626-49E9-BD68-CE2BE7E59EA0}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\AudioRecorder Wave Form
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{E882F102-F626-49E9-BD68-CE2BE7E59EB0}
+\Classes\CLSID\{E882F102-F626-49E9-BD68-CE2BE7E59EB0}\InProcServer32\(default)\%systemroot%\system32\WavDest.dll
+\Classes\CLSID\{E882F102-F626-49E9-BD68-CE2BE7E59EB0}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\SoundRecorder Null Renderer
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{E882F102-F626-49E9-BD68-CE2BE7E59EC0}
+\Classes\CLSID\{E882F102-F626-49E9-BD68-CE2BE7E59EC0}\InProcServer32\(default)\%systemroot%\system32\WavDest.dll
+\Classes\CLSID\{E882F102-F626-49E9-BD68-CE2BE7E59EC0}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Infinite Pin Tee Filter
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{F8388A40-D5BB-11D0-BE5A-0080C706568E}
+\Classes\CLSID\{F8388A40-D5BB-11D0-BE5A-0080C706568E}\InProcServer32\(default)\C:\Windows\system32\qcap.dll
+\Classes\CLSID\{F8388A40-D5BB-11D0-BE5A-0080C706568E}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{F8388A40-D5BB-11D0-BE5A-0080C706568E}\InProcServer32\(default)\C:\Windows\SysWOW64\qcap.dll
+\Classes\Wow6432Node\CLSID\{F8388A40-D5BB-11D0-BE5A-0080C706568E}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Enhanced Video Renderer
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{FA10746C-9B63-4B6C-BC49-FC300EA5F256}
+\Classes\CLSID\{FA10746C-9B63-4B6C-BC49-FC300EA5F256}\InProcServer32\(default)\C:\Windows\System32\evr.dll
+\Classes\CLSID\{FA10746C-9B63-4B6C-BC49-FC300EA5F256}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{FA10746C-9B63-4B6C-BC49-FC300EA5F256}\InProcServer32\(default)\C:\Windows\SysWOW64\evr.dll
+\Classes\Wow6432Node\CLSID\{FA10746C-9B63-4B6C-BC49-FC300EA5F256}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\BDA MPEG2 Transport Information Filter
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{FC772AB0-0C7F-11D3-8FF2-00A0C9224CF4}
+\Classes\CLSID\{FC772AB0-0C7F-11D3-8FF2-00A0C9224CF4}\InProcServer32\(default)\C:\Windows\System32\psisrndr.ax
+\Classes\CLSID\{FC772AB0-0C7F-11D3-8FF2-00A0C9224CF4}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{FC772AB0-0C7F-11D3-8FF2-00A0C9224CF4}\InProcServer32\(default)\C:\Windows\SysWOW64\psisrndr.ax
+\Classes\Wow6432Node\CLSID\{FC772AB0-0C7F-11D3-8FF2-00A0C9224CF4}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{FEB50740-7BEF-11CE-9BD9-0000E202599C}
+\Classes\CLSID\{FEB50740-7BEF-11CE-9BD9-0000E202599C}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{FEB50740-7BEF-11CE-9BD9-0000E202599C}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{FEB50740-7BEF-11CE-9BD9-0000E202599C}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{FEB50740-7BEF-11CE-9BD9-0000E202599C}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\MPEG Video Decoder
+\Classes\Directory\Background\shellex\ContextMenuHandlers\Gadgets\(default)\{6B9228DA-9C15-419e-856C-19E768A13BDC}
+\Classes\CLSID\{6B9228DA-9C15-419e-856C-19E768A13BDC}\InProcServer32\(default)\%ProgramFiles%\Windows Sidebar\sbdrop.dll
+\Classes\CLSID\{6B9228DA-9C15-419e-856C-19E768A13BDC}\InProcServer32\ThreadingModel\both
+\Classes\Wow6432Node\CLSID\{6B9228DA-9C15-419e-856C-19E768A13BDC}\InProcServer32\(default)\%ProgramFiles%\Windows Sidebar\sbdrop.dll
+\Classes\Wow6432Node\CLSID\{6B9228DA-9C15-419e-856C-19E768A13BDC}\InProcServer32\ThreadingModel\both
+\Classes\Directory\Background\shellex\ContextMenuHandlers\New\(default)\{D969A300-E7FF-11d0-A93B-00A0C90F2719}
+\Classes\CLSID\{D969A300-E7FF-11d0-A93B-00A0C90F2719}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{D969A300-E7FF-11d0-A93B-00A0C90F2719}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{D969A300-E7FF-11d0-A93B-00A0C90F2719}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{D969A300-E7FF-11d0-A93B-00A0C90F2719}\InProcServer32\ThreadingModel\Apartment
+\Classes\Directory\Background\shellex\ContextMenuHandlers\Sharing\(default)\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}
+\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\(default)\%SystemRoot%\system32\ntshrui.dll
+\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\(default)\%SystemRoot%\system32\ntshrui.dll
+\Classes\Wow6432Node\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\ThreadingModel\Apartment
+\Classes\Directory\shellex\ContextMenuHandlers\EncryptionMenu\(default)\{A470F8CF-A1E8-4f65-8335-227475AA5C46}
+\Classes\CLSID\{A470F8CF-A1E8-4f65-8335-227475AA5C46}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{A470F8CF-A1E8-4f65-8335-227475AA5C46}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{A470F8CF-A1E8-4f65-8335-227475AA5C46}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{A470F8CF-A1E8-4f65-8335-227475AA5C46}\InProcServer32\ThreadingModel\Apartment
+\Classes\Directory\shellex\ContextMenuHandlers\Offline Files\(default)\{474C98EE-CF3D-41f5-80E3-4AAB0AB04301}
+\Classes\CLSID\{474C98EE-CF3D-41f5-80E3-4AAB0AB04301}\InProcServer32\(default)\%SystemRoot%\System32\cscui.dll
+\Classes\CLSID\{474C98EE-CF3D-41f5-80E3-4AAB0AB04301}\InProcServer32\ThreadingModel\Apartment
+\Classes\Directory\shellex\ContextMenuHandlers\Sharing\(default)\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}
+\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\(default)\%SystemRoot%\system32\ntshrui.dll
+\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\(default)\%SystemRoot%\system32\ntshrui.dll
+\Classes\Wow6432Node\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\ThreadingModel\Apartment
+\Classes\Directory\shellex\CopyHookHandlers\FileSystem\(default)\{217FC9C0-3AEA-1069-A2DB-08002B30309D}
+\Classes\CLSID\{217FC9C0-3AEA-1069-A2DB-08002B30309D}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{217FC9C0-3AEA-1069-A2DB-08002B30309D}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{217FC9C0-3AEA-1069-A2DB-08002B30309D}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{217FC9C0-3AEA-1069-A2DB-08002B30309D}\InProcServer32\ThreadingModel\Apartment
+\Classes\Directory\shellex\CopyHookHandlers\Sharing\(default)\{40dd6e20-7c17-11ce-a804-00aa003ca9f6}
+\Classes\CLSID\{40dd6e20-7c17-11ce-a804-00aa003ca9f6}\InProcServer32\(default)\%SystemRoot%\system32\ntshrui.dll
+\Classes\CLSID\{40dd6e20-7c17-11ce-a804-00aa003ca9f6}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{40dd6e20-7c17-11ce-a804-00aa003ca9f6}\InProcServer32\(default)\%SystemRoot%\system32\ntshrui.dll
+\Classes\Wow6432Node\CLSID\{40dd6e20-7c17-11ce-a804-00aa003ca9f6}\InProcServer32\ThreadingModel\Apartment
+\Classes\Directory\shellex\PropertySheetHandlers\Offline Files\(default)\{7EFA68C6-086B-43e1-A2D2-55A113531240}
+\Classes\CLSID\{7EFA68C6-086B-43e1-A2D2-55A113531240}\InProcServer32\(default)\%SystemRoot%\System32\cscui.dll
+\Classes\CLSID\{7EFA68C6-086B-43e1-A2D2-55A113531240}\InProcServer32\ThreadingModel\Apartment
+\Classes\Directory\shellex\PropertySheetHandlers\Sharing\(default)\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}
+\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\(default)\%SystemRoot%\system32\ntshrui.dll
+\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\(default)\%SystemRoot%\system32\ntshrui.dll
+\Classes\Wow6432Node\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\ThreadingModel\Apartment
+\Classes\Directory\shellex\PropertySheetHandlers\{ef43ecfe-2ab9-4632-bf21-58909dd177f0\(default)\
+\Classes\CLSID\{ef43ecfe-2ab9-4632-bf21-58909dd177f0}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{ef43ecfe-2ab9-4632-bf21-58909dd177f0}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{ef43ecfe-2ab9-4632-bf21-58909dd177f0}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{ef43ecfe-2ab9-4632-bf21-58909dd177f0}\InProcServer32\ThreadingModel\Apartment
+\Classes\Drive\shellex\ContextMenuHandlers\EnhancedStorageShell\(default)\{2854F705-3548-414C-A113-93E27C808C85}
+\Classes\CLSID\{2854F705-3548-414C-A113-93E27C808C85}\InProcServer32\(default)\%SystemRoot%\system32\EhStorShell.dll
+\Classes\CLSID\{2854F705-3548-414C-A113-93E27C808C85}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{2854F705-3548-414C-A113-93E27C808C85}\InProcServer32\(default)\%SystemRoot%\system32\EhStorShell.dll
+\Classes\Wow6432Node\CLSID\{2854F705-3548-414C-A113-93E27C808C85}\InProcServer32\ThreadingModel\Apartment
+\Classes\Drive\shellex\ContextMenuHandlers\Sharing\(default)\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}
+\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\(default)\%SystemRoot%\system32\ntshrui.dll
+\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\(default)\%SystemRoot%\system32\ntshrui.dll
+\Classes\Wow6432Node\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\ThreadingModel\Apartment
+\Classes\Drive\shellex\ContextMenuHandlers\{59099400-57FF-11CE-BD94-0020AF85B590\(default)\
+\Classes\CLSID\{59099400-57FF-11CE-BD94-0020AF85B590}\InProcServer32\(default)\%SystemRoot%\system32\diskcopy.dll
+\Classes\CLSID\{59099400-57FF-11CE-BD94-0020AF85B590}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{59099400-57FF-11CE-BD94-0020AF85B590}\InProcServer32\(default)\%SystemRoot%\system32\diskcopy.dll
+\Classes\Wow6432Node\CLSID\{59099400-57FF-11CE-BD94-0020AF85B590}\InProcServer32\ThreadingModel\Apartment
+\Classes\Drive\shellex\ContextMenuHandlers\{D6791A63-E7E2-4fee-BF52-5DED8E86E9B8\{D6791A63-E7E2-4fee-BF52-5DED8E86E9B8}\Portable Devices Menu
+\Classes\CLSID\{D6791A63-E7E2-4fee-BF52-5DED8E86E9B8}\InProcServer32\(default)\%SystemRoot%\system32\wpdshext.dll
+\Classes\CLSID\{D6791A63-E7E2-4fee-BF52-5DED8E86E9B8}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{D6791A63-E7E2-4fee-BF52-5DED8E86E9B8}\InProcServer32\(default)\%SystemRoot%\system32\wpdshext.dll
+\Classes\Wow6432Node\CLSID\{D6791A63-E7E2-4fee-BF52-5DED8E86E9B8}\InProcServer32\ThreadingModel\Apartment
+\Classes\Drive\shellex\ContextMenuHandlers\{fbeb8a05-beee-4442-804e-409d6c4515e9\(default)\
+\Classes\CLSID\{fbeb8a05-beee-4442-804e-409d6c4515e9}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{fbeb8a05-beee-4442-804e-409d6c4515e9}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{fbeb8a05-beee-4442-804e-409d6c4515e9}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{fbeb8a05-beee-4442-804e-409d6c4515e9}\InProcServer32\ThreadingModel\Apartment
+\Classes\Drive\shellex\PropertySheetHandlers\(default)\{5F5295E0-429F-1069-A2E2-08002B30309D}
+\Classes\CLSID\{5F5295E0-429F-1069-A2E2-08002B30309D}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{5F5295E0-429F-1069-A2E2-08002B30309D}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{5F5295E0-429F-1069-A2E2-08002B30309D}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{5F5295E0-429F-1069-A2E2-08002B30309D}\InProcServer32\ThreadingModel\Apartment
+\Classes\Drive\shellex\PropertySheetHandlers\Sharing\(default)\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}
+\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\(default)\%SystemRoot%\system32\ntshrui.dll
+\Classes\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\(default)\%SystemRoot%\system32\ntshrui.dll
+\Classes\Wow6432Node\CLSID\{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}\InProcServer32\ThreadingModel\Apartment
+\Classes\Drive\shellex\PropertySheetHandlers\{7988B573-EC89-11cf-9C00-00AA00A14F56\(default)\
+\Classes\CLSID\{7988B573-EC89-11cf-9C00-00AA00A14F56}\InProcServer32\(default)\C:\Windows\system32\dskquoui.dll
+\Classes\CLSID\{7988B573-EC89-11cf-9C00-00AA00A14F56}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{7988B573-EC89-11cf-9C00-00AA00A14F56}\InProcServer32\(default)\C:\Windows\SysWOW64\dskquoui.dll
+\Classes\Wow6432Node\CLSID\{7988B573-EC89-11cf-9C00-00AA00A14F56}\InProcServer32\ThreadingModel\Both
+\Classes\Drive\shellex\PropertySheetHandlers\{ef43ecfe-2ab9-4632-bf21-58909dd177f0\(default)\
+\Classes\CLSID\{ef43ecfe-2ab9-4632-bf21-58909dd177f0}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{ef43ecfe-2ab9-4632-bf21-58909dd177f0}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{ef43ecfe-2ab9-4632-bf21-58909dd177f0}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{ef43ecfe-2ab9-4632-bf21-58909dd177f0}\InProcServer32\ThreadingModel\Apartment
+\Classes\Drive\shellex\PropertySheetHandlers\{fbeb8a05-beee-4442-804e-409d6c4515e9\(default)\
+\Classes\CLSID\{fbeb8a05-beee-4442-804e-409d6c4515e9}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{fbeb8a05-beee-4442-804e-409d6c4515e9}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{fbeb8a05-beee-4442-804e-409d6c4515e9}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{fbeb8a05-beee-4442-804e-409d6c4515e9}\InProcServer32\ThreadingModel\Apartment
+\Classes\Folder\ShellEx\ContextMenuHandlers\BriefcaseMenu\(default)\{85BBD920-42A0-1069-A2E4-08002B30309D}
+\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32\(default)\%SystemRoot%\system32\syncui.dll
+\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32\(default)\%SystemRoot%\system32\syncui.dll
+\Classes\Wow6432Node\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32\ThreadingModel\Apartment
+\Classes\Folder\ShellEx\ContextMenuHandlers\Library Location\(default)\{3dad6c5d-2167-4cae-9914-f99e41c12cfa}
+\Classes\CLSID\{3dad6c5d-2167-4cae-9914-f99e41c12cfa}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{3dad6c5d-2167-4cae-9914-f99e41c12cfa}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{3dad6c5d-2167-4cae-9914-f99e41c12cfa}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{3dad6c5d-2167-4cae-9914-f99e41c12cfa}\InProcServer32\ThreadingModel\Apartment
+\Classes\Folder\ShellEx\ContextMenuHandlers\Offline Files\(default)\{474C98EE-CF3D-41f5-80E3-4AAB0AB04301}
+\Classes\CLSID\{474C98EE-CF3D-41f5-80E3-4AAB0AB04301}\InProcServer32\(default)\%SystemRoot%\System32\cscui.dll
+\Classes\CLSID\{474C98EE-CF3D-41f5-80E3-4AAB0AB04301}\InProcServer32\ThreadingModel\Apartment
+\Classes\Folder\ShellEx\DragDropHandlers\{BD472F60-27FA-11cf-B8B4-444553540000\(default)\
+\Classes\CLSID\{BD472F60-27FA-11cf-B8B4-444553540000}\InProcServer32\(default)\%SystemRoot%\system32\zipfldr.dll
+\Classes\CLSID\{BD472F60-27FA-11cf-B8B4-444553540000}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{BD472F60-27FA-11cf-B8B4-444553540000}\InProcServer32\(default)\%SystemRoot%\system32\zipfldr.dll
+\Classes\Wow6432Node\CLSID\{BD472F60-27FA-11cf-B8B4-444553540000}\InProcServer32\ThreadingModel\Apartment
+\Classes\Folder\ShellEx\PropertySheetHandlers\BriefcasePage\(default)\{85BBD920-42A0-1069-A2E4-08002B30309D}
+\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32\(default)\%SystemRoot%\system32\syncui.dll
+\Classes\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32\(default)\%SystemRoot%\system32\syncui.dll
+\Classes\Wow6432Node\CLSID\{85BBD920-42A0-1069-A2E4-08002B30309D}\InProcServer32\ThreadingModel\Apartment
+\Classes\Folder\ShellEx\PropertySheetHandlers\Offline Files\(default)\{7EFA68C6-086B-43e1-A2D2-55A113531240}
+\Classes\CLSID\{7EFA68C6-086B-43e1-A2D2-55A113531240}\InProcServer32\(default)\%SystemRoot%\System32\cscui.dll
+\Classes\CLSID\{7EFA68C6-086B-43e1-A2D2-55A113531240}\InProcServer32\ThreadingModel\Apartment
+\Classes\PROTOCOLS\Filter\application/octet-stream\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}
+\Classes\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}\InProcServer32\(default)\mscoree.dll
+\Classes\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}\InProcServer32\(default)\mscoree.dll
+\Classes\Wow6432Node\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}\InProcServer32\ThreadingModel\Both
+\Classes\PROTOCOLS\Filter\application/x-complus\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}
+\Classes\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}\InProcServer32\(default)\mscoree.dll
+\Classes\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}\InProcServer32\(default)\mscoree.dll
+\Classes\Wow6432Node\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}\InProcServer32\ThreadingModel\Both
+\Classes\PROTOCOLS\Filter\application/x-msdownload\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}
+\Classes\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}\InProcServer32\(default)\mscoree.dll
+\Classes\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}\InProcServer32\(default)\mscoree.dll
+\Classes\Wow6432Node\CLSID\{1E66F26B-79EE-11D2-8710-00C04F79ED0D}\InProcServer32\ThreadingModel\Both
+\Classes\PROTOCOLS\Handler\about\CLSID\{3050F406-98B5-11CF-BB82-00AA00BDCE0B}
+\Classes\CLSID\{3050F406-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\(default)\C:\Windows\System32\mshtml.dll
+\Classes\CLSID\{3050F406-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{3050F406-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\(default)\C:\Windows\SysWOW64\mshtml.dll
+\Classes\Wow6432Node\CLSID\{3050F406-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\ThreadingModel\Apartment
+\Classes\PROTOCOLS\Handler\cdl\(default)\CDL: Asychronous Pluggable Protocol Handler
+\Classes\PROTOCOLS\Handler\cdl\CLSID\{3dd53d40-7b8b-11D0-b013-00aa0059ce02}
+\Classes\CLSID\{3dd53d40-7b8b-11D0-b013-00aa0059ce02}\InProcServer32\(default)\C:\Windows\system32\urlmon.dll
+\Classes\CLSID\{3dd53d40-7b8b-11D0-b013-00aa0059ce02}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{3dd53d40-7b8b-11D0-b013-00aa0059ce02}\InProcServer32\(default)\C:\Windows\SysWOW64\urlmon.dll
+\Classes\Wow6432Node\CLSID\{3dd53d40-7b8b-11D0-b013-00aa0059ce02}\InProcServer32\ThreadingModel\Apartment
+\Classes\PROTOCOLS\Handler\dvd\(default)\DVD: Pluggable Protocol
+\Classes\PROTOCOLS\Handler\dvd\CLSID\{12D51199-0DB5-46FE-A120-47A3D7D937CC}
+\Classes\CLSID\{12D51199-0DB5-46FE-A120-47A3D7D937CC}\InProcServer32\(default)\C:\Windows\System32\msvidctl.dll
+\Classes\CLSID\{12D51199-0DB5-46FE-A120-47A3D7D937CC}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{12D51199-0DB5-46FE-A120-47A3D7D937CC}\InProcServer32\(default)\C:\Windows\SysWOW64\msvidctl.dll
+\Classes\Wow6432Node\CLSID\{12D51199-0DB5-46FE-A120-47A3D7D937CC}\InProcServer32\ThreadingModel\Apartment
+\Classes\PROTOCOLS\Handler\file\(default)\file:, local: Asychronous Pluggable Protocol Handler
+\Classes\PROTOCOLS\Handler\file\CLSID\{79eac9e7-baf9-11ce-8c82-00aa004ba90b}
+\Classes\CLSID\{79eac9e7-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\(default)\C:\Windows\system32\urlmon.dll
+\Classes\CLSID\{79eac9e7-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{79eac9e7-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\(default)\C:\Windows\SysWOW64\urlmon.dll
+\Classes\Wow6432Node\CLSID\{79eac9e7-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\ThreadingModel\Apartment
+\Classes\PROTOCOLS\Handler\ftp\(default)\ftp: Asychronous Pluggable Protocol Handler
+\Classes\PROTOCOLS\Handler\ftp\CLSID\{79eac9e3-baf9-11ce-8c82-00aa004ba90b}
+\Classes\CLSID\{79eac9e3-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\(default)\C:\Windows\system32\urlmon.dll
+\Classes\CLSID\{79eac9e3-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{79eac9e3-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\(default)\C:\Windows\SysWOW64\urlmon.dll
+\Classes\Wow6432Node\CLSID\{79eac9e3-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\ThreadingModel\Apartment
+\Classes\PROTOCOLS\Handler\http\(default)\http: Asychronous Pluggable Protocol Handler
+\Classes\PROTOCOLS\Handler\http\CLSID\{79eac9e2-baf9-11ce-8c82-00aa004ba90b}
+\Classes\CLSID\{79eac9e2-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\(default)\C:\Windows\system32\urlmon.dll
+\Classes\CLSID\{79eac9e2-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{79eac9e2-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\(default)\C:\Windows\SysWOW64\urlmon.dll
+\Classes\Wow6432Node\CLSID\{79eac9e2-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\ThreadingModel\Apartment
+\Classes\PROTOCOLS\Handler\https\(default)\https: Asychronous Pluggable Protocol Handler
+\Classes\PROTOCOLS\Handler\https\CLSID\{79eac9e5-baf9-11ce-8c82-00aa004ba90b}
+\Classes\CLSID\{79eac9e5-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\(default)\C:\Windows\system32\urlmon.dll
+\Classes\CLSID\{79eac9e5-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{79eac9e5-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\(default)\C:\Windows\SysWOW64\urlmon.dll
+\Classes\Wow6432Node\CLSID\{79eac9e5-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\ThreadingModel\Apartment
+\Classes\PROTOCOLS\Handler\its\(default)\its: Asychronous Pluggable Protocol Handler
+\Classes\PROTOCOLS\Handler\its\CLSID\{9D148291-B9C8-11D0-A4CC-0000F80149F6}
+\Classes\CLSID\{9D148291-B9C8-11D0-A4CC-0000F80149F6}\InProcServer32\(default)\%SystemRoot%\System32\itss.dll
+\Classes\CLSID\{9D148291-B9C8-11D0-A4CC-0000F80149F6}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{9D148291-B9C8-11D0-A4CC-0000F80149F6}\InProcServer32\(default)\%SystemRoot%\System32\itss.dll
+\Classes\Wow6432Node\CLSID\{9D148291-B9C8-11D0-A4CC-0000F80149F6}\InProcServer32\ThreadingModel\Both
+\Classes\PROTOCOLS\Handler\javascript\CLSID\{3050F3B2-98B5-11CF-BB82-00AA00BDCE0B}
+\Classes\CLSID\{3050F3B2-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\(default)\C:\Windows\System32\mshtml.dll
+\Classes\CLSID\{3050F3B2-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{3050F3B2-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\(default)\C:\Windows\SysWOW64\mshtml.dll
+\Classes\Wow6432Node\CLSID\{3050F3B2-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\ThreadingModel\Apartment
+\Classes\PROTOCOLS\Handler\local\(default)\file:, local: Asychronous Pluggable Protocol Handler
+\Classes\PROTOCOLS\Handler\local\CLSID\{79eac9e7-baf9-11ce-8c82-00aa004ba90b}
+\Classes\CLSID\{79eac9e7-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\(default)\C:\Windows\system32\urlmon.dll
+\Classes\CLSID\{79eac9e7-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{79eac9e7-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\(default)\C:\Windows\SysWOW64\urlmon.dll
+\Classes\Wow6432Node\CLSID\{79eac9e7-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\ThreadingModel\Apartment
+\Classes\PROTOCOLS\Handler\mailto\CLSID\{3050f3DA-98B5-11CF-BB82-00AA00BDCE0B}
+\Classes\CLSID\{3050f3DA-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\(default)\C:\Windows\System32\mshtml.dll
+\Classes\CLSID\{3050f3DA-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{3050f3DA-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\(default)\C:\Windows\SysWOW64\mshtml.dll
+\Classes\Wow6432Node\CLSID\{3050f3DA-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\ThreadingModel\Apartment
+\Classes\PROTOCOLS\Handler\mhtml\(default)\MHTML Asynchronous Pluggable Protocol Handler
+\Classes\PROTOCOLS\Handler\mhtml\CLSID\{05300401-BCBC-11d0-85E3-00C04FD85AB4}
+\Classes\CLSID\{05300401-BCBC-11d0-85E3-00C04FD85AB4}\InProcServer32\(default)\%SystemRoot%\system32\inetcomm.dll
+\Classes\CLSID\{05300401-BCBC-11d0-85E3-00C04FD85AB4}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{05300401-BCBC-11d0-85E3-00C04FD85AB4}\InProcServer32\(default)\%SystemRoot%\system32\inetcomm.dll
+\Classes\Wow6432Node\CLSID\{05300401-BCBC-11d0-85E3-00C04FD85AB4}\InProcServer32\ThreadingModel\Both
+\Classes\PROTOCOLS\Handler\mk\(default)\mk: Asychronous Pluggable Protocol Handler
+\Classes\PROTOCOLS\Handler\mk\CLSID\{79eac9e6-baf9-11ce-8c82-00aa004ba90b}
+\Classes\CLSID\{79eac9e6-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\(default)\C:\Windows\system32\urlmon.dll
+\Classes\CLSID\{79eac9e6-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{79eac9e6-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\(default)\C:\Windows\SysWOW64\urlmon.dll
+\Classes\Wow6432Node\CLSID\{79eac9e6-baf9-11ce-8c82-00aa004ba90b}\InProcServer32\ThreadingModel\Apartment
+\Classes\PROTOCOLS\Handler\ms-its\(default)\ms-its: Asychronous Pluggable Protocol Handler
+\Classes\PROTOCOLS\Handler\ms-its\CLSID\{9D148291-B9C8-11D0-A4CC-0000F80149F6}
+\Classes\CLSID\{9D148291-B9C8-11D0-A4CC-0000F80149F6}\InProcServer32\(default)\%SystemRoot%\System32\itss.dll
+\Classes\CLSID\{9D148291-B9C8-11D0-A4CC-0000F80149F6}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{9D148291-B9C8-11D0-A4CC-0000F80149F6}\InProcServer32\(default)\%SystemRoot%\System32\itss.dll
+\Classes\Wow6432Node\CLSID\{9D148291-B9C8-11D0-A4CC-0000F80149F6}\InProcServer32\ThreadingModel\Both
+\Classes\PROTOCOLS\Handler\res\CLSID\{3050F3BC-98B5-11CF-BB82-00AA00BDCE0B}
+\Classes\CLSID\{3050F3BC-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\(default)\C:\Windows\System32\mshtml.dll
+\Classes\CLSID\{3050F3BC-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{3050F3BC-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\(default)\C:\Windows\SysWOW64\mshtml.dll
+\Classes\Wow6432Node\CLSID\{3050F3BC-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\ThreadingModel\Apartment
+\Classes\PROTOCOLS\Handler\tv\(default)\TV: Pluggable Protocol
+\Classes\PROTOCOLS\Handler\tv\CLSID\{CBD30858-AF45-11D2-B6D6-00C04FBBDE6E}
+\Classes\CLSID\{CBD30858-AF45-11D2-B6D6-00C04FBBDE6E}\InProcServer32\(default)\C:\Windows\System32\msvidctl.dll
+\Classes\CLSID\{CBD30858-AF45-11D2-B6D6-00C04FBBDE6E}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{CBD30858-AF45-11D2-B6D6-00C04FBBDE6E}\InProcServer32\(default)\C:\Windows\SysWOW64\msvidctl.dll
+\Classes\Wow6432Node\CLSID\{CBD30858-AF45-11D2-B6D6-00C04FBBDE6E}\InProcServer32\ThreadingModel\Apartment
+\Classes\PROTOCOLS\Handler\vbscript\CLSID\{3050F3B2-98B5-11CF-BB82-00AA00BDCE0B}
+\Classes\CLSID\{3050F3B2-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\(default)\C:\Windows\System32\mshtml.dll
+\Classes\CLSID\{3050F3B2-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{3050F3B2-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\(default)\C:\Windows\SysWOW64\mshtml.dll
+\Classes\Wow6432Node\CLSID\{3050F3B2-98B5-11CF-BB82-00AA00BDCE0B}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows NT\CurrentVersion\Drivers32\vidc.mrle\msrle32.dll
+\Microsoft\Windows NT\CurrentVersion\Drivers32\vidc.msvc\msvidc32.dll
+\Microsoft\Windows NT\CurrentVersion\Drivers32\msacm.imaadpcm\imaadp32.acm
+\Microsoft\Windows NT\CurrentVersion\Drivers32\msacm.msg711\msg711.acm
+\Microsoft\Windows NT\CurrentVersion\Drivers32\msacm.msgsm610\msgsm32.acm
+\Microsoft\Windows NT\CurrentVersion\Drivers32\msacm.msadpcm\msadp32.acm
+\Microsoft\Windows NT\CurrentVersion\Drivers32\midimapper\midimap.dll
+\Microsoft\Windows NT\CurrentVersion\Drivers32\wavemapper\msacm32.drv
+\Microsoft\Windows NT\CurrentVersion\Drivers32\vidc.uyvy\msyuv.dll
+\Microsoft\Windows NT\CurrentVersion\Drivers32\vidc.yuy2\msyuv.dll
+\Microsoft\Windows NT\CurrentVersion\Drivers32\vidc.yvyu\msyuv.dll
+\Microsoft\Windows NT\CurrentVersion\Drivers32\vidc.iyuv\iyuv_32.dll
+\Microsoft\Windows NT\CurrentVersion\Drivers32\vidc.i420\iyuv_32.dll
+\Microsoft\Windows NT\CurrentVersion\Drivers32\vidc.yvu9\tsbyuv.dll
+\Microsoft\Windows NT\CurrentVersion\Drivers32\msacm.l3acm\C:\Windows\System32\l3codeca.acm
+\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32\vidc.mrle\msrle32.dll
+\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32\vidc.msvc\msvidc32.dll
+\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32\msacm.imaadpcm\imaadp32.acm
+\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32\msacm.msg711\msg711.acm
+\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32\msacm.msgsm610\msgsm32.acm
+\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32\msacm.msadpcm\msadp32.acm
+\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32\midimapper\midimap.dll
+\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32\wavemapper\msacm32.drv
+\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32\vidc.uyvy\msyuv.dll
+\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32\vidc.yuy2\msyuv.dll
+\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32\vidc.yvyu\msyuv.dll
+\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32\vidc.iyuv\iyuv_32.dll
+\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32\vidc.i420\iyuv_32.dll
+\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32\vidc.yvu9\tsbyuv.dll
+\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32\msacm.l3acm\C:\Windows\SysWOW64\l3codeca.acm
+\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32\vidc.cvid\iccvid.dll
+\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\EnhancedStorageShell\(default)\{D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D}
+\Classes\CLSID\{D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D}\InProcServer32\(default)\%SystemRoot%\system32\EhStorShell.dll
+\Classes\CLSID\{D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D}\InProcServer32\(default)\%SystemRoot%\system32\EhStorShell.dll
+\Classes\Wow6432Node\CLSID\{D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\Offline Files\(default)\{4E77131D-3629-431c-9818-C5679DC83E81}
+\Classes\CLSID\{4E77131D-3629-431c-9818-C5679DC83E81}\InProcServer32\(default)\%SystemRoot%\System32\cscui.dll
+\Classes\CLSID\{4E77131D-3629-431c-9818-C5679DC83E81}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\SharingPrivate\(default)\{08244EE6-92F0-47f2-9FC9-929BAA2E7235}
+\Classes\CLSID\{08244EE6-92F0-47f2-9FC9-929BAA2E7235}\InProcServer32\(default)\%SystemRoot%\system32\ntshrui.dll
+\Classes\CLSID\{08244EE6-92F0-47f2-9FC9-929BAA2E7235}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{08244EE6-92F0-47f2-9FC9-929BAA2E7235}\InProcServer32\(default)\%SystemRoot%\system32\ntshrui.dll
+\Classes\Wow6432Node\CLSID\{08244EE6-92F0-47f2-9FC9-929BAA2E7235}\InProcServer32\ThreadingModel\Apartment
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellIconOverlayIdentifiers\EnhancedStorageShell\(default)\{D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D}
+\Classes\CLSID\{D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D}\InProcServer32\(default)\%SystemRoot%\system32\EhStorShell.dll
+\Classes\CLSID\{D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D}\InProcServer32\(default)\%SystemRoot%\system32\EhStorShell.dll
+\Classes\Wow6432Node\CLSID\{D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D}\InProcServer32\ThreadingModel\Apartment
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellIconOverlayIdentifiers\SharingPrivate\(default)\{08244EE6-92F0-47f2-9FC9-929BAA2E7235}
+\Classes\CLSID\{08244EE6-92F0-47f2-9FC9-929BAA2E7235}\InProcServer32\(default)\%SystemRoot%\system32\ntshrui.dll
+\Classes\CLSID\{08244EE6-92F0-47f2-9FC9-929BAA2E7235}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{08244EE6-92F0-47f2-9FC9-929BAA2E7235}\InProcServer32\(default)\%SystemRoot%\system32\ntshrui.dll
+\Classes\Wow6432Node\CLSID\{08244EE6-92F0-47f2-9FC9-929BAA2E7235}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\{00C6D95F-329C-409a-81D7-C46C66EA7F33}\
+\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\{80009818-f38f-4af1-87b5-eadab9433e58}\MF ADTS Property Handler
+\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\{08165EA0-E946-11CF-9C87-00AA005127ED}\WebCheckWebCrawler
+\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\{F5175861-2688-11d0-9C5E-00AA00A45957}\Subscription Folder
+\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\{E6FB5E20-DE35-11CF-9C87-00AA005127ED}\WebCheck
+\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\{7D559C10-9FE9-11d0-93F7-00AA0059CE02}\Code Download Agent
+\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\{ABBE31D0-6DAE-11D0-BECA-00C04FD940BE}\Subscription Mgr
+\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\{7FC0B86E-5FA7-11d1-BC7C-00C04FD929DB}\WebCheck SyncMgr Handler
+\Classes\CLSID\{00C6D95F-329C-409a-81D7-C46C66EA7F33}\InProcServer32\(default)\%SystemRoot%\System32\shdocvw.dll
+\Classes\CLSID\{00C6D95F-329C-409a-81D7-C46C66EA7F33}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{00C6D95F-329C-409a-81D7-C46C66EA7F33}\InProcServer32\(default)\%SystemRoot%\System32\shdocvw.dll
+\Classes\Wow6432Node\CLSID\{00C6D95F-329C-409a-81D7-C46C66EA7F33}\InProcServer32\ThreadingModel\Apartment
+\Classes\CLSID\{80009818-f38f-4af1-87b5-eadab9433e58}\InProcServer32\(default)\%SystemRoot%\System32\mf.dll
+\Classes\CLSID\{80009818-f38f-4af1-87b5-eadab9433e58}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{80009818-f38f-4af1-87b5-eadab9433e58}\InProcServer32\(default)\%SystemRoot%\System32\mf.dll
+\Classes\Wow6432Node\CLSID\{80009818-f38f-4af1-87b5-eadab9433e58}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{08165EA0-E946-11CF-9C87-00AA005127ED}\InProcServer32\(default)\C:\Windows\System32\webcheck.dll
+\Classes\CLSID\{08165EA0-E946-11CF-9C87-00AA005127ED}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{08165EA0-E946-11CF-9C87-00AA005127ED}\InProcServer32\(default)\C:\Windows\SysWOW64\webcheck.dll
+\Classes\Wow6432Node\CLSID\{08165EA0-E946-11CF-9C87-00AA005127ED}\InProcServer32\ThreadingModel\Apartment
+\Classes\CLSID\{F5175861-2688-11d0-9C5E-00AA00A45957}\InProcServer32\(default)\C:\Windows\System32\webcheck.dll
+\Classes\CLSID\{F5175861-2688-11d0-9C5E-00AA00A45957}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{F5175861-2688-11d0-9C5E-00AA00A45957}\InProcServer32\(default)\C:\Windows\SysWOW64\webcheck.dll
+\Classes\Wow6432Node\CLSID\{F5175861-2688-11d0-9C5E-00AA00A45957}\InProcServer32\ThreadingModel\Apartment
+\Classes\CLSID\{7D559C10-9FE9-11d0-93F7-00AA0059CE02}\InProcServer32\(default)\C:\Windows\System32\webcheck.dll
+\Classes\CLSID\{7D559C10-9FE9-11d0-93F7-00AA0059CE02}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{7D559C10-9FE9-11d0-93F7-00AA0059CE02}\InProcServer32\(default)\C:\Windows\SysWOW64\webcheck.dll
+\Classes\Wow6432Node\CLSID\{7D559C10-9FE9-11d0-93F7-00AA0059CE02}\InProcServer32\ThreadingModel\Apartment
+\Classes\CLSID\{ABBE31D0-6DAE-11D0-BECA-00C04FD940BE}\InProcServer32\(default)\C:\Windows\System32\webcheck.dll
+\Classes\CLSID\{ABBE31D0-6DAE-11D0-BECA-00C04FD940BE}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{ABBE31D0-6DAE-11D0-BECA-00C04FD940BE}\InProcServer32\(default)\C:\Windows\SysWOW64\webcheck.dll
+\Classes\Wow6432Node\CLSID\{ABBE31D0-6DAE-11D0-BECA-00C04FD940BE}\InProcServer32\ThreadingModel\Apartment
+\Classes\CLSID\{7FC0B86E-5FA7-11d1-BC7C-00C04FD929DB}\InProcServer32\(default)\C:\Windows\System32\webcheck.dll
+\Classes\CLSID\{7FC0B86E-5FA7-11d1-BC7C-00C04FD929DB}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{7FC0B86E-5FA7-11d1-BC7C-00C04FD929DB}\InProcServer32\(default)\C:\Windows\SysWOW64\webcheck.dll
+\Classes\Wow6432Node\CLSID\{7FC0B86E-5FA7-11d1-BC7C-00C04FD929DB}\InProcServer32\ThreadingModel\Apartment
+\Wow6432Node\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\{00C6D95F-329C-409a-81D7-C46C66EA7F33}\
+\Wow6432Node\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\{80009818-f38f-4af1-87b5-eadab9433e58}\MF ADTS Property Handler
+\Wow6432Node\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\{08165EA0-E946-11CF-9C87-00AA005127ED}\WebCheckWebCrawler
+\Wow6432Node\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\{F5175861-2688-11d0-9C5E-00AA00A45957}\Subscription Folder
+\Wow6432Node\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\{E6FB5E20-DE35-11CF-9C87-00AA005127ED}\WebCheck
+\Wow6432Node\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\{7D559C10-9FE9-11d0-93F7-00AA0059CE02}\Code Download Agent
+\Wow6432Node\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\{ABBE31D0-6DAE-11D0-BECA-00C04FD940BE}\Subscription Mgr
+\Wow6432Node\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved\{7FC0B86E-5FA7-11d1-BC7C-00C04FD929DB}\WebCheck SyncMgr Handler
+\Classes\CLSID\{00C6D95F-329C-409a-81D7-C46C66EA7F33}\InProcServer32\(default)\%SystemRoot%\System32\shdocvw.dll
+\Classes\CLSID\{00C6D95F-329C-409a-81D7-C46C66EA7F33}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{00C6D95F-329C-409a-81D7-C46C66EA7F33}\InProcServer32\(default)\%SystemRoot%\System32\shdocvw.dll
+\Classes\Wow6432Node\CLSID\{00C6D95F-329C-409a-81D7-C46C66EA7F33}\InProcServer32\ThreadingModel\Apartment
+\Classes\CLSID\{80009818-f38f-4af1-87b5-eadab9433e58}\InProcServer32\(default)\%SystemRoot%\System32\mf.dll
+\Classes\CLSID\{80009818-f38f-4af1-87b5-eadab9433e58}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{80009818-f38f-4af1-87b5-eadab9433e58}\InProcServer32\(default)\%SystemRoot%\System32\mf.dll
+\Classes\Wow6432Node\CLSID\{80009818-f38f-4af1-87b5-eadab9433e58}\InProcServer32\ThreadingModel\Both
+\Classes\CLSID\{08165EA0-E946-11CF-9C87-00AA005127ED}\InProcServer32\(default)\C:\Windows\System32\webcheck.dll
+\Classes\CLSID\{08165EA0-E946-11CF-9C87-00AA005127ED}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{08165EA0-E946-11CF-9C87-00AA005127ED}\InProcServer32\(default)\C:\Windows\SysWOW64\webcheck.dll
+\Classes\Wow6432Node\CLSID\{08165EA0-E946-11CF-9C87-00AA005127ED}\InProcServer32\ThreadingModel\Apartment
+\Classes\CLSID\{F5175861-2688-11d0-9C5E-00AA00A45957}\InProcServer32\(default)\C:\Windows\System32\webcheck.dll
+\Classes\CLSID\{F5175861-2688-11d0-9C5E-00AA00A45957}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{F5175861-2688-11d0-9C5E-00AA00A45957}\InProcServer32\(default)\C:\Windows\SysWOW64\webcheck.dll
+\Classes\Wow6432Node\CLSID\{F5175861-2688-11d0-9C5E-00AA00A45957}\InProcServer32\ThreadingModel\Apartment
+\Classes\CLSID\{7D559C10-9FE9-11d0-93F7-00AA0059CE02}\InProcServer32\(default)\C:\Windows\System32\webcheck.dll
+\Classes\CLSID\{7D559C10-9FE9-11d0-93F7-00AA0059CE02}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{7D559C10-9FE9-11d0-93F7-00AA0059CE02}\InProcServer32\(default)\C:\Windows\SysWOW64\webcheck.dll
+\Classes\Wow6432Node\CLSID\{7D559C10-9FE9-11d0-93F7-00AA0059CE02}\InProcServer32\ThreadingModel\Apartment
+\Classes\CLSID\{ABBE31D0-6DAE-11D0-BECA-00C04FD940BE}\InProcServer32\(default)\C:\Windows\System32\webcheck.dll
+\Classes\CLSID\{ABBE31D0-6DAE-11D0-BECA-00C04FD940BE}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{ABBE31D0-6DAE-11D0-BECA-00C04FD940BE}\InProcServer32\(default)\C:\Windows\SysWOW64\webcheck.dll
+\Classes\Wow6432Node\CLSID\{ABBE31D0-6DAE-11D0-BECA-00C04FD940BE}\InProcServer32\ThreadingModel\Apartment
+\Classes\CLSID\{7FC0B86E-5FA7-11d1-BC7C-00C04FD929DB}\InProcServer32\(default)\C:\Windows\System32\webcheck.dll
+\Classes\CLSID\{7FC0B86E-5FA7-11d1-BC7C-00C04FD929DB}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{7FC0B86E-5FA7-11d1-BC7C-00C04FD929DB}\InProcServer32\(default)\C:\Windows\SysWOW64\webcheck.dll
+\Classes\Wow6432Node\CLSID\{7FC0B86E-5FA7-11d1-BC7C-00C04FD929DB}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\DV Muxer
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{129D7E40-C10D-11D0-AFB9-00AA00B67A42}
+\Classes\CLSID\{129D7E40-C10D-11D0-AFB9-00AA00B67A42}\InProcServer32\(default)\C:\Windows\system32\qdv.dll
+\Classes\CLSID\{129D7E40-C10D-11D0-AFB9-00AA00B67A42}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{129D7E40-C10D-11D0-AFB9-00AA00B67A42}\InProcServer32\(default)\C:\Windows\SysWOW64\qdv.dll
+\Classes\Wow6432Node\CLSID\{129D7E40-C10D-11D0-AFB9-00AA00B67A42}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{1643E180-90F5-11CE-97D5-00AA0055595A}
+\Classes\CLSID\{1643E180-90F5-11CE-97D5-00AA0055595A}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{1643E180-90F5-11CE-97D5-00AA0055595A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{1643E180-90F5-11CE-97D5-00AA0055595A}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{1643E180-90F5-11CE-97D5-00AA0055595A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Color Space Converter
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\WM ASF Reader
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{187463A0-5BB7-11D3-ACBE-0080C75E246E}
+\Classes\CLSID\{187463A0-5BB7-11D3-ACBE-0080C75E246E}\InProcServer32\(default)\C:\Windows\system32\qasf.dll
+\Classes\CLSID\{187463A0-5BB7-11D3-ACBE-0080C75E246E}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{187463A0-5BB7-11D3-ACBE-0080C75E246E}\InProcServer32\(default)\C:\Windows\SysWOW64\qasf.dll
+\Classes\Wow6432Node\CLSID\{187463A0-5BB7-11D3-ACBE-0080C75E246E}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Screen Capture filter
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{1A56451B-1315-4012-861E-8587333DD631}
+\Classes\CLSID\{1A56451B-1315-4012-861E-8587333DD631}\InProcServer32\(default)\C:\Windows\System32\wmpsrcwp.dll
+\Classes\CLSID\{1A56451B-1315-4012-861E-8587333DD631}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{1A56451B-1315-4012-861E-8587333DD631}\InProcServer32\(default)\C:\Windows\SysWOW64\wmpsrcwp.dll
+\Classes\Wow6432Node\CLSID\{1A56451B-1315-4012-861E-8587333DD631}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{1B544C20-FD0B-11CE-8C63-00AA0044B51E}
+\Classes\CLSID\{1B544C20-FD0B-11CE-8C63-00AA0044B51E}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{1B544C20-FD0B-11CE-8C63-00AA0044B51E}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{1B544C20-FD0B-11CE-8C63-00AA0044B51E}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{1B544C20-FD0B-11CE-8C63-00AA0044B51E}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\AVI Splitter
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{1DA08500-9EDC-11CF-BC10-00AA00AC74F6}
+\Classes\CLSID\{1DA08500-9EDC-11CF-BC10-00AA00AC74F6}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{1DA08500-9EDC-11CF-BC10-00AA00AC74F6}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{1DA08500-9EDC-11CF-BC10-00AA00AC74F6}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{1DA08500-9EDC-11CF-BC10-00AA00AC74F6}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\VGA 16 Color Ditherer
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\SBE2MediaTypeProfile
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{1f26a602-2b5c-4b63-b8e8-9ea5c1a7dc2e}
+\Classes\CLSID\{1f26a602-2b5c-4b63-b8e8-9ea5c1a7dc2e}\InProcServer32\(default)\C:\Windows\System32\sbe.dll
+\Classes\CLSID\{1f26a602-2b5c-4b63-b8e8-9ea5c1a7dc2e}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{1f26a602-2b5c-4b63-b8e8-9ea5c1a7dc2e}\InProcServer32\(default)\C:\Windows\SysWOW64\sbe.dll
+\Classes\Wow6432Node\CLSID\{1f26a602-2b5c-4b63-b8e8-9ea5c1a7dc2e}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Microsoft DTV-DVD Video Decoder
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{212690FB-83E5-4526-8FD7-74478B7939CD}
+\Classes\CLSID\{212690FB-83E5-4526-8FD7-74478B7939CD}\InProcServer32\(default)\C:\Windows\System32\msmpeg2vdec.dll
+\Classes\CLSID\{212690FB-83E5-4526-8FD7-74478B7939CD}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{212690FB-83E5-4526-8FD7-74478B7939CD}\InProcServer32\(default)\C:\Windows\SysWOW64\msmpeg2vdec.dll
+\Classes\Wow6432Node\CLSID\{212690FB-83E5-4526-8FD7-74478B7939CD}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\AC3 Parser Filter
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{280A3020-86CF-11D1-ABE6-00A0C905F375}
+\Classes\CLSID\{280A3020-86CF-11D1-ABE6-00A0C905F375}\InProcServer32\(default)\C:\Windows\System32\mpg2splt.ax
+\Classes\CLSID\{280A3020-86CF-11D1-ABE6-00A0C905F375}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{280A3020-86CF-11D1-ABE6-00A0C905F375}\InProcServer32\(default)\C:\Windows\SysWOW64\mpg2splt.ax
+\Classes\Wow6432Node\CLSID\{280A3020-86CF-11D1-ABE6-00A0C905F375}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\StreamBufferSink
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{2DB47AE5-CF39-43C2-B4D6-0CD8D90946F4}
+\Classes\CLSID\{2DB47AE5-CF39-43C2-B4D6-0CD8D90946F4}\InProcServer32\(default)\C:\Windows\System32\sbe.dll
+\Classes\CLSID\{2DB47AE5-CF39-43C2-B4D6-0CD8D90946F4}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{2DB47AE5-CF39-43C2-B4D6-0CD8D90946F4}\InProcServer32\(default)\C:\Windows\SysWOW64\sbe.dll
+\Classes\Wow6432Node\CLSID\{2DB47AE5-CF39-43C2-B4D6-0CD8D90946F4}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{301056D0-6DFF-11D2-9EEB-006008039E37}
+\Classes\CLSID\{301056D0-6DFF-11D2-9EEB-006008039E37}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{301056D0-6DFF-11D2-9EEB-006008039E37}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{301056D0-6DFF-11D2-9EEB-006008039E37}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{301056D0-6DFF-11D2-9EEB-006008039E37}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\MJPEG Decompressor
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{336475D0-942A-11CE-A870-00AA002FEAB5}
+\Classes\CLSID\{336475D0-942A-11CE-A870-00AA002FEAB5}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{336475D0-942A-11CE-A870-00AA002FEAB5}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{336475D0-942A-11CE-A870-00AA002FEAB5}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{336475D0-942A-11CE-A870-00AA002FEAB5}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\MPEG-I Stream Splitter
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{33FACFE0-A9BE-11D0-A520-00A0D10129C0}
+\Classes\CLSID\{33FACFE0-A9BE-11D0-A520-00A0D10129C0}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{33FACFE0-A9BE-11D0-A520-00A0D10129C0}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{33FACFE0-A9BE-11D0-A520-00A0D10129C0}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{33FACFE0-A9BE-11D0-A520-00A0D10129C0}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\SAMI (CC) Parser
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\VBI Codec
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{370A1D5D-DDEB-418C-81CD-189E0D4FA443}
+\Classes\CLSID\{370A1D5D-DDEB-418C-81CD-189E0D4FA443}\InProcServer32\(default)\C:\Windows\System32\VBICodec.ax
+\Classes\CLSID\{370A1D5D-DDEB-418C-81CD-189E0D4FA443}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{370A1D5D-DDEB-418C-81CD-189E0D4FA443}\InProcServer32\(default)\C:\Windows\SysWOW64\VBICodec.ax
+\Classes\Wow6432Node\CLSID\{370A1D5D-DDEB-418C-81CD-189E0D4FA443}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\MPEG-2 Splitter
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{3AE86B20-7BE8-11D1-ABE6-00A0C905F375}
+\Classes\CLSID\{3AE86B20-7BE8-11D1-ABE6-00A0C905F375}\InProcServer32\(default)\C:\Windows\System32\mpg2splt.ax
+\Classes\CLSID\{3AE86B20-7BE8-11D1-ABE6-00A0C905F375}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{3AE86B20-7BE8-11D1-ABE6-00A0C905F375}\InProcServer32\(default)\C:\Windows\SysWOW64\mpg2splt.ax
+\Classes\Wow6432Node\CLSID\{3AE86B20-7BE8-11D1-ABE6-00A0C905F375}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Closed Captions Analysis Filter
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{3D07A539-35CA-447C-9B05-8D85CE924F9E}
+\Classes\CLSID\{3D07A539-35CA-447C-9B05-8D85CE924F9E}\InProcServer32\(default)\C:\Windows\System32\cca.dll
+\Classes\CLSID\{3D07A539-35CA-447C-9B05-8D85CE924F9E}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{3D07A539-35CA-447C-9B05-8D85CE924F9E}\InProcServer32\(default)\C:\Windows\SysWOW64\cca.dll
+\Classes\Wow6432Node\CLSID\{3D07A539-35CA-447C-9B05-8D85CE924F9E}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\SBE2FileScan
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{3E458037-0CA6-41aa-A594-2AA6C02D709B}
+\Classes\CLSID\{3E458037-0CA6-41aa-A594-2AA6C02D709B}\InProcServer32\(default)\C:\Windows\System32\sbe.dll
+\Classes\CLSID\{3E458037-0CA6-41aa-A594-2AA6C02D709B}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{3E458037-0CA6-41aa-A594-2AA6C02D709B}\InProcServer32\(default)\C:\Windows\SysWOW64\sbe.dll
+\Classes\Wow6432Node\CLSID\{3E458037-0CA6-41aa-A594-2AA6C02D709B}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Microsoft MPEG-2 Video Encoder
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{42150CD9-CA9A-4EA5-9939-30EE037F6E74}
+\Classes\CLSID\{42150CD9-CA9A-4EA5-9939-30EE037F6E74}\InProcServer32\(default)\C:\Windows\System32\msmpeg2enc.dll
+\Classes\CLSID\{42150CD9-CA9A-4EA5-9939-30EE037F6E74}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{42150CD9-CA9A-4EA5-9939-30EE037F6E74}\InProcServer32\(default)\C:\Windows\SysWOW64\msmpeg2enc.dll
+\Classes\Wow6432Node\CLSID\{42150CD9-CA9A-4EA5-9939-30EE037F6E74}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{48025243-2D39-11CE-875D-00608CB78066}
+\Classes\CLSID\{48025243-2D39-11CE-875D-00608CB78066}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{48025243-2D39-11CE-875D-00608CB78066}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{48025243-2D39-11CE-875D-00608CB78066}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{48025243-2D39-11CE-875D-00608CB78066}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Internal Script Command Renderer
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{4A2286E0-7BEF-11CE-9BD9-0000E202599C}
+\Classes\CLSID\{4A2286E0-7BEF-11CE-9BD9-0000E202599C}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{4A2286E0-7BEF-11CE-9BD9-0000E202599C}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{4A2286E0-7BEF-11CE-9BD9-0000E202599C}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{4A2286E0-7BEF-11CE-9BD9-0000E202599C}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\MPEG Audio Decoder
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\DV Splitter
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{4EB31670-9FC6-11CF-AF6E-00AA00B67A42}
+\Classes\CLSID\{4EB31670-9FC6-11CF-AF6E-00AA00B67A42}\InProcServer32\(default)\C:\Windows\system32\qdv.dll
+\Classes\CLSID\{4EB31670-9FC6-11CF-AF6E-00AA00B67A42}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{4EB31670-9FC6-11CF-AF6E-00AA00B67A42}\InProcServer32\(default)\C:\Windows\SysWOW64\qdv.dll
+\Classes\Wow6432Node\CLSID\{4EB31670-9FC6-11CF-AF6E-00AA00B67A42}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{51B4ABF3-748F-4E3B-A276-C828330E926A}
+\Classes\CLSID\{51B4ABF3-748F-4E3B-A276-C828330E926A}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{51B4ABF3-748F-4E3B-A276-C828330E926A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{51B4ABF3-748F-4E3B-A276-C828330E926A}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{51B4ABF3-748F-4E3B-A276-C828330E926A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Video Mixing Renderer 9
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Microsoft MPEG-2 Encoder
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{5F5AFF4A-2F7F-4279-88C2-CD88EB39D144}
+\Classes\CLSID\{5F5AFF4A-2F7F-4279-88C2-CD88EB39D144}\InProcServer32\(default)\C:\Windows\System32\msmpeg2enc.dll
+\Classes\CLSID\{5F5AFF4A-2F7F-4279-88C2-CD88EB39D144}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{5F5AFF4A-2F7F-4279-88C2-CD88EB39D144}\InProcServer32\(default)\C:\Windows\SysWOW64\msmpeg2enc.dll
+\Classes\Wow6432Node\CLSID\{5F5AFF4A-2F7F-4279-88C2-CD88EB39D144}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{6A08CF80-0E18-11CF-A24D-0020AFD79767}
+\Classes\CLSID\{6A08CF80-0E18-11CF-A24D-0020AFD79767}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{6A08CF80-0E18-11CF-A24D-0020AFD79767}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{6A08CF80-0E18-11CF-A24D-0020AFD79767}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{6A08CF80-0E18-11CF-A24D-0020AFD79767}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\ACM Wrapper
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{6BC1CFFA-8FC1-4261-AC22-CFB4CC38DB50}
+\Classes\CLSID\{6BC1CFFA-8FC1-4261-AC22-CFB4CC38DB50}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{6BC1CFFA-8FC1-4261-AC22-CFB4CC38DB50}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{6BC1CFFA-8FC1-4261-AC22-CFB4CC38DB50}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{6BC1CFFA-8FC1-4261-AC22-CFB4CC38DB50}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Video Renderer
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\MPEG-2 Video Stream Analyzer
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{6CFAD761-735D-4AA5-8AFC-AF91A7D61EBA}
+\Classes\CLSID\{6CFAD761-735D-4AA5-8AFC-AF91A7D61EBA}\InProcServer32\(default)\C:\Windows\System32\sbe.dll
+\Classes\CLSID\{6CFAD761-735D-4AA5-8AFC-AF91A7D61EBA}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{6CFAD761-735D-4AA5-8AFC-AF91A7D61EBA}\InProcServer32\(default)\C:\Windows\SysWOW64\sbe.dll
+\Classes\Wow6432Node\CLSID\{6CFAD761-735D-4AA5-8AFC-AF91A7D61EBA}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Line 21 Decoder
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{6E8D4A20-310C-11D0-B79A-00AA003767A7}
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{6F26A6CD-967B-47FD-874A-7AED2C9D25A2}
+\Classes\CLSID\{6F26A6CD-967B-47FD-874A-7AED2C9D25A2}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{6F26A6CD-967B-47FD-874A-7AED2C9D25A2}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{6F26A6CD-967B-47FD-874A-7AED2C9D25A2}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{6F26A6CD-967B-47FD-874A-7AED2C9D25A2}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Video Port Manager
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{70E102B0-5556-11CE-97C0-00AA0055595A}
+\Classes\CLSID\{70E102B0-5556-11CE-97C0-00AA0055595A}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{70E102B0-5556-11CE-97C0-00AA0055595A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{70E102B0-5556-11CE-97C0-00AA0055595A}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{70E102B0-5556-11CE-97C0-00AA0055595A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Video Renderer
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\VPS Decoder
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{7B3BC2A0-AA50-4ae7-BD44-B03649EC87C2}
+\Classes\CLSID\{7B3BC2A0-AA50-4ae7-BD44-B03649EC87C2}\InProcServer32\(default)\C:\Windows\System32\WSTPager.ax
+\Classes\CLSID\{7B3BC2A0-AA50-4ae7-BD44-B03649EC87C2}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{7B3BC2A0-AA50-4ae7-BD44-B03649EC87C2}\InProcServer32\(default)\C:\Windows\SysWOW64\WSTPager.ax
+\Classes\Wow6432Node\CLSID\{7B3BC2A0-AA50-4ae7-BD44-B03649EC87C2}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\WM ASF Writer
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{7C23220E-55BB-11D3-8B16-00C04FB6BD3D}
+\Classes\CLSID\{7C23220E-55BB-11D3-8B16-00C04FB6BD3D}\InProcServer32\(default)\C:\Windows\system32\qasf.dll
+\Classes\CLSID\{7C23220E-55BB-11D3-8B16-00C04FB6BD3D}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{7C23220E-55BB-11D3-8B16-00C04FB6BD3D}\InProcServer32\(default)\C:\Windows\SysWOW64\qasf.dll
+\Classes\Wow6432Node\CLSID\{7C23220E-55BB-11D3-8B16-00C04FB6BD3D}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\VBI Surface Allocator
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{814B9800-1C88-11D1-BAD9-00609744111A}
+\Classes\CLSID\{814B9800-1C88-11D1-BAD9-00609744111A}\InProcServer32\(default)\C:\Windows\System32\vbisurf.ax
+\Classes\CLSID\{814B9800-1C88-11D1-BAD9-00609744111A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{814B9800-1C88-11D1-BAD9-00609744111A}\InProcServer32\(default)\C:\Windows\SysWOW64\vbisurf.ax
+\Classes\Wow6432Node\CLSID\{814B9800-1C88-11D1-BAD9-00609744111A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\File writer
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{8596E5F0-0DA5-11D0-BD21-00A0C911CE86}
+\Classes\CLSID\{8596E5F0-0DA5-11D0-BD21-00A0C911CE86}\InProcServer32\(default)\C:\Windows\system32\qcap.dll
+\Classes\CLSID\{8596E5F0-0DA5-11D0-BD21-00A0C911CE86}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{8596E5F0-0DA5-11D0-BD21-00A0C911CE86}\InProcServer32\(default)\C:\Windows\SysWOW64\qcap.dll
+\Classes\Wow6432Node\CLSID\{8596E5F0-0DA5-11D0-BD21-00A0C911CE86}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\iTV Data Sink
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{88EBC1EE-F90A-484A-B9C5-8F9C0F37A828}
+\Classes\CLSID\{88EBC1EE-F90A-484A-B9C5-8F9C0F37A828}\InProcServer32\(default)\C:\Windows\System32\itvdata.dll
+\Classes\CLSID\{88EBC1EE-F90A-484A-B9C5-8F9C0F37A828}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{88EBC1EE-F90A-484A-B9C5-8F9C0F37A828}\InProcServer32\(default)\C:\Windows\SysWOW64\itvdata.dll
+\Classes\Wow6432Node\CLSID\{88EBC1EE-F90A-484A-B9C5-8F9C0F37A828}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\iTV Data Capture filter
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{8A51DC27-5A35-4E02-95A3-428BC6244A3C}
+\Classes\CLSID\{8A51DC27-5A35-4E02-95A3-428BC6244A3C}\InProcServer32\(default)\C:\Windows\System32\itvdata.dll
+\Classes\CLSID\{8A51DC27-5A35-4E02-95A3-428BC6244A3C}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{8A51DC27-5A35-4E02-95A3-428BC6244A3C}\InProcServer32\(default)\C:\Windows\SysWOW64\itvdata.dll
+\Classes\Wow6432Node\CLSID\{8A51DC27-5A35-4E02-95A3-428BC6244A3C}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\DVD Navigator
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{9B8C4620-2C1A-11D0-8493-00A02438AD48}
+\Classes\CLSID\{9B8C4620-2C1A-11D0-8493-00A02438AD48}\InProcServer32\(default)\C:\Windows\system32\qdvd.dll
+\Classes\CLSID\{9B8C4620-2C1A-11D0-8493-00A02438AD48}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{9B8C4620-2C1A-11D0-8493-00A02438AD48}\InProcServer32\(default)\C:\Windows\SysWOW64\qdvd.dll
+\Classes\Wow6432Node\CLSID\{9B8C4620-2C1A-11D0-8493-00A02438AD48}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Overlay Mixer2
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{A0025E90-E45B-11D1-ABE9-00A0C905F375}
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{A888DF60-1E90-11CF-AC98-00AA004C0FA9}
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\AVI Draw
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\RDP DShow Redirection Filter
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{AB9D6472-752F-43F6-B29E-61207BDA8E06}
+\Classes\CLSID\{AB9D6472-752F-43F6-B29E-61207BDA8E06}\InProcServer32\(default)\%SystemRoot%\system32\DShowRdpFilter.dll
+\Classes\CLSID\{AB9D6472-752F-43F6-B29E-61207BDA8E06}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{AB9D6472-752F-43F6-B29E-61207BDA8E06}\InProcServer32\(default)\%SystemRoot%\system32\DShowRdpFilter.dll
+\Classes\Wow6432Node\CLSID\{AB9D6472-752F-43F6-B29E-61207BDA8E06}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Microsoft MPEG-2 Audio Encoder
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{ACD453BC-C58A-44D1-BBF5-BFB325BE2D78}
+\Classes\CLSID\{ACD453BC-C58A-44D1-BBF5-BFB325BE2D78}\InProcServer32\(default)\C:\Windows\System32\msmpeg2enc.dll
+\Classes\CLSID\{ACD453BC-C58A-44D1-BBF5-BFB325BE2D78}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{ACD453BC-C58A-44D1-BBF5-BFB325BE2D78}\InProcServer32\(default)\C:\Windows\SysWOW64\msmpeg2enc.dll
+\Classes\Wow6432Node\CLSID\{ACD453BC-C58A-44D1-BBF5-BFB325BE2D78}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\WST Pager
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{AD6C8934-F31B-4F43-B5E4-0541C1452F6F}
+\Classes\CLSID\{AD6C8934-F31B-4F43-B5E4-0541C1452F6F}\InProcServer32\(default)\C:\Windows\System32\WSTPager.ax
+\Classes\CLSID\{AD6C8934-F31B-4F43-B5E4-0541C1452F6F}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{AD6C8934-F31B-4F43-B5E4-0541C1452F6F}\InProcServer32\(default)\C:\Windows\SysWOW64\WSTPager.ax
+\Classes\Wow6432Node\CLSID\{AD6C8934-F31B-4F43-B5E4-0541C1452F6F}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\MPEG-2 Demultiplexer
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{AFB6C280-2C41-11D3-8A60-0000F81E0E4A}
+\Classes\CLSID\{AFB6C280-2C41-11D3-8A60-0000F81E0E4A}\InProcServer32\(default)\C:\Windows\System32\mpg2splt.ax
+\Classes\CLSID\{AFB6C280-2C41-11D3-8A60-0000F81E0E4A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{AFB6C280-2C41-11D3-8A60-0000F81E0E4A}\InProcServer32\(default)\C:\Windows\SysWOW64\mpg2splt.ax
+\Classes\Wow6432Node\CLSID\{AFB6C280-2C41-11D3-8A60-0000F81E0E4A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\DV Video Decoder
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{B1B77C00-C3E4-11CF-AF79-00AA00B67A42}
+\Classes\CLSID\{B1B77C00-C3E4-11CF-AF79-00AA00B67A42}\InProcServer32\(default)\C:\Windows\system32\qdv.dll
+\Classes\CLSID\{B1B77C00-C3E4-11CF-AF79-00AA00B67A42}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{B1B77C00-C3E4-11CF-AF79-00AA00B67A42}\InProcServer32\(default)\C:\Windows\SysWOW64\qdv.dll
+\Classes\Wow6432Node\CLSID\{B1B77C00-C3E4-11CF-AF79-00AA00B67A42}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\SampleGrabber
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{C1F400A0-3F08-11D3-9F0B-006008039E37}
+\Classes\CLSID\{C1F400A0-3F08-11D3-9F0B-006008039E37}\InProcServer32\(default)\C:\Windows\System32\qedit.dll
+\Classes\CLSID\{C1F400A0-3F08-11D3-9F0B-006008039E37}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{C1F400A0-3F08-11D3-9F0B-006008039E37}\InProcServer32\(default)\C:\Windows\SysWOW64\qedit.dll
+\Classes\Wow6432Node\CLSID\{C1F400A0-3F08-11D3-9F0B-006008039E37}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Null Renderer
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{C1F400A4-3F08-11D3-9F0B-006008039E37}
+\Classes\CLSID\{C1F400A4-3F08-11D3-9F0B-006008039E37}\InProcServer32\(default)\C:\Windows\System32\qedit.dll
+\Classes\CLSID\{C1F400A4-3F08-11D3-9F0B-006008039E37}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{C1F400A4-3F08-11D3-9F0B-006008039E37}\InProcServer32\(default)\C:\Windows\SysWOW64\qedit.dll
+\Classes\Wow6432Node\CLSID\{C1F400A4-3F08-11D3-9F0B-006008039E37}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\MPEG-2 Sections and Tables
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{C666E115-BB62-4027-A113-82D643FE2D99}
+\Classes\CLSID\{C666E115-BB62-4027-A113-82D643FE2D99}\InProcServer32\(default)\C:\Windows\System32\Mpeg2Data.ax
+\Classes\CLSID\{C666E115-BB62-4027-A113-82D643FE2D99}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{C666E115-BB62-4027-A113-82D643FE2D99}\InProcServer32\(default)\C:\Windows\SysWOW64\Mpeg2Data.ax
+\Classes\Wow6432Node\CLSID\{C666E115-BB62-4027-A113-82D643FE2D99}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Microsoft AC3 Encoder
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{C6B400E2-20A7-4E58-A2FE-24619682CE6C}
+\Classes\CLSID\{C6B400E2-20A7-4E58-A2FE-24619682CE6C}\InProcServer32\(default)\C:\Windows\System32\msac3enc.dll
+\Classes\CLSID\{C6B400E2-20A7-4E58-A2FE-24619682CE6C}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{C6B400E2-20A7-4E58-A2FE-24619682CE6C}\InProcServer32\(default)\C:\Windows\SysWOW64\msac3enc.dll
+\Classes\Wow6432Node\CLSID\{C6B400E2-20A7-4E58-A2FE-24619682CE6C}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\StreamBufferSource
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{C9F5FE02-F851-4EB5-99EE-AD602AF1E619}
+\Classes\CLSID\{C9F5FE02-F851-4EB5-99EE-AD602AF1E619}\InProcServer32\(default)\C:\Windows\System32\sbe.dll
+\Classes\CLSID\{C9F5FE02-F851-4EB5-99EE-AD602AF1E619}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{C9F5FE02-F851-4EB5-99EE-AD602AF1E619}\InProcServer32\(default)\C:\Windows\SysWOW64\sbe.dll
+\Classes\Wow6432Node\CLSID\{C9F5FE02-F851-4EB5-99EE-AD602AF1E619}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Smart Tee
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{CC58E280-8AA1-11D1-B3F1-00AA003761C5}
+\Classes\CLSID\{CC58E280-8AA1-11D1-B3F1-00AA003761C5}\InProcServer32\(default)\C:\Windows\system32\qcap.dll
+\Classes\CLSID\{CC58E280-8AA1-11D1-B3F1-00AA003761C5}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{CC58E280-8AA1-11D1-B3F1-00AA003761C5}\InProcServer32\(default)\C:\Windows\SysWOW64\qcap.dll
+\Classes\Wow6432Node\CLSID\{CC58E280-8AA1-11D1-B3F1-00AA003761C5}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Overlay Mixer
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{CD8743A1-3736-11D0-9E69-00C04FD7C15B}
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{CF49D4E0-1115-11CE-B03A-0020AF0BA770}
+\Classes\CLSID\{CF49D4E0-1115-11CE-B03A-0020AF0BA770}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{CF49D4E0-1115-11CE-B03A-0020AF0BA770}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{CF49D4E0-1115-11CE-B03A-0020AF0BA770}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{CF49D4E0-1115-11CE-B03A-0020AF0BA770}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\AVI Decompressor
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{D3588AB0-0781-11CE-B03A-0020AF0BA770}
+\Classes\CLSID\{D3588AB0-0781-11CE-B03A-0020AF0BA770}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{D3588AB0-0781-11CE-B03A-0020AF0BA770}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{D3588AB0-0781-11CE-B03A-0020AF0BA770}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{D3588AB0-0781-11CE-B03A-0020AF0BA770}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\AVI/WAV File Source
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{D51BD5A1-7548-11CF-A520-0080C77EF58A}
+\Classes\CLSID\{D51BD5A1-7548-11CF-A520-0080C77EF58A}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{D51BD5A1-7548-11CF-A520-0080C77EF58A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{D51BD5A1-7548-11CF-A520-0080C77EF58A}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{D51BD5A1-7548-11CF-A520-0080C77EF58A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Wave Parser
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{D51BD5A2-7548-11CF-A520-0080C77EF58A}
+\Classes\CLSID\{D51BD5A2-7548-11CF-A520-0080C77EF58A}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{D51BD5A2-7548-11CF-A520-0080C77EF58A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{D51BD5A2-7548-11CF-A520-0080C77EF58A}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{D51BD5A2-7548-11CF-A520-0080C77EF58A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\MIDI Parser
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{D51BD5A3-7548-11CF-A520-0080C77EF58A}
+\Classes\CLSID\{D51BD5A3-7548-11CF-A520-0080C77EF58A}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{D51BD5A3-7548-11CF-A520-0080C77EF58A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{D51BD5A3-7548-11CF-A520-0080C77EF58A}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{D51BD5A3-7548-11CF-A520-0080C77EF58A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Multi-file Parser
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{D51BD5A5-7548-11CF-A520-0080C77EF58A}
+\Classes\CLSID\{D51BD5A5-7548-11CF-A520-0080C77EF58A}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{D51BD5A5-7548-11CF-A520-0080C77EF58A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{D51BD5A5-7548-11CF-A520-0080C77EF58A}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{D51BD5A5-7548-11CF-A520-0080C77EF58A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\File stream renderer
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Microsoft DTV-DVD Audio Decoder
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{E1F1A0B8-BEEE-490D-BA7C-066C40B5E2B9}
+\Classes\CLSID\{E1F1A0B8-BEEE-490D-BA7C-066C40B5E2B9}\InProcServer32\(default)\C:\Windows\System32\msmpeg2adec.dll
+\Classes\CLSID\{E1F1A0B8-BEEE-490D-BA7C-066C40B5E2B9}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{E1F1A0B8-BEEE-490D-BA7C-066C40B5E2B9}\InProcServer32\(default)\C:\Windows\SysWOW64\msmpeg2adec.dll
+\Classes\Wow6432Node\CLSID\{E1F1A0B8-BEEE-490D-BA7C-066C40B5E2B9}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\StreamBufferSink2
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{E2448508-95DA-4205-9A27-7EC81E723B1A}
+\Classes\CLSID\{E2448508-95DA-4205-9A27-7EC81E723B1A}\InProcServer32\(default)\C:\Windows\System32\sbe.dll
+\Classes\CLSID\{E2448508-95DA-4205-9A27-7EC81E723B1A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{E2448508-95DA-4205-9A27-7EC81E723B1A}\InProcServer32\(default)\C:\Windows\SysWOW64\sbe.dll
+\Classes\Wow6432Node\CLSID\{E2448508-95DA-4205-9A27-7EC81E723B1A}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\AVI Mux
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{E2510970-F137-11CE-8B67-00AA00A3F1A6}
+\Classes\CLSID\{E2510970-F137-11CE-8B67-00AA00A3F1A6}\InProcServer32\(default)\C:\Windows\system32\qcap.dll
+\Classes\CLSID\{E2510970-F137-11CE-8B67-00AA00A3F1A6}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{E2510970-F137-11CE-8B67-00AA00A3F1A6}\InProcServer32\(default)\C:\Windows\SysWOW64\qcap.dll
+\Classes\Wow6432Node\CLSID\{E2510970-F137-11CE-8B67-00AA00A3F1A6}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{E4206432-01A1-4BEE-B3E1-3702C8EDC574}
+\Classes\CLSID\{E4206432-01A1-4BEE-B3E1-3702C8EDC574}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{E4206432-01A1-4BEE-B3E1-3702C8EDC574}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{E4206432-01A1-4BEE-B3E1-3702C8EDC574}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{E4206432-01A1-4BEE-B3E1-3702C8EDC574}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Line 21 Decoder 2
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{E436EBB5-524F-11CE-9F53-0020AF0BA770}
+\Classes\CLSID\{E436EBB5-524F-11CE-9F53-0020AF0BA770}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{E436EBB5-524F-11CE-9F53-0020AF0BA770}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{E436EBB5-524F-11CE-9F53-0020AF0BA770}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{E436EBB5-524F-11CE-9F53-0020AF0BA770}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\File Source (Async.)
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{E436EBB6-524F-11CE-9F53-0020AF0BA770}
+\Classes\CLSID\{E436EBB6-524F-11CE-9F53-0020AF0BA770}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{E436EBB6-524F-11CE-9F53-0020AF0BA770}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{E436EBB6-524F-11CE-9F53-0020AF0BA770}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{E436EBB6-524F-11CE-9F53-0020AF0BA770}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\File Source (URL)
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Infinite Pin Tee Filter
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{F8388A40-D5BB-11D0-BE5A-0080C706568E}
+\Classes\CLSID\{F8388A40-D5BB-11D0-BE5A-0080C706568E}\InProcServer32\(default)\C:\Windows\system32\qcap.dll
+\Classes\CLSID\{F8388A40-D5BB-11D0-BE5A-0080C706568E}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{F8388A40-D5BB-11D0-BE5A-0080C706568E}\InProcServer32\(default)\C:\Windows\SysWOW64\qcap.dll
+\Classes\Wow6432Node\CLSID\{F8388A40-D5BB-11D0-BE5A-0080C706568E}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\Enhanced Video Renderer
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{FA10746C-9B63-4B6C-BC49-FC300EA5F256}
+\Classes\CLSID\{FA10746C-9B63-4B6C-BC49-FC300EA5F256}\InProcServer32\(default)\C:\Windows\System32\evr.dll
+\Classes\CLSID\{FA10746C-9B63-4B6C-BC49-FC300EA5F256}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{FA10746C-9B63-4B6C-BC49-FC300EA5F256}\InProcServer32\(default)\C:\Windows\SysWOW64\evr.dll
+\Classes\Wow6432Node\CLSID\{FA10746C-9B63-4B6C-BC49-FC300EA5F256}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\BDA MPEG2 Transport Information Filter
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{FC772AB0-0C7F-11D3-8FF2-00A0C9224CF4}
+\Classes\CLSID\{FC772AB0-0C7F-11D3-8FF2-00A0C9224CF4}\InProcServer32\(default)\C:\Windows\System32\psisrndr.ax
+\Classes\CLSID\{FC772AB0-0C7F-11D3-8FF2-00A0C9224CF4}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{FC772AB0-0C7F-11D3-8FF2-00A0C9224CF4}\InProcServer32\(default)\C:\Windows\SysWOW64\psisrndr.ax
+\Classes\Wow6432Node\CLSID\{FC772AB0-0C7F-11D3-8FF2-00A0C9224CF4}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\CLSID\{FEB50740-7BEF-11CE-9BD9-0000E202599C}
+\Classes\CLSID\{FEB50740-7BEF-11CE-9BD9-0000E202599C}\InProcServer32\(default)\C:\Windows\system32\quartz.dll
+\Classes\CLSID\{FEB50740-7BEF-11CE-9BD9-0000E202599C}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{FEB50740-7BEF-11CE-9BD9-0000E202599C}\InProcServer32\(default)\C:\Windows\SysWOW64\quartz.dll
+\Classes\Wow6432Node\CLSID\{FEB50740-7BEF-11CE-9BD9-0000E202599C}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{083863F1-70DE-11D0-BD40-00A0C911CE86\FriendlyName\MPEG Video Decoder
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{003e0278-eca8-4bb8-a256-3689ca1c2600\AutoStart\
+\Classes\CLSID\{003e0278-eca8-4bb8-a256-3689ca1c2600}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{003e0278-eca8-4bb8-a256-3689ca1c2600}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{003e0278-eca8-4bb8-a256-3689ca1c2600}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{003e0278-eca8-4bb8-a256-3689ca1c2600}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{3BF043EF-A974-49B3-8322-B853CF1E5EC5\AutoStart\
+\Classes\CLSID\{3BF043EF-A974-49B3-8322-B853CF1E5EC5}\InProcServer32\(default)\%SystemRoot%\System32\SndVolSSO.dll
+\Classes\CLSID\{3BF043EF-A974-49B3-8322-B853CF1E5EC5}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{3BF043EF-A974-49B3-8322-B853CF1E5EC5}\InProcServer32\(default)\%SystemRoot%\System32\SndVolSSO.dll
+\Classes\Wow6432Node\CLSID\{3BF043EF-A974-49B3-8322-B853CF1E5EC5}\InProcServer32\ThreadingModel\Both
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{566296fe-e0e8-475f-ba9c-a31ad31620b1\AutoStart\
+\Classes\CLSID\{566296fe-e0e8-475f-ba9c-a31ad31620b1}\InProcServer32\(default)\%systemroot%\system32\dxp.dll
+\Classes\CLSID\{566296fe-e0e8-475f-ba9c-a31ad31620b1}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{68ddbb56-9d1d-4fd9-89c5-c0da2a625392\AutoStart\
+\Classes\CLSID\{68ddbb56-9d1d-4fd9-89c5-c0da2a625392}\InProcServer32\(default)\%SystemRoot%\system32\stobject.dll
+\Classes\CLSID\{68ddbb56-9d1d-4fd9-89c5-c0da2a625392}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{68ddbb56-9d1d-4fd9-89c5-c0da2a625392}\InProcServer32\(default)\%SystemRoot%\system32\stobject.dll
+\Classes\Wow6432Node\CLSID\{68ddbb56-9d1d-4fd9-89c5-c0da2a625392}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{6FDEDD65-AC51-43CA-B2D0-9EB5D1155D03\AutoStart\
+\Classes\CLSID\{6FDEDD65-AC51-43CA-B2D0-9EB5D1155D03}\InProcServer32\(default)\C:\Windows\ehome\ehSSO.dll
+\Classes\CLSID\{6FDEDD65-AC51-43CA-B2D0-9EB5D1155D03}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{7007ACCF-3202-11D1-AAD2-00805FC1270E\AutoStart\
+\Classes\CLSID\{7007ACCF-3202-11D1-AAD2-00805FC1270E}\InProcServer32\(default)\%SystemRoot%\System32\netshell.dll
+\Classes\CLSID\{7007ACCF-3202-11D1-AAD2-00805FC1270E}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{7007ACCF-3202-11D1-AAD2-00805FC1270E}\InProcServer32\(default)\%SystemRoot%\System32\netshell.dll
+\Classes\Wow6432Node\CLSID\{7007ACCF-3202-11D1-AAD2-00805FC1270E}\InProcServer32\ThreadingModel\Both
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{7849596a-48ea-486e-8937-a2a3009f31a9\AutoStart\
+\Classes\CLSID\{7849596a-48ea-486e-8937-a2a3009f31a9}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{7849596a-48ea-486e-8937-a2a3009f31a9}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{7849596a-48ea-486e-8937-a2a3009f31a9}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{7849596a-48ea-486e-8937-a2a3009f31a9}\InProcServer32\ThreadingModel\Apartment
+\Classes\CLSID\{900c0763-5cad-4a34-bc1f-40cd513679d5}\InProcServer32\(default)\%SystemRoot%\System32\hcproviders.dll
+\Classes\CLSID\{900c0763-5cad-4a34-bc1f-40cd513679d5}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{900c0763-5cad-4a34-bc1f-40cd513679d5}\InProcServer32\(default)\%SystemRoot%\System32\hcproviders.dll
+\Classes\Wow6432Node\CLSID\{900c0763-5cad-4a34-bc1f-40cd513679d5}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{A1607060-5D4C-467a-B711-2B59A6F25957\AutoStart\
+\Classes\CLSID\{A1607060-5D4C-467a-B711-2B59A6F25957}\InProcServer32\(default)\%SystemRoot%\System32\AltTab.dll
+\Classes\CLSID\{A1607060-5D4C-467a-B711-2B59A6F25957}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{A1607060-5D4C-467a-B711-2B59A6F25957}\InProcServer32\(default)\%SystemRoot%\System32\AltTab.dll
+\Classes\Wow6432Node\CLSID\{A1607060-5D4C-467a-B711-2B59A6F25957}\InProcServer32\ThreadingModel\Both
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{AAA288BA-9A4C-45B0-95D7-94D524869DB5\AutoStart\
+\Classes\CLSID\{AAA288BA-9A4C-45B0-95D7-94D524869DB5}\InProcServer32\(default)\%SystemRoot%\system32\wpdshserviceobj.dll
+\Classes\CLSID\{AAA288BA-9A4C-45B0-95D7-94D524869DB5}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{AAA288BA-9A4C-45B0-95D7-94D524869DB5}\InProcServer32\(default)\%SystemRoot%\system32\wpdshserviceobj.dll
+\Classes\Wow6432Node\CLSID\{AAA288BA-9A4C-45B0-95D7-94D524869DB5}\InProcServer32\ThreadingModel\Both
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{C2796011-81BA-4148-8FCA-C6643245113F\AutoStart\
+\Classes\CLSID\{C2796011-81BA-4148-8FCA-C6643245113F}\InProcServer32\(default)\%SystemRoot%\System32\pnidui.dll
+\Classes\CLSID\{C2796011-81BA-4148-8FCA-C6643245113F}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{C2796011-81BA-4148-8FCA-C6643245113F}\InProcServer32\(default)\%SystemRoot%\System32\pnidui.dll
+\Classes\Wow6432Node\CLSID\{C2796011-81BA-4148-8FCA-C6643245113F}\InProcServer32\ThreadingModel\Both
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{C51F0A6B-2A63-4cf4-8938-24404EAEF422\AutoStart\
+\Classes\CLSID\{C51F0A6B-2A63-4cf4-8938-24404EAEF422}\InProcServer32\(default)\%SystemRoot%\System32\cscui.dll
+\Classes\CLSID\{C51F0A6B-2A63-4cf4-8938-24404EAEF422}\InProcServer32\ThreadingModel\Both
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{DA67B8AD-E81B-4c70-9B91-B417B5E33527\AutoStart\
+\Classes\CLSID\{DA67B8AD-E81B-4c70-9B91-B417B5E33527}\InProcServer32\(default)\%SystemRoot%\System32\srchadmin.dll
+\Classes\CLSID\{DA67B8AD-E81B-4c70-9B91-B417B5E33527}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{DA67B8AD-E81B-4c70-9B91-B417B5E33527}\InProcServer32\(default)\%SystemRoot%\System32\srchadmin.dll
+\Classes\Wow6432Node\CLSID\{DA67B8AD-E81B-4c70-9B91-B417B5E33527}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{EF4D1E1A-1C87-4AA8-8934-E68E4367468D\AutoStart\
+\Classes\CLSID\{EF4D1E1A-1C87-4AA8-8934-E68E4367468D}\InProcServer32\(default)\C:\Windows\system32\shdocvw.dll
+\Classes\CLSID\{EF4D1E1A-1C87-4AA8-8934-E68E4367468D}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{EF4D1E1A-1C87-4AA8-8934-E68E4367468D}\InProcServer32\(default)\C:\Windows\SysWOW64\shdocvw.dll
+\Classes\Wow6432Node\CLSID\{EF4D1E1A-1C87-4AA8-8934-E68E4367468D}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{F08C5AC2-E722-4116-ADB7-CE41B527994B\(default)\Bluetooth Authentication Agent SSO
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{F08C5AC2-E722-4116-ADB7-CE41B527994B\AutoStart\
+\Classes\CLSID\{F08C5AC2-E722-4116-ADB7-CE41B527994B}\InProcServer32\(default)\C:\Windows\System32\bthprops.cpl
+\Classes\CLSID\{F08C5AC2-E722-4116-ADB7-CE41B527994B}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{F08C5AC2-E722-4116-ADB7-CE41B527994B}\InProcServer32\(default)\C:\Windows\SysWOW64\bthprops.cpl
+\Classes\Wow6432Node\CLSID\{F08C5AC2-E722-4116-ADB7-CE41B527994B}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{F20487CC-FC04-4B1E-863F-D9801796130B\AutoStart\
+\Classes\CLSID\{F20487CC-FC04-4B1E-863F-D9801796130B}\InProcServer32\(default)\%SystemRoot%\System32\SyncCenter.dll
+\Classes\CLSID\{F20487CC-FC04-4B1E-863F-D9801796130B}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{F20487CC-FC04-4B1E-863F-D9801796130B}\InProcServer32\(default)\%SystemRoot%\System32\SyncCenter.dll
+\Classes\Wow6432Node\CLSID\{F20487CC-FC04-4B1E-863F-D9801796130B}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{F56F6FDD-AA9D-4618-A949-C1B91AF43B1A\AutoStart\
+\Classes\CLSID\{F56F6FDD-AA9D-4618-A949-C1B91AF43B1A}\InProcServer32\(default)\%SystemRoot%\System32\Actioncenter.dll
+\Classes\CLSID\{F56F6FDD-AA9D-4618-A949-C1B91AF43B1A}\InProcServer32\ThreadingModel\Free
+\Classes\Wow6432Node\CLSID\{F56F6FDD-AA9D-4618-A949-C1B91AF43B1A}\InProcServer32\(default)\%SystemRoot%\System32\Actioncenter.dll
+\Classes\Wow6432Node\CLSID\{F56F6FDD-AA9D-4618-A949-C1B91AF43B1A}\InProcServer32\ThreadingModel\Free
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{fbeb8a05-beee-4442-804e-409d6c4515e9\AutoStart\
+\Classes\CLSID\{fbeb8a05-beee-4442-804e-409d6c4515e9}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{fbeb8a05-beee-4442-804e-409d6c4515e9}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{fbeb8a05-beee-4442-804e-409d6c4515e9}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{fbeb8a05-beee-4442-804e-409d6c4515e9}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{ff363bfe-4941-4179-a81c-f3f1ca72d820\(default)\HomeGroup SSO
+\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects\{ff363bfe-4941-4179-a81c-f3f1ca72d820\AutoStart\
+\Classes\CLSID\{ff363bfe-4941-4179-a81c-f3f1ca72d820}\InProcServer32\(default)\%SystemRoot%\System32\hgcpl.dll
+\Classes\CLSID\{ff363bfe-4941-4179-a81c-f3f1ca72d820}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{ff363bfe-4941-4179-a81c-f3f1ca72d820}\InProcServer32\(default)\%SystemRoot%\System32\hgcpl.dll
+\Classes\Wow6432Node\CLSID\{ff363bfe-4941-4179-a81c-f3f1ca72d820}\InProcServer32\ThreadingModel\Apartment
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellServiceObjects\{003e0278-eca8-4bb8-a256-3689ca1c2600\AutoStart\
+\Classes\CLSID\{003e0278-eca8-4bb8-a256-3689ca1c2600}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{003e0278-eca8-4bb8-a256-3689ca1c2600}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{003e0278-eca8-4bb8-a256-3689ca1c2600}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{003e0278-eca8-4bb8-a256-3689ca1c2600}\InProcServer32\ThreadingModel\Apartment
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellServiceObjects\{3BF043EF-A974-49B3-8322-B853CF1E5EC5\AutoStart\
+\Classes\CLSID\{3BF043EF-A974-49B3-8322-B853CF1E5EC5}\InProcServer32\(default)\%SystemRoot%\System32\SndVolSSO.dll
+\Classes\CLSID\{3BF043EF-A974-49B3-8322-B853CF1E5EC5}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{3BF043EF-A974-49B3-8322-B853CF1E5EC5}\InProcServer32\(default)\%SystemRoot%\System32\SndVolSSO.dll
+\Classes\Wow6432Node\CLSID\{3BF043EF-A974-49B3-8322-B853CF1E5EC5}\InProcServer32\ThreadingModel\Both
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellServiceObjects\{68ddbb56-9d1d-4fd9-89c5-c0da2a625392\AutoStart\
+\Classes\CLSID\{68ddbb56-9d1d-4fd9-89c5-c0da2a625392}\InProcServer32\(default)\%SystemRoot%\system32\stobject.dll
+\Classes\CLSID\{68ddbb56-9d1d-4fd9-89c5-c0da2a625392}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{68ddbb56-9d1d-4fd9-89c5-c0da2a625392}\InProcServer32\(default)\%SystemRoot%\system32\stobject.dll
+\Classes\Wow6432Node\CLSID\{68ddbb56-9d1d-4fd9-89c5-c0da2a625392}\InProcServer32\ThreadingModel\Apartment
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellServiceObjects\{7007ACCF-3202-11D1-AAD2-00805FC1270E\AutoStart\
+\Classes\CLSID\{7007ACCF-3202-11D1-AAD2-00805FC1270E}\InProcServer32\(default)\%SystemRoot%\System32\netshell.dll
+\Classes\CLSID\{7007ACCF-3202-11D1-AAD2-00805FC1270E}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{7007ACCF-3202-11D1-AAD2-00805FC1270E}\InProcServer32\(default)\%SystemRoot%\System32\netshell.dll
+\Classes\Wow6432Node\CLSID\{7007ACCF-3202-11D1-AAD2-00805FC1270E}\InProcServer32\ThreadingModel\Both
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellServiceObjects\{7849596a-48ea-486e-8937-a2a3009f31a9\AutoStart\
+\Classes\CLSID\{7849596a-48ea-486e-8937-a2a3009f31a9}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{7849596a-48ea-486e-8937-a2a3009f31a9}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{7849596a-48ea-486e-8937-a2a3009f31a9}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{7849596a-48ea-486e-8937-a2a3009f31a9}\InProcServer32\ThreadingModel\Apartment
+\Classes\CLSID\{900c0763-5cad-4a34-bc1f-40cd513679d5}\InProcServer32\(default)\%SystemRoot%\System32\hcproviders.dll
+\Classes\CLSID\{900c0763-5cad-4a34-bc1f-40cd513679d5}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{900c0763-5cad-4a34-bc1f-40cd513679d5}\InProcServer32\(default)\%SystemRoot%\System32\hcproviders.dll
+\Classes\Wow6432Node\CLSID\{900c0763-5cad-4a34-bc1f-40cd513679d5}\InProcServer32\ThreadingModel\Apartment
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellServiceObjects\{A1607060-5D4C-467a-B711-2B59A6F25957\AutoStart\
+\Classes\CLSID\{A1607060-5D4C-467a-B711-2B59A6F25957}\InProcServer32\(default)\%SystemRoot%\System32\AltTab.dll
+\Classes\CLSID\{A1607060-5D4C-467a-B711-2B59A6F25957}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{A1607060-5D4C-467a-B711-2B59A6F25957}\InProcServer32\(default)\%SystemRoot%\System32\AltTab.dll
+\Classes\Wow6432Node\CLSID\{A1607060-5D4C-467a-B711-2B59A6F25957}\InProcServer32\ThreadingModel\Both
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellServiceObjects\{AAA288BA-9A4C-45B0-95D7-94D524869DB5\AutoStart\
+\Classes\CLSID\{AAA288BA-9A4C-45B0-95D7-94D524869DB5}\InProcServer32\(default)\%SystemRoot%\system32\wpdshserviceobj.dll
+\Classes\CLSID\{AAA288BA-9A4C-45B0-95D7-94D524869DB5}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{AAA288BA-9A4C-45B0-95D7-94D524869DB5}\InProcServer32\(default)\%SystemRoot%\system32\wpdshserviceobj.dll
+\Classes\Wow6432Node\CLSID\{AAA288BA-9A4C-45B0-95D7-94D524869DB5}\InProcServer32\ThreadingModel\Both
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellServiceObjects\{C2796011-81BA-4148-8FCA-C6643245113F\AutoStart\
+\Classes\CLSID\{C2796011-81BA-4148-8FCA-C6643245113F}\InProcServer32\(default)\%SystemRoot%\System32\pnidui.dll
+\Classes\CLSID\{C2796011-81BA-4148-8FCA-C6643245113F}\InProcServer32\ThreadingModel\Both
+\Classes\Wow6432Node\CLSID\{C2796011-81BA-4148-8FCA-C6643245113F}\InProcServer32\(default)\%SystemRoot%\System32\pnidui.dll
+\Classes\Wow6432Node\CLSID\{C2796011-81BA-4148-8FCA-C6643245113F}\InProcServer32\ThreadingModel\Both
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellServiceObjects\{DA67B8AD-E81B-4c70-9B91-B417B5E33527\AutoStart\
+\Classes\CLSID\{DA67B8AD-E81B-4c70-9B91-B417B5E33527}\InProcServer32\(default)\%SystemRoot%\System32\srchadmin.dll
+\Classes\CLSID\{DA67B8AD-E81B-4c70-9B91-B417B5E33527}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{DA67B8AD-E81B-4c70-9B91-B417B5E33527}\InProcServer32\(default)\%SystemRoot%\System32\srchadmin.dll
+\Classes\Wow6432Node\CLSID\{DA67B8AD-E81B-4c70-9B91-B417B5E33527}\InProcServer32\ThreadingModel\Apartment
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellServiceObjects\{EF4D1E1A-1C87-4AA8-8934-E68E4367468D\AutoStart\
+\Classes\CLSID\{EF4D1E1A-1C87-4AA8-8934-E68E4367468D}\InProcServer32\(default)\C:\Windows\system32\shdocvw.dll
+\Classes\CLSID\{EF4D1E1A-1C87-4AA8-8934-E68E4367468D}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{EF4D1E1A-1C87-4AA8-8934-E68E4367468D}\InProcServer32\(default)\C:\Windows\SysWOW64\shdocvw.dll
+\Classes\Wow6432Node\CLSID\{EF4D1E1A-1C87-4AA8-8934-E68E4367468D}\InProcServer32\ThreadingModel\Apartment
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellServiceObjects\{F08C5AC2-E722-4116-ADB7-CE41B527994B\(default)\Bluetooth Authentication Agent SSO
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellServiceObjects\{F08C5AC2-E722-4116-ADB7-CE41B527994B\AutoStart\
+\Classes\CLSID\{F08C5AC2-E722-4116-ADB7-CE41B527994B}\InProcServer32\(default)\C:\Windows\System32\bthprops.cpl
+\Classes\CLSID\{F08C5AC2-E722-4116-ADB7-CE41B527994B}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{F08C5AC2-E722-4116-ADB7-CE41B527994B}\InProcServer32\(default)\C:\Windows\SysWOW64\bthprops.cpl
+\Classes\Wow6432Node\CLSID\{F08C5AC2-E722-4116-ADB7-CE41B527994B}\InProcServer32\ThreadingModel\Apartment
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellServiceObjects\{F20487CC-FC04-4B1E-863F-D9801796130B\AutoStart\
+\Classes\CLSID\{F20487CC-FC04-4B1E-863F-D9801796130B}\InProcServer32\(default)\%SystemRoot%\System32\SyncCenter.dll
+\Classes\CLSID\{F20487CC-FC04-4B1E-863F-D9801796130B}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{F20487CC-FC04-4B1E-863F-D9801796130B}\InProcServer32\(default)\%SystemRoot%\System32\SyncCenter.dll
+\Classes\Wow6432Node\CLSID\{F20487CC-FC04-4B1E-863F-D9801796130B}\InProcServer32\ThreadingModel\Apartment
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellServiceObjects\{F56F6FDD-AA9D-4618-A949-C1B91AF43B1A\AutoStart\
+\Classes\CLSID\{F56F6FDD-AA9D-4618-A949-C1B91AF43B1A}\InProcServer32\(default)\%SystemRoot%\System32\Actioncenter.dll
+\Classes\CLSID\{F56F6FDD-AA9D-4618-A949-C1B91AF43B1A}\InProcServer32\ThreadingModel\Free
+\Classes\Wow6432Node\CLSID\{F56F6FDD-AA9D-4618-A949-C1B91AF43B1A}\InProcServer32\(default)\%SystemRoot%\System32\Actioncenter.dll
+\Classes\Wow6432Node\CLSID\{F56F6FDD-AA9D-4618-A949-C1B91AF43B1A}\InProcServer32\ThreadingModel\Free
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellServiceObjects\{fbeb8a05-beee-4442-804e-409d6c4515e9\AutoStart\
+\Classes\CLSID\{fbeb8a05-beee-4442-804e-409d6c4515e9}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\CLSID\{fbeb8a05-beee-4442-804e-409d6c4515e9}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{fbeb8a05-beee-4442-804e-409d6c4515e9}\InProcServer32\(default)\%SystemRoot%\system32\shell32.dll
+\Classes\Wow6432Node\CLSID\{fbeb8a05-beee-4442-804e-409d6c4515e9}\InProcServer32\ThreadingModel\Apartment
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellServiceObjects\{ff363bfe-4941-4179-a81c-f3f1ca72d820\(default)\HomeGroup SSO
+\Wow6432Node\Microsoft\Windows\CurrentVersion\explorer\ShellServiceObjects\{ff363bfe-4941-4179-a81c-f3f1ca72d820\AutoStart\
+\Classes\CLSID\{ff363bfe-4941-4179-a81c-f3f1ca72d820}\InProcServer32\(default)\%SystemRoot%\System32\hgcpl.dll
+\Classes\CLSID\{ff363bfe-4941-4179-a81c-f3f1ca72d820}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{ff363bfe-4941-4179-a81c-f3f1ca72d820}\InProcServer32\(default)\%SystemRoot%\System32\hgcpl.dll
+\Classes\Wow6432Node\CLSID\{ff363bfe-4941-4179-a81c-f3f1ca72d820}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Authentication\Credential Provider Filters\{DDC0EED2-ADBE-40b6-A217-EDE16A79A0DE\(default)\GenericFilter
+\Classes\CLSID\{DDC0EED2-ADBE-40b6-A217-EDE16A79A0DE}\InProcServer32\(default)\%SystemRoot%\system32\authui.dll
+\Classes\CLSID\{DDC0EED2-ADBE-40b6-A217-EDE16A79A0DE}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{DDC0EED2-ADBE-40b6-A217-EDE16A79A0DE}\InProcServer32\(default)\%SystemRoot%\system32\authui.dll
+\Classes\Wow6432Node\CLSID\{DDC0EED2-ADBE-40b6-A217-EDE16A79A0DE}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers\{25CBB996-92ED-457e-B28C-4774084BD562\(default)\GenericProvider
+\Classes\CLSID\{25CBB996-92ED-457e-B28C-4774084BD562}\InProcServer32\(default)\%SystemRoot%\system32\authui.dll
+\Classes\CLSID\{25CBB996-92ED-457e-B28C-4774084BD562}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{25CBB996-92ED-457e-B28C-4774084BD562}\InProcServer32\(default)\%SystemRoot%\system32\authui.dll
+\Classes\Wow6432Node\CLSID\{25CBB996-92ED-457e-B28C-4774084BD562}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers\{3dd6bec0-8193-4ffe-ae25-e08e39ea4063\(default)\NPProvider
+\Classes\CLSID\{3dd6bec0-8193-4ffe-ae25-e08e39ea4063}\InProcServer32\(default)\%SystemRoot%\system32\authui.dll
+\Classes\CLSID\{3dd6bec0-8193-4ffe-ae25-e08e39ea4063}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{3dd6bec0-8193-4ffe-ae25-e08e39ea4063}\InProcServer32\(default)\%SystemRoot%\system32\authui.dll
+\Classes\Wow6432Node\CLSID\{3dd6bec0-8193-4ffe-ae25-e08e39ea4063}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers\{503739d0-4c5e-4cfd-b3ba-d881334f0df2\(default)\VaultCredProvider
+\Classes\CLSID\{503739d0-4c5e-4cfd-b3ba-d881334f0df2}\InProcServer32\(default)\%SystemRoot%\System32\VaultCredProvider.dll
+\Classes\CLSID\{503739d0-4c5e-4cfd-b3ba-d881334f0df2}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{503739d0-4c5e-4cfd-b3ba-d881334f0df2}\InProcServer32\(default)\%SystemRoot%\System32\VaultCredProvider.dll
+\Classes\Wow6432Node\CLSID\{503739d0-4c5e-4cfd-b3ba-d881334f0df2}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers\{6f45dc1e-5384-457a-bc13-2cd81b0d28ed\(default)\PasswordProvider
+\Classes\CLSID\{6f45dc1e-5384-457a-bc13-2cd81b0d28ed}\InProcServer32\(default)\%SystemRoot%\system32\authui.dll
+\Classes\CLSID\{6f45dc1e-5384-457a-bc13-2cd81b0d28ed}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{6f45dc1e-5384-457a-bc13-2cd81b0d28ed}\InProcServer32\(default)\%SystemRoot%\system32\authui.dll
+\Classes\Wow6432Node\CLSID\{6f45dc1e-5384-457a-bc13-2cd81b0d28ed}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers\{6f45dc1e-5384-457a-bc13-2cd81b0d28ed\(default)\{8841d728-1a76-4682-bb6f-a9ea53b4b3ba}
+\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers\{8bf9a910-a8ff-457f-999f-a5ca10b4a885\(default)\Smartcard Credential Provider
+\Classes\CLSID\{8bf9a910-a8ff-457f-999f-a5ca10b4a885}\InProcServer32\(default)\SmartcardCredentialProvider.dll
+\Classes\CLSID\{8bf9a910-a8ff-457f-999f-a5ca10b4a885}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{8bf9a910-a8ff-457f-999f-a5ca10b4a885}\InProcServer32\(default)\SmartcardCredentialProvider.dll
+\Classes\Wow6432Node\CLSID\{8bf9a910-a8ff-457f-999f-a5ca10b4a885}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers\{94596c7e-3744-41ce-893e-bbf09122f76a\(default)\Smartcard Pin Provider
+\Classes\CLSID\{94596c7e-3744-41ce-893e-bbf09122f76a}\InProcServer32\(default)\SmartcardCredentialProvider.dll
+\Classes\CLSID\{94596c7e-3744-41ce-893e-bbf09122f76a}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{94596c7e-3744-41ce-893e-bbf09122f76a}\InProcServer32\(default)\SmartcardCredentialProvider.dll
+\Classes\Wow6432Node\CLSID\{94596c7e-3744-41ce-893e-bbf09122f76a}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers\{AC3AC249-E820-4343-A65B-377AC634DC09\(default)\WinBio Credential Provider
+\Classes\CLSID\{AC3AC249-E820-4343-A65B-377AC634DC09}\InProcServer32\(default)\%SystemRoot%\System32\BioCredProv.dll
+\Classes\CLSID\{AC3AC249-E820-4343-A65B-377AC634DC09}\InProcServer32\ThreadingModel\Apartment
+\Classes\Wow6432Node\CLSID\{AC3AC249-E820-4343-A65B-377AC634DC09}\InProcServer32\(default)\%SystemRoot%\System32\BioCredProv.dll
+\Classes\Wow6432Node\CLSID\{AC3AC249-E820-4343-A65B-377AC634DC09}\InProcServer32\ThreadingModel\Apartment
+\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers\{e74e57b0-6c6d-44d5-9cda-fb2df5ed7435\(default)\CertCredProvider
+\Classes\CLSID\{e74e57b0-6c6d-44d5-9cda-fb2df5ed7435}\InProcServer32\(default)\%systemroot%\system32\certCredProvider.dll
+\Classes\CLSID\{e74e57b0-6c6d-44d5-9cda-fb2df5ed7435}\InProcServer32\ThreadingModel\ApartMent
+\Classes\Wow6432Node\CLSID\{e74e57b0-6c6d-44d5-9cda-fb2df5ed7435}\InProcServer32\(default)\%systemroot%\system32\certCredProvider.dll
+\Classes\Wow6432Node\CLSID\{e74e57b0-6c6d-44d5-9cda-fb2df5ed7435}\InProcServer32\ThreadingModel\ApartMent
+\Microsoft\Windows\CurrentVersion\Authentication\PLAP Providers\{5537E283-B1E7-4EF8-9C6E-7AB0AFE5056D\(default)\RasProvider
+\Classes\CLSID\{5537E283-B1E7-4EF8-9C6E-7AB0AFE5056D}\InProcServer32\(default)\%SystemRoot%\system32\rasplap.dll
+\Classes\CLSID\{5537E283-B1E7-4EF8-9C6E-7AB0AFE5056D}\InProcServer32\ThreadingModel\both
+\Classes\Wow6432Node\CLSID\{5537E283-B1E7-4EF8-9C6E-7AB0AFE5056D}\InProcServer32\(default)\%SystemRoot%\system32\rasplap.dll
+\Classes\Wow6432Node\CLSID\{5537E283-B1E7-4EF8-9C6E-7AB0AFE5056D}\InProcServer32\ThreadingModel\both
+\Select\Current\1
+\ControlSet001\services\1394ohci\ImagePath\\SystemRoot\system32\drivers\1394ohci.sys
+\ControlSet001\services\ACPI\ImagePath\system32\drivers\ACPI.sys
+\ControlSet001\services\AcpiPmi\ImagePath\\SystemRoot\system32\drivers\acpipmi.sys
+\ControlSet001\services\adp94xx\ImagePath\\SystemRoot\system32\DRIVERS\adp94xx.sys
+\ControlSet001\services\adpahci\ImagePath\\SystemRoot\system32\DRIVERS\adpahci.sys
+\ControlSet001\services\adpu320\ImagePath\\SystemRoot\system32\DRIVERS\adpu320.sys
+\ControlSet001\services\AeLookupSvc\ImagePath\%systemroot%\system32\svchost.exe -k netsvcs
+\ControlSet001\services\AFD\ImagePath\\SystemRoot\system32\drivers\afd.sys
+\ControlSet001\services\agp440\ImagePath\\SystemRoot\system32\drivers\agp440.sys
+\ControlSet001\services\ALG\ImagePath\%SystemRoot%\System32\alg.exe
+\ControlSet001\services\aliide\ImagePath\\SystemRoot\system32\drivers\aliide.sys
+\ControlSet001\services\amdide\ImagePath\\SystemRoot\system32\drivers\amdide.sys
+\ControlSet001\services\AmdK8\ImagePath\\SystemRoot\system32\DRIVERS\amdk8.sys
+\ControlSet001\services\AmdPPM\ImagePath\\SystemRoot\system32\DRIVERS\amdppm.sys
+\ControlSet001\services\amdsata\ImagePath\\SystemRoot\system32\drivers\amdsata.sys
+\ControlSet001\services\amdsbs\ImagePath\\SystemRoot\system32\DRIVERS\amdsbs.sys
+\ControlSet001\services\amdxata\ImagePath\system32\drivers\amdxata.sys
+\ControlSet001\services\AppID\ImagePath\\SystemRoot\system32\drivers\appid.sys
+\ControlSet001\services\AppIDSvc\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalServiceAndNoImpersonation
+\ControlSet001\services\Appinfo\ImagePath\%SystemRoot%\system32\svchost.exe -k netsvcs
+\ControlSet001\services\AppMgmt\ImagePath\%SystemRoot%\system32\svchost.exe -k netsvcs
+\ControlSet001\services\arc\ImagePath\\SystemRoot\system32\DRIVERS\arc.sys
+\ControlSet001\services\arcsas\ImagePath\\SystemRoot\system32\DRIVERS\arcsas.sys
+\ControlSet001\services\aspnet_state\ImagePath\%SystemRoot%\Microsoft.NET\Framework64\v4.0.30319\aspnet_state.exe
+\ControlSet001\services\AsyncMac\ImagePath\system32\DRIVERS\asyncmac.sys
+\ControlSet001\services\atapi\ImagePath\system32\drivers\atapi.sys
+\ControlSet001\services\AudioEndpointBuilder\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalSystemNetworkRestricted
+\ControlSet001\services\AudioSrv\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalServiceNetworkRestricted
+\ControlSet001\services\AxInstSV\ImagePath\%SystemRoot%\system32\svchost.exe -k AxInstSVGroup
+\ControlSet001\services\b06bdrv\ImagePath\\SystemRoot\system32\DRIVERS\bxvbda.sys
+\ControlSet001\services\b57nd60a\ImagePath\system32\DRIVERS\b57nd60a.sys
+\ControlSet001\services\BDESVC\ImagePath\%SystemRoot%\System32\svchost.exe -k netsvcs
+\ControlSet001\services\BFE\ImagePath\%systemroot%\system32\svchost.exe -k LocalServiceNoNetwork
+\ControlSet001\services\BITS\ImagePath\%SystemRoot%\System32\svchost.exe -k netsvcs
+\ControlSet001\services\blbdrive\ImagePath\system32\DRIVERS\blbdrive.sys
+\ControlSet001\services\bowser\ImagePath\system32\DRIVERS\bowser.sys
+\ControlSet001\services\BrFiltLo\ImagePath\\SystemRoot\system32\DRIVERS\BrFiltLo.sys
+\ControlSet001\services\BrFiltUp\ImagePath\\SystemRoot\system32\DRIVERS\BrFiltUp.sys
+\ControlSet001\services\Browser\ImagePath\%SystemRoot%\System32\svchost.exe -k netsvcs
+\ControlSet001\services\Brserid\ImagePath\\SystemRoot\System32\Drivers\Brserid.sys
+\ControlSet001\services\BrSerWdm\ImagePath\\SystemRoot\System32\Drivers\BrSerWdm.sys
+\ControlSet001\services\BrUsbMdm\ImagePath\\SystemRoot\System32\Drivers\BrUsbMdm.sys
+\ControlSet001\services\BrUsbSer\ImagePath\\SystemRoot\System32\Drivers\BrUsbSer.sys
+\ControlSet001\services\BTHMODEM\ImagePath\\SystemRoot\system32\DRIVERS\bthmodem.sys
+\ControlSet001\services\bthserv\ImagePath\%SystemRoot%\system32\svchost.exe -k bthsvcs
+\ControlSet001\services\cdfs\ImagePath\system32\DRIVERS\cdfs.sys
+\ControlSet001\services\cdrom\ImagePath\\SystemRoot\system32\drivers\cdrom.sys
+\ControlSet001\services\CertPropSvc\ImagePath\%SystemRoot%\system32\svchost.exe -k netsvcs
+\ControlSet001\services\circlass\ImagePath\\SystemRoot\system32\DRIVERS\circlass.sys
+\ControlSet001\services\CLFS\ImagePath\System32\CLFS.sys
+\ControlSet001\services\clr_optimization_v2.0.50727_32\ImagePath\%systemroot%\Microsoft.NET\Framework\v2.0.50727\mscorsvw.exe
+\ControlSet001\services\clr_optimization_v2.0.50727_64\ImagePath\%systemroot%\Microsoft.NET\Framework64\v2.0.50727\mscorsvw.exe
+\ControlSet001\services\clr_optimization_v4.0.30319_32\ImagePath\C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe
+\ControlSet001\services\clr_optimization_v4.0.30319_64\ImagePath\C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorsvw.exe
+\ControlSet001\services\CmBatt\ImagePath\system32\DRIVERS\CmBatt.sys
+\ControlSet001\services\cmdide\ImagePath\\SystemRoot\system32\drivers\cmdide.sys
+\ControlSet001\services\CNG\ImagePath\System32\Drivers\cng.sys
+\ControlSet001\services\Compbatt\ImagePath\system32\DRIVERS\compbatt.sys
+\ControlSet001\services\CompositeBus\ImagePath\\SystemRoot\system32\drivers\CompositeBus.sys
+\ControlSet001\services\COMSysApp\ImagePath\%SystemRoot%\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235}
+\ControlSet001\services\crcdisk\ImagePath\\SystemRoot\system32\DRIVERS\crcdisk.sys
+\ControlSet001\services\CryptSvc\ImagePath\%SystemRoot%\system32\svchost.exe -k NetworkService
+\ControlSet001\services\CSC\ImagePath\system32\drivers\csc.sys
+\ControlSet001\services\CscService\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalSystemNetworkRestricted
+\ControlSet001\services\DcomLaunch\ImagePath\%SystemRoot%\system32\svchost.exe -k DcomLaunch
+\ControlSet001\services\defragsvc\ImagePath\%SystemRoot%\system32\svchost.exe -k defragsvc
+\ControlSet001\services\DfsC\ImagePath\System32\Drivers\dfsc.sys
+\ControlSet001\services\Dhcp\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalServiceNetworkRestricted
+\ControlSet001\services\DiagTrack\ImagePath\%SystemRoot%\System32\svchost.exe -k utcsvc
+\ControlSet001\services\discache\ImagePath\System32\drivers\discache.sys
+\ControlSet001\services\Disk\ImagePath\system32\drivers\disk.sys
+\ControlSet001\services\Dnscache\ImagePath\%SystemRoot%\system32\svchost.exe -k NetworkService
+\ControlSet001\services\dot3svc\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalSystemNetworkRestricted
+\ControlSet001\services\DPS\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalServiceNoNetwork
+\ControlSet001\services\DXGKrnl\ImagePath\\SystemRoot\System32\drivers\dxgkrnl.sys
+\ControlSet001\services\E1G60\ImagePath\system32\DRIVERS\E1G6032E.sys
+\ControlSet001\services\EapHost\ImagePath\%SystemRoot%\System32\svchost.exe -k netsvcs
+\ControlSet001\services\ebdrv\ImagePath\\SystemRoot\system32\DRIVERS\evbda.sys
+\ControlSet001\services\EFS\ImagePath\%SystemRoot%\System32\lsass.exe
+\ControlSet001\services\ehRecvr\ImagePath\%systemroot%\ehome\ehRecvr.exe
+\ControlSet001\services\ehSched\ImagePath\%systemroot%\ehome\ehsched.exe
+\ControlSet001\services\elxstor\ImagePath\\SystemRoot\system32\DRIVERS\elxstor.sys
+\ControlSet001\services\ErrDev\ImagePath\\SystemRoot\system32\drivers\errdev.sys
+\ControlSet001\services\eventlog\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalServiceNetworkRestricted
+\ControlSet001\services\EventSystem\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalService
+\ControlSet001\services\Fax\ImagePath\%systemroot%\system32\fxssvc.exe
+\ControlSet001\services\fdc\ImagePath\system32\DRIVERS\fdc.sys
+\ControlSet001\services\fdPHost\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalService
+\ControlSet001\services\FDResPub\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalServiceAndNoImpersonation
+\ControlSet001\services\FileInfo\ImagePath\system32\drivers\fileinfo.sys
+\ControlSet001\services\Filetrace\ImagePath\system32\drivers\filetrace.sys
+\ControlSet001\services\flpydisk\ImagePath\system32\DRIVERS\flpydisk.sys
+\ControlSet001\services\FltMgr\ImagePath\system32\drivers\fltmgr.sys
+\ControlSet001\services\FontCache\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalService
+\ControlSet001\services\FontCache3.0.0.0\ImagePath\%systemroot%\Microsoft.Net\Framework64\v3.0\WPF\PresentationFontCache.exe
+\ControlSet001\services\FsDepends\ImagePath\System32\drivers\FsDepends.sys
+\ControlSet001\services\fvevol\ImagePath\System32\DRIVERS\fvevol.sys
+\ControlSet001\services\gagp30kx\ImagePath\\SystemRoot\system32\DRIVERS\gagp30kx.sys
+\ControlSet001\services\gpsvc\ImagePath\%windir%\system32\svchost.exe -k GPSvcGroup
+\ControlSet001\services\hcw85cir\ImagePath\\SystemRoot\system32\drivers\hcw85cir.sys
+\ControlSet001\services\HDAudBus\ImagePath\\SystemRoot\system32\drivers\HDAudBus.sys
+\ControlSet001\services\HidBatt\ImagePath\\SystemRoot\system32\DRIVERS\HidBatt.sys
+\ControlSet001\services\HidBth\ImagePath\\SystemRoot\system32\DRIVERS\hidbth.sys
+\ControlSet001\services\HidIr\ImagePath\\SystemRoot\system32\DRIVERS\hidir.sys
+\ControlSet001\services\hidserv\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalSystemNetworkRestricted
+\ControlSet001\services\HidUsb\ImagePath\\SystemRoot\system32\drivers\hidusb.sys
+\ControlSet001\services\hkmsvc\ImagePath\%SystemRoot%\System32\svchost.exe -k netsvcs
+\ControlSet001\services\HomeGroupListener\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalSystemNetworkRestricted
+\ControlSet001\services\HomeGroupProvider\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalServiceNetworkRestricted
+\ControlSet001\services\HpSAMD\ImagePath\\SystemRoot\system32\drivers\HpSAMD.sys
+\ControlSet001\services\HTTP\ImagePath\system32\drivers\HTTP.sys
+\ControlSet001\services\hwpolicy\ImagePath\System32\drivers\hwpolicy.sys
+\ControlSet001\services\i8042prt\ImagePath\system32\DRIVERS\i8042prt.sys
+\ControlSet001\services\iaStorV\ImagePath\\SystemRoot\system32\drivers\iaStorV.sys
+\ControlSet001\services\idsvc\ImagePath\"%systemroot%\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\infocard.exe"
+\ControlSet001\services\IEEtwCollectorService\ImagePath\%SystemRoot%\system32\IEEtwCollector.exe /V
+\ControlSet001\services\iirsp\ImagePath\\SystemRoot\system32\DRIVERS\iirsp.sys
+\ControlSet001\services\IKEEXT\ImagePath\%systemroot%\system32\svchost.exe -k netsvcs
+\ControlSet001\services\intelide\ImagePath\system32\drivers\intelide.sys
+\ControlSet001\services\intelppm\ImagePath\system32\DRIVERS\intelppm.sys
+\ControlSet001\services\IPBusEnum\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalSystemNetworkRestricted
+\ControlSet001\services\IpFilterDriver\ImagePath\system32\DRIVERS\ipfltdrv.sys
+\ControlSet001\services\iphlpsvc\ImagePath\%SystemRoot%\System32\svchost.exe -k NetSvcs
+\ControlSet001\services\IPMIDRV\ImagePath\\SystemRoot\system32\drivers\IPMIDrv.sys
+\ControlSet001\services\IPNAT\ImagePath\System32\drivers\ipnat.sys
+\ControlSet001\services\IRENUM\ImagePath\system32\drivers\irenum.sys
+\ControlSet001\services\isapnp\ImagePath\\SystemRoot\system32\drivers\isapnp.sys
+\ControlSet001\services\iScsiPrt\ImagePath\\SystemRoot\system32\drivers\msiscsi.sys
+\ControlSet001\services\kbdclass\ImagePath\\SystemRoot\system32\drivers\kbdclass.sys
+\ControlSet001\services\kbdhid\ImagePath\\SystemRoot\system32\drivers\kbdhid.sys
+\ControlSet001\services\KeyIso\ImagePath\%SystemRoot%\system32\lsass.exe
+\ControlSet001\services\KSecDD\ImagePath\System32\Drivers\ksecdd.sys
+\ControlSet001\services\KSecPkg\ImagePath\System32\Drivers\ksecpkg.sys
+\ControlSet001\services\ksthunk\ImagePath\\SystemRoot\system32\drivers\ksthunk.sys
+\ControlSet001\services\KtmRm\ImagePath\%SystemRoot%\System32\svchost.exe -k NetworkServiceAndNoImpersonation
+\ControlSet001\services\LanmanServer\ImagePath\%SystemRoot%\system32\svchost.exe -k netsvcs
+\ControlSet001\services\LanmanWorkstation\ImagePath\%SystemRoot%\System32\svchost.exe -k NetworkService
+\ControlSet001\services\lltdio\ImagePath\system32\DRIVERS\lltdio.sys
+\ControlSet001\services\lltdsvc\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalService
+\ControlSet001\services\lmhosts\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalServiceNetworkRestricted
+\ControlSet001\services\LSI_FC\ImagePath\\SystemRoot\system32\DRIVERS\lsi_fc.sys
+\ControlSet001\services\LSI_SAS\ImagePath\system32\DRIVERS\lsi_sas.sys
+\ControlSet001\services\LSI_SAS2\ImagePath\\SystemRoot\system32\DRIVERS\lsi_sas2.sys
+\ControlSet001\services\LSI_SCSI\ImagePath\\SystemRoot\system32\DRIVERS\lsi_scsi.sys
+\ControlSet001\services\luafv\ImagePath\\SystemRoot\system32\drivers\luafv.sys
+\ControlSet001\services\Mcx2Svc\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalServiceAndNoImpersonation
+\ControlSet001\services\megasas\ImagePath\\SystemRoot\system32\DRIVERS\megasas.sys
+\ControlSet001\services\MegaSR\ImagePath\\SystemRoot\system32\DRIVERS\MegaSR.sys
+\ControlSet001\services\MMCSS\ImagePath\%SystemRoot%\system32\svchost.exe -k netsvcs
+\ControlSet001\services\Modem\ImagePath\system32\drivers\modem.sys
+\ControlSet001\services\monitor\ImagePath\system32\DRIVERS\monitor.sys
+\ControlSet001\services\mouclass\ImagePath\system32\DRIVERS\mouclass.sys
+\ControlSet001\services\mouhid\ImagePath\\SystemRoot\system32\DRIVERS\mouhid.sys
+\ControlSet001\services\mountmgr\ImagePath\System32\drivers\mountmgr.sys
+\ControlSet001\services\mpio\ImagePath\\SystemRoot\system32\drivers\mpio.sys
+\ControlSet001\services\mpsdrv\ImagePath\System32\drivers\mpsdrv.sys
+\ControlSet001\services\MpsSvc\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalServiceNoNetwork
+\ControlSet001\services\MRxDAV\ImagePath\\SystemRoot\system32\drivers\mrxdav.sys
+\ControlSet001\services\mrxsmb\ImagePath\system32\DRIVERS\mrxsmb.sys
+\ControlSet001\services\mrxsmb10\ImagePath\system32\DRIVERS\mrxsmb10.sys
+\ControlSet001\services\mrxsmb20\ImagePath\system32\DRIVERS\mrxsmb20.sys
+\ControlSet001\services\msahci\ImagePath\system32\drivers\msahci.sys
+\ControlSet001\services\msdsm\ImagePath\\SystemRoot\system32\drivers\msdsm.sys
+\ControlSet001\services\MSDTC\ImagePath\%SystemRoot%\System32\msdtc.exe
+\ControlSet001\services\mshidkmdf\ImagePath\\SystemRoot\System32\drivers\mshidkmdf.sys
+\ControlSet001\services\msisadrv\ImagePath\system32\drivers\msisadrv.sys
+\ControlSet001\services\MSiSCSI\ImagePath\%systemroot%\system32\svchost.exe -k netsvcs
+\ControlSet001\services\msiserver\ImagePath\%systemroot%\system32\msiexec.exe /V
+\ControlSet001\services\mssmbios\ImagePath\\SystemRoot\system32\drivers\mssmbios.sys
+\ControlSet001\services\MTConfig\ImagePath\\SystemRoot\system32\DRIVERS\MTConfig.sys
+\ControlSet001\services\Mup\ImagePath\System32\Drivers\mup.sys
+\ControlSet001\services\napagent\ImagePath\%SystemRoot%\System32\svchost.exe -k NetworkService
+\ControlSet001\services\NativeWifiP\ImagePath\system32\DRIVERS\nwifi.sys
+\ControlSet001\services\NDIS\ImagePath\system32\drivers\ndis.sys
+\ControlSet001\services\NdisCap\ImagePath\system32\DRIVERS\ndiscap.sys
+\ControlSet001\services\NdisTapi\ImagePath\system32\DRIVERS\ndistapi.sys
+\ControlSet001\services\Ndisuio\ImagePath\system32\DRIVERS\ndisuio.sys
+\ControlSet001\services\NdisWan\ImagePath\system32\DRIVERS\ndiswan.sys
+\ControlSet001\services\NetBIOS\ImagePath\system32\DRIVERS\netbios.sys
+\ControlSet001\services\NetBT\ImagePath\System32\DRIVERS\netbt.sys
+\ControlSet001\services\Netlogon\ImagePath\%systemroot%\system32\lsass.exe
+\ControlSet001\services\Netman\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalSystemNetworkRestricted
+\ControlSet001\services\NetMsmqActivator\ImagePath\"C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SMSvcHost.exe" -NetMsmqActivator
+\ControlSet001\services\NetPipeActivator\ImagePath\C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SMSvcHost.exe
+\ControlSet001\services\netprofm\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalService
+\ControlSet001\services\NetTcpActivator\ImagePath\C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SMSvcHost.exe
+\ControlSet001\services\NetTcpPortSharing\ImagePath\C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SMSvcHost.exe
+\ControlSet001\services\nfrd960\ImagePath\\SystemRoot\system32\DRIVERS\nfrd960.sys
+\ControlSet001\services\NlaSvc\ImagePath\%SystemRoot%\System32\svchost.exe -k NetworkService
+\ControlSet001\services\nsi\ImagePath\%systemroot%\system32\svchost.exe -k LocalService
+\ControlSet001\services\nsiproxy\ImagePath\system32\drivers\nsiproxy.sys
+\ControlSet001\services\nvraid\ImagePath\\SystemRoot\system32\drivers\nvraid.sys
+\ControlSet001\services\nvstor\ImagePath\\SystemRoot\system32\drivers\nvstor.sys
+\ControlSet001\services\nv_agp\ImagePath\\SystemRoot\system32\drivers\nv_agp.sys
+\ControlSet001\services\ohci1394\ImagePath\\SystemRoot\system32\drivers\ohci1394.sys
+\ControlSet001\services\OpenSSHd\ImagePath\C:\Program Files\OpenSSH\bin\cygrunsrv.exe
+\ControlSet001\services\p2pimsvc\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalServicePeerNet
+\ControlSet001\services\p2psvc\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalServicePeerNet
+\ControlSet001\services\Parport\ImagePath\system32\DRIVERS\parport.sys
+\ControlSet001\services\partmgr\ImagePath\System32\drivers\partmgr.sys
+\ControlSet001\services\PcaSvc\ImagePath\%systemroot%\system32\svchost.exe -k LocalSystemNetworkRestricted
+\ControlSet001\services\pci\ImagePath\system32\drivers\pci.sys
+\ControlSet001\services\pciide\ImagePath\\SystemRoot\system32\drivers\pciide.sys
+\ControlSet001\services\pcmcia\ImagePath\\SystemRoot\system32\DRIVERS\pcmcia.sys
+\ControlSet001\services\pcw\ImagePath\System32\drivers\pcw.sys
+\ControlSet001\services\PEAUTH\ImagePath\system32\drivers\peauth.sys
+\ControlSet001\services\PeerDistSvc\ImagePath\%SystemRoot%\System32\svchost.exe -k PeerDist
+\ControlSet001\services\PerfHost\ImagePath\%SystemRoot%\SysWow64\perfhost.exe
+\ControlSet001\services\pla\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalServiceNoNetwork
+\ControlSet001\services\PlugPlay\ImagePath\%SystemRoot%\system32\svchost.exe -k DcomLaunch
+\ControlSet001\services\PNRPAutoReg\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalServicePeerNet
+\ControlSet001\services\PNRPsvc\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalServicePeerNet
+\ControlSet001\services\PolicyAgent\ImagePath\%SystemRoot%\system32\svchost.exe -k NetworkServiceNetworkRestricted
+\ControlSet001\services\Power\ImagePath\%SystemRoot%\system32\svchost.exe -k DcomLaunch
+\ControlSet001\services\PptpMiniport\ImagePath\system32\DRIVERS\raspptp.sys
+\ControlSet001\services\Processor\ImagePath\\SystemRoot\system32\DRIVERS\processr.sys
+\ControlSet001\services\ProfSvc\ImagePath\%systemroot%\system32\svchost.exe -k netsvcs
+\ControlSet001\services\ProtectedStorage\ImagePath\%SystemRoot%\system32\lsass.exe
+\ControlSet001\services\Psched\ImagePath\system32\DRIVERS\pacer.sys
+\ControlSet001\services\ql2300\ImagePath\\SystemRoot\system32\DRIVERS\ql2300.sys
+\ControlSet001\services\ql40xx\ImagePath\\SystemRoot\system32\DRIVERS\ql40xx.sys
+\ControlSet001\services\QWAVE\ImagePath\%windir%\system32\svchost.exe -k LocalServiceAndNoImpersonation
+\ControlSet001\services\QWAVEdrv\ImagePath\\SystemRoot\system32\drivers\qwavedrv.sys
+\ControlSet001\services\RasAcd\ImagePath\System32\DRIVERS\rasacd.sys
+\ControlSet001\services\RasAgileVpn\ImagePath\system32\DRIVERS\AgileVpn.sys
+\ControlSet001\services\RasAuto\ImagePath\%SystemRoot%\System32\svchost.exe -k netsvcs
+\ControlSet001\services\Rasl2tp\ImagePath\system32\DRIVERS\rasl2tp.sys
+\ControlSet001\services\RasMan\ImagePath\%SystemRoot%\System32\svchost.exe -k netsvcs
+\ControlSet001\services\RasPppoe\ImagePath\system32\DRIVERS\raspppoe.sys
+\ControlSet001\services\RasSstp\ImagePath\system32\DRIVERS\rassstp.sys
+\ControlSet001\services\rdbss\ImagePath\system32\DRIVERS\rdbss.sys
+\ControlSet001\services\rdpbus\ImagePath\system32\DRIVERS\rdpbus.sys
+\ControlSet001\services\RDPCDD\ImagePath\System32\DRIVERS\RDPCDD.sys
+\ControlSet001\services\RDPDR\ImagePath\System32\drivers\rdpdr.sys
+\ControlSet001\services\RDPENCDD\ImagePath\system32\drivers\rdpencdd.sys
+\ControlSet001\services\RDPREFMP\ImagePath\system32\drivers\rdprefmp.sys
+\ControlSet001\services\RdpVideoMiniport\ImagePath\System32\drivers\rdpvideominiport.sys
+\ControlSet001\services\rdyboost\ImagePath\System32\drivers\rdyboost.sys
+\ControlSet001\services\RemoteAccess\ImagePath\%SystemRoot%\System32\svchost.exe -k netsvcs
+\ControlSet001\services\RemoteRegistry\ImagePath\%SystemRoot%\system32\svchost.exe -k regsvc
+\ControlSet001\services\RpcEptMapper\ImagePath\%SystemRoot%\system32\svchost.exe -k RPCSS
+\ControlSet001\services\RpcLocator\ImagePath\%SystemRoot%\system32\locator.exe
+\ControlSet001\services\RpcSs\ImagePath\%SystemRoot%\system32\svchost.exe -k rpcss
+\ControlSet001\services\rspndr\ImagePath\system32\DRIVERS\rspndr.sys
+\ControlSet001\services\s3cap\ImagePath\\SystemRoot\system32\drivers\vms3cap.sys
+\ControlSet001\services\SamSs\ImagePath\%SystemRoot%\system32\lsass.exe
+\ControlSet001\services\sbp2port\ImagePath\\SystemRoot\system32\drivers\sbp2port.sys
+\ControlSet001\services\SCardSvr\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalServiceAndNoImpersonation
+\ControlSet001\services\scfilter\ImagePath\System32\DRIVERS\scfilter.sys
+\ControlSet001\services\Schedule\ImagePath\%systemroot%\system32\svchost.exe -k netsvcs
+\ControlSet001\services\SCPolicySvc\ImagePath\%SystemRoot%\system32\svchost.exe -k netsvcs
+\ControlSet001\services\SDRSVC\ImagePath\%SystemRoot%\system32\svchost.exe -k SDRSVC
+\ControlSet001\services\seclogon\ImagePath\%windir%\system32\svchost.exe -k netsvcs
+\ControlSet001\services\SENS\ImagePath\%SystemRoot%\system32\svchost.exe -k netsvcs
+\ControlSet001\services\SensrSvc\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalServiceAndNoImpersonation
+\ControlSet001\services\Serenum\ImagePath\system32\DRIVERS\serenum.sys
+\ControlSet001\services\Serial\ImagePath\system32\DRIVERS\serial.sys
+\ControlSet001\services\sermouse\ImagePath\\SystemRoot\system32\DRIVERS\sermouse.sys
+\ControlSet001\services\SessionEnv\ImagePath\%SystemRoot%\System32\svchost.exe -k netsvcs
+\ControlSet001\services\sffdisk\ImagePath\\SystemRoot\system32\drivers\sffdisk.sys
+\ControlSet001\services\sffp_mmc\ImagePath\\SystemRoot\system32\drivers\sffp_mmc.sys
+\ControlSet001\services\sffp_sd\ImagePath\\SystemRoot\system32\drivers\sffp_sd.sys
+\ControlSet001\services\sfloppy\ImagePath\\SystemRoot\system32\DRIVERS\sfloppy.sys
+\ControlSet001\services\SharedAccess\ImagePath\%SystemRoot%\System32\svchost.exe -k netsvcs
+\ControlSet001\services\ShellHWDetection\ImagePath\%SystemRoot%\System32\svchost.exe -k netsvcs
+\ControlSet001\services\SiSRaid2\ImagePath\\SystemRoot\system32\DRIVERS\SiSRaid2.sys
+\ControlSet001\services\SiSRaid4\ImagePath\\SystemRoot\system32\DRIVERS\sisraid4.sys
+\ControlSet001\services\Smb\ImagePath\system32\DRIVERS\smb.sys
+\ControlSet001\services\SNMPTRAP\ImagePath\%SystemRoot%\System32\snmptrap.exe
+\ControlSet001\services\Spooler\ImagePath\%SystemRoot%\System32\spoolsv.exe
+\ControlSet001\services\sppsvc\ImagePath\%SystemRoot%\system32\sppsvc.exe
+\ControlSet001\services\sppuinotify\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalService
+\ControlSet001\services\srv\ImagePath\System32\DRIVERS\srv.sys
+\ControlSet001\services\srv2\ImagePath\System32\DRIVERS\srv2.sys
+\ControlSet001\services\srvnet\ImagePath\System32\DRIVERS\srvnet.sys
+\ControlSet001\services\SSDPSRV\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalServiceAndNoImpersonation
+\ControlSet001\services\SstpSvc\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalService
+\ControlSet001\services\stexstor\ImagePath\\SystemRoot\system32\DRIVERS\stexstor.sys
+\ControlSet001\services\stisvc\ImagePath\%SystemRoot%\system32\svchost.exe -k imgsvc
+\ControlSet001\services\storflt\ImagePath\system32\drivers\vmstorfl.sys
+\ControlSet001\services\StorSvc\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalSystemNetworkRestricted
+\ControlSet001\services\storvsc\ImagePath\\SystemRoot\system32\drivers\storvsc.sys
+\ControlSet001\services\swenum\ImagePath\\SystemRoot\system32\drivers\swenum.sys
+\ControlSet001\services\swprv\ImagePath\%SystemRoot%\System32\svchost.exe -k swprv
+\ControlSet001\services\Synth3dVsc\ImagePath\System32\drivers\synth3dvsc.sys
+\ControlSet001\services\SysMain\ImagePath\%systemroot%\system32\svchost.exe -k LocalSystemNetworkRestricted
+\ControlSet001\services\TabletInputService\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalSystemNetworkRestricted
+\ControlSet001\services\TapiSrv\ImagePath\%SystemRoot%\System32\svchost.exe -k NetworkService
+\ControlSet001\services\Tcpip\ImagePath\System32\drivers\tcpip.sys
+\ControlSet001\services\TCPIP6\ImagePath\system32\DRIVERS\tcpip.sys
+\ControlSet001\services\tcpipreg\ImagePath\System32\drivers\tcpipreg.sys
+\ControlSet001\services\TDPIPE\ImagePath\system32\drivers\tdpipe.sys
+\ControlSet001\services\TDTCP\ImagePath\system32\drivers\tdtcp.sys
+\ControlSet001\services\tdx\ImagePath\system32\DRIVERS\tdx.sys
+\ControlSet001\services\TermDD\ImagePath\\SystemRoot\system32\drivers\termdd.sys
+\ControlSet001\services\TermService\ImagePath\%SystemRoot%\System32\svchost.exe -k NetworkService
+\ControlSet001\services\Themes\ImagePath\%SystemRoot%\System32\svchost.exe -k netsvcs
+\ControlSet001\services\THREADORDER\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalService
+\ControlSet001\services\TPAutoConnSvc\ImagePath\"C:\Program Files\VMware\VMware Tools\TPAutoConnSvc.exe"
+\ControlSet001\services\TPVCGateway\ImagePath\"C:\Program Files\VMware\VMware Tools\TPVCGateway.exe"
+\ControlSet001\services\TrkWks\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalSystemNetworkRestricted
+\ControlSet001\services\TrustedInstaller\ImagePath\%SystemRoot%\servicing\TrustedInstaller.exe
+\ControlSet001\services\tssecsrv\ImagePath\System32\DRIVERS\tssecsrv.sys
+\ControlSet001\services\TsUsbFlt\ImagePath\system32\drivers\tsusbflt.sys
+\ControlSet001\services\tsusbhub\ImagePath\system32\drivers\tsusbhub.sys
+\ControlSet001\services\tunnel\ImagePath\system32\DRIVERS\tunnel.sys
+\ControlSet001\services\uagp35\ImagePath\\SystemRoot\system32\DRIVERS\uagp35.sys
+\ControlSet001\services\udfs\ImagePath\system32\DRIVERS\udfs.sys
+\ControlSet001\services\UI0Detect\ImagePath\%SystemRoot%\system32\UI0Detect.exe
+\ControlSet001\services\uliagpkx\ImagePath\\SystemRoot\system32\drivers\uliagpkx.sys
+\ControlSet001\services\umbus\ImagePath\\SystemRoot\system32\drivers\umbus.sys
+\ControlSet001\services\UmPass\ImagePath\\SystemRoot\system32\DRIVERS\umpass.sys
+\ControlSet001\services\UmRdpService\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalSystemNetworkRestricted
+\ControlSet001\services\upnphost\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalServiceAndNoImpersonation
+\ControlSet001\services\usbccgp\ImagePath\\SystemRoot\system32\drivers\usbccgp.sys
+\ControlSet001\services\usbcir\ImagePath\\SystemRoot\system32\drivers\usbcir.sys
+\ControlSet001\services\usbehci\ImagePath\\SystemRoot\system32\drivers\usbehci.sys
+\ControlSet001\services\usbhub\ImagePath\\SystemRoot\system32\drivers\usbhub.sys
+\ControlSet001\services\usbohci\ImagePath\\SystemRoot\system32\drivers\usbohci.sys
+\ControlSet001\services\usbprint\ImagePath\\SystemRoot\system32\DRIVERS\usbprint.sys
+\ControlSet001\services\USBSTOR\ImagePath\\SystemRoot\system32\drivers\USBSTOR.SYS
+\ControlSet001\services\usbuhci\ImagePath\\SystemRoot\system32\drivers\usbuhci.sys
+\ControlSet001\services\UxSms\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalSystemNetworkRestricted
+\ControlSet001\services\VaultSvc\ImagePath\%SystemRoot%\system32\lsass.exe
+\ControlSet001\services\vdrvroot\ImagePath\system32\drivers\vdrvroot.sys
+\ControlSet001\services\vds\ImagePath\%SystemRoot%\System32\vds.exe
+\ControlSet001\services\vga\ImagePath\system32\DRIVERS\vgapnp.sys
+\ControlSet001\services\VgaSave\ImagePath\\SystemRoot\System32\drivers\vga.sys
+\ControlSet001\services\VGAuthService\ImagePath\"C:\Program Files\VMware\VMware Tools\VMware VGAuth\VGAuthService.exe"
+\ControlSet001\services\VGPU\ImagePath\System32\drivers\rdvgkmd.sys
+\ControlSet001\services\vhdmp\ImagePath\\SystemRoot\system32\drivers\vhdmp.sys
+\ControlSet001\services\viaide\ImagePath\\SystemRoot\system32\drivers\viaide.sys
+\ControlSet001\services\vm3dmp\ImagePath\system32\DRIVERS\vm3dmp.sys
+\ControlSet001\services\vm3dmp-debug\ImagePath\system32\DRIVERS\vm3dmp-debug.sys
+\ControlSet001\services\vm3dmp-stats\ImagePath\system32\DRIVERS\vm3dmp-stats.sys
+\ControlSet001\services\vm3dmp_loader\ImagePath\system32\DRIVERS\vm3dmp_loader.sys
+\ControlSet001\services\vmbus\ImagePath\system32\drivers\vmbus.sys
+\ControlSet001\services\VMBusHID\ImagePath\\SystemRoot\system32\drivers\VMBusHID.sys
+\ControlSet001\services\vmci\ImagePath\system32\DRIVERS\vmci.sys
+\ControlSet001\services\vmhgfs\ImagePath\system32\DRIVERS\vmhgfs.sys
+\ControlSet001\services\VMMemCtl\ImagePath\system32\DRIVERS\vmmemctl.sys
+\ControlSet001\services\vmmouse\ImagePath\system32\DRIVERS\vmmouse.sys
+\ControlSet001\services\vmrawdsk\ImagePath\system32\DRIVERS\vmrawdsk.sys
+\ControlSet001\services\VMTools\ImagePath\"C:\Program Files\VMware\VMware Tools\vmtoolsd.exe"
+\ControlSet001\services\vmvss\ImagePath\C:\Windows\system32\dllhost.exe /Processid:{16871293-4DCB-4117-A72F-3C69532F8F61}
+\ControlSet001\services\VMware Physical Disk Helper Service\ImagePath\"C:\Program Files\VMware\VMware Tools\vmacthlp.exe"
+\ControlSet001\services\VMwareCAFCommAmqpListener\ImagePath\"C:\Program Files\VMware\VMware Tools\VMware CAF\pme\bin\CommAmqpListener.exe"
+\ControlSet001\services\VMwareCAFManagementAgentHost\ImagePath\"C:\Program Files\VMware\VMware Tools\VMware CAF\pme\bin\ManagementAgentHost.exe"
+\ControlSet001\services\volmgr\ImagePath\system32\drivers\volmgr.sys
+\ControlSet001\services\volmgrx\ImagePath\System32\drivers\volmgrx.sys
+\ControlSet001\services\volsnap\ImagePath\system32\drivers\volsnap.sys
+\ControlSet001\services\vsmraid\ImagePath\\SystemRoot\system32\DRIVERS\vsmraid.sys
+\ControlSet001\services\vsock\ImagePath\system32\DRIVERS\vsock.sys
+\ControlSet001\services\VSS\ImagePath\%systemroot%\system32\vssvc.exe
+\ControlSet001\services\vwifibus\ImagePath\\SystemRoot\System32\drivers\vwifibus.sys
+\ControlSet001\services\W32Time\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalService
+\ControlSet001\services\WacomPen\ImagePath\\SystemRoot\system32\DRIVERS\wacompen.sys
+\ControlSet001\services\WANARP\ImagePath\system32\DRIVERS\wanarp.sys
+\ControlSet001\services\Wanarpv6\ImagePath\system32\DRIVERS\wanarp.sys
+\ControlSet001\services\WatAdminSvc\ImagePath\%SystemRoot%\system32\Wat\WatAdminSvc.exe
+\ControlSet001\services\wbengine\ImagePath\"%systemroot%\system32\wbengine.exe"
+\ControlSet001\services\WbioSrvc\ImagePath\%SystemRoot%\system32\svchost.exe -k WbioSvcGroup
+\ControlSet001\services\wcncsvc\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalServiceAndNoImpersonation
+\ControlSet001\services\WcsPlugInService\ImagePath\%SystemRoot%\system32\svchost.exe -k wcssvc
+\ControlSet001\services\Wd\ImagePath\\SystemRoot\system32\DRIVERS\wd.sys
+\ControlSet001\services\Wdf01000\ImagePath\system32\drivers\Wdf01000.sys
+\ControlSet001\services\WdiServiceHost\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalService
+\ControlSet001\services\WdiSystemHost\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalSystemNetworkRestricted
+\ControlSet001\services\WebClient\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalService
+\ControlSet001\services\Wecsvc\ImagePath\%SystemRoot%\system32\svchost.exe -k NetworkService
+\ControlSet001\services\wercplsupport\ImagePath\%SystemRoot%\System32\svchost.exe -k netsvcs
+\ControlSet001\services\WerSvc\ImagePath\%SystemRoot%\System32\svchost.exe -k WerSvcGroup
+\ControlSet001\services\WfpLwf\ImagePath\system32\DRIVERS\wfplwf.sys
+\ControlSet001\services\WIMMount\ImagePath\system32\drivers\wimmount.sys
+\ControlSet001\services\WinDefend\ImagePath\%SystemRoot%\System32\svchost.exe -k secsvcs
+\ControlSet001\services\WinHttpAutoProxySvc\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalService
+\ControlSet001\services\Winmgmt\ImagePath\%systemroot%\system32\svchost.exe -k netsvcs
+\ControlSet001\services\WinRM\ImagePath\%SystemRoot%\System32\svchost.exe -k NetworkService
+\ControlSet001\services\Wlansvc\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalSystemNetworkRestricted
+\ControlSet001\services\WLMS\ImagePath\%SystemRoot%\system32\wlms\wlms.exe
+\ControlSet001\services\WmiAcpi\ImagePath\\SystemRoot\system32\drivers\wmiacpi.sys
+\ControlSet001\services\wmiApSrv\ImagePath\%systemroot%\system32\wbem\WmiApSrv.exe
+\ControlSet001\services\WMPNetworkSvc\ImagePath\"%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe"
+\ControlSet001\services\WPCSvc\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalServiceNetworkRestricted
+\ControlSet001\services\WPDBusEnum\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalSystemNetworkRestricted
+\ControlSet001\services\ws2ifsl\ImagePath\\SystemRoot\system32\drivers\ws2ifsl.sys
+\ControlSet001\services\wscsvc\ImagePath\%SystemRoot%\System32\svchost.exe -k LocalServiceNetworkRestricted
+\ControlSet001\services\WSearch\ImagePath\%systemroot%\system32\SearchIndexer.exe /Embedding
+\ControlSet001\services\wuauserv\ImagePath\%systemroot%\system32\svchost.exe -k netsvcs
+\ControlSet001\services\WudfPf\ImagePath\system32\drivers\WudfPf.sys
+\ControlSet001\services\wudfsvc\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalSystemNetworkRestricted
+\ControlSet001\services\WwanSvc\ImagePath\%SystemRoot%\system32\svchost.exe -k LocalServiceNoNetwork
+\ControlSet001\Control\Session Manager\BootExecute\[u'autocheck autochk *', u'', u'']
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000001\LibraryPath\%SystemRoot%\system32\NLAapi.dll
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000001\DisplayString\@%SystemRoot%\system32\nlasvc.dll,-1000
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000002\LibraryPath\%SystemRoot%\system32\napinsp.dll
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000002\DisplayString\@%SystemRoot%\system32\napinsp.dll,-1000
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000003\LibraryPath\%SystemRoot%\system32\pnrpnsp.dll
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000003\DisplayString\@%SystemRoot%\system32\pnrpnsp.dll,-1000
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000004\LibraryPath\%SystemRoot%\system32\pnrpnsp.dll
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000004\DisplayString\@%SystemRoot%\system32\pnrpnsp.dll,-1001
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000005\LibraryPath\%SystemRoot%\System32\mswsock.dll
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000005\DisplayString\@%SystemRoot%\system32\wshtcpip.dll,-60103
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000006\LibraryPath\%SystemRoot%\System32\winrnr.dll
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000006\DisplayString\NTDS
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries64\000000000001\LibraryPath\%SystemRoot%\system32\NLAapi.dll
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries64\000000000001\DisplayString\@%SystemRoot%\system32\nlasvc.dll,-1000
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries64\000000000002\LibraryPath\%SystemRoot%\system32\napinsp.dll
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries64\000000000002\DisplayString\@%SystemRoot%\system32\napinsp.dll,-1000
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries64\000000000003\LibraryPath\%SystemRoot%\system32\pnrpnsp.dll
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries64\000000000003\DisplayString\@%SystemRoot%\system32\pnrpnsp.dll,-1000
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries64\000000000004\LibraryPath\%SystemRoot%\system32\pnrpnsp.dll
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries64\000000000004\DisplayString\@%SystemRoot%\system32\pnrpnsp.dll,-1001
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries64\000000000005\LibraryPath\%SystemRoot%\System32\mswsock.dll
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries64\000000000005\DisplayString\@%SystemRoot%\system32\wshtcpip.dll,-60103
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries64\000000000006\LibraryPath\%SystemRoot%\System32\winrnr.dll
+\ControlSet001\services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries64\000000000006\DisplayString\NTDS
+\ControlSet001\Control\Session Manager\KnownDLLs\clbcatq\clbcatq.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\ole32\ole32.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\advapi32\advapi32.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\COMDLG32\COMDLG32.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\DllDirectory\%SystemRoot%\system32
+\ControlSet001\Control\Session Manager\KnownDLLs\DllDirectory32\%SystemRoot%\syswow64
+\ControlSet001\Control\Session Manager\KnownDLLs\gdi32\gdi32.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\IERTUTIL\IERTUTIL.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\IMAGEHLP\IMAGEHLP.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\IMM32\IMM32.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\kernel32\kernel32.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\LPK\LPK.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\MSCTF\MSCTF.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\MSVCRT\MSVCRT.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\NORMALIZ\NORMALIZ.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\NSI\NSI.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\OLEAUT32\OLEAUT32.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\PSAPI\PSAPI.DLL
+\ControlSet001\Control\Session Manager\KnownDLLs\rpcrt4\rpcrt4.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\sechost\sechost.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\Setupapi\Setupapi.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\SHELL32\SHELL32.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\SHLWAPI\SHLWAPI.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\URLMON\URLMON.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\user32\user32.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\USP10\USP10.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\WININET\WININET.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\WLDAP32\WLDAP32.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\WS2_32\WS2_32.dll
+\ControlSet001\Control\Session Manager\KnownDLLs\DifxApi\difxapi.dll
+\ControlSet001\Control\NetworkProvider\Order\ProviderOrder\vmhgfs,RDPNP,LanmanWorkstation,webclient

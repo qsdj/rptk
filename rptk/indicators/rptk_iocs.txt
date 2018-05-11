@@ -1,0 +1,78 @@
+regsvr32 /s /n /u /i
+scrobj.dll
+wscript.exe
+wscript.shell
+wscript
+cscript
+cscript.exe
+VBScript.Encode 
+cmd.exe /c start
+mshta.exe
+mshta
+java.exe -jar
+javascript
+activexobject
+eval(
+hklm\\
+hkcu\\
+nul
+powershell.exe
+powershell
+-Exec Bypass
+-ep bypass
+-ExecutionPolicy Bypass
+-exe bypass
+-ep hidden
+-EncodedCommand
+-enc
+-en
+-window hidden
+-w hidden
+-windowstyle hidden
+-win hidden
+-windows hidden
+-win hid
+-wind hidden
+'hidden'
+hidden
+windowstyle
+-NonInteractive
+-NonI
+-NoProfile
+-NoP
+-noexit
+-NoLogo
+-nol
+-sta
+Invoke-Expression
+-Command
+-c iex
+iex
+DownloadString
+DownloadFile
+Net.WebClient
+System.Net.WebClient
+System.Net.WebRequest
+System.Net.CredentialCache
+wc.proxy.credentials
+New-Object
+Start-Process
+BitsTransfer
+Start-BitsTransfer
+nslookup
+FromBase64String
+GetSystemWebProxy
+Invoke-Shellcode
+-Payload
+VirtualAlloc
+CreateThread
+memset
+shellcode
+createthread
+IO.StreamReader
+StreamReader
+get-wmiobject
+IO.Compression.DeflateStream 
+getstring
+get-content
+get-date
