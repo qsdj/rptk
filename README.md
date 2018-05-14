@@ -20,8 +20,8 @@ RPTK is currently lacking support for the following known persistence keys:
 - SOFTWARE\Microsoft\Internet Explorer\Desktop\Components
 - SOFTWARE\Microsoft\Internet Explorer\Explorer Bars
 - SOFTWARE\Microsoft\Internet Explorer\UrlSearchHooks
-- SOFTWARE\Classes\.cmd
-- SOFTWARE\Classes\.exe
+- SOFTWARE\Classes\\.cmd
+- SOFTWARE\Classes\\.exe
 - SOFTWARE\Classes\Filter
 - SOFTWARE\Microsoft\Ctf\LangBarAddin
 - SOFTWARE\Microsoft\Windows NT\CurrentVersion\Windows\Load
