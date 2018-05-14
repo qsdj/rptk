@@ -1,8 +1,6 @@
 # rptk
 Registry Persistence Toolkit (RPTK)
 
-@kpoppenwimer
-
 The Registry Persistence Toolkit (RPTK) is a Python-based framework that can be leveraged by forensic analysts, incident responders, and threat hunting teams to automate the process of parsing and analyzing persistence registry keys and their associated values.  Furthermore, the framework includes built-in functionality to leverage registry key whitelisting, intelligence (i.e. indicators of compromise (IOCs)), and Base64 encoding identification and decoding.
 
 RTPK requires Python 2 (Developed and tested in Python 2.7) and the installation of Will Ballenthin's python-registry module.  Download the module from Will's github page: https://github.com/williballenthin/python-registry
@@ -15,7 +13,9 @@ RPTK Whitelist Generator Execution (http://www.haloforensics.com/?p=181)
 
 RPTK Execution (http://www.haloforensics.com/?p=189)
 
-Please note, RPTK is currently in beta and needs to be thoroughly vetted by the DFIR community.  Likewise, there are additional persistence registry keys that have not been incorporated into RPTK due to a lack of testing data.  I request that the community submit sample hive files for persistence keys that are currently missing.  I will happily incorporate the additional registry keys shoudl the community provide me the necessary testing data.  RPTK is currently lacking support for the following known persistence keys:
+Please note, RPTK is currently in beta and needs to be thoroughly vetted by the DFIR community.  Likewise, there are additional persistence registry keys that have not been incorporated into RPTK due to a lack of testing data.  If anyone using the rptk would like to contribute test data, feel free to contact me @kpoppenwimer.
+
+RPTK is currently lacking support for the following known persistence keys:
 
 SOFTWARE\Microsoft\Internet Explorer\Desktop\Components
 SOFTWARE\Microsoft\Internet Explorer\Explorer Bars
