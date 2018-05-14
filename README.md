@@ -17,7 +17,7 @@ Please note, RPTK is currently in beta and needs to be thoroughly vetted by the 
 
 RPTK is currently lacking support for the following known persistence keys:
 
-SOFTWARE\Microsoft\Internet Explorer\Desktop\Components
+..*SOFTWARE\Microsoft\Internet Explorer\Desktop\Components
 SOFTWARE\Microsoft\Internet Explorer\Explorer Bars
 SOFTWARE\Microsoft\Internet Explorer\UrlSearchHooks
 SOFTWARE\Classes\.cmd
