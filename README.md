@@ -1,5 +1,6 @@
 # rptk
 Registry Persistence Toolkit (RPTK)
+
 @kpoppenwimer
 
 The Registry Persistence Toolkit (RPTK) is a Python-based framework that can be leveraged by forensic analysts, incident responders, and threat hunting teams to automate the process of parsing and analyzing persistence registry keys and their associated values.  Furthermore, the framework includes built-in functionality to leverage registry key whitelisting, intelligence (i.e. indicators of compromise (IOCs)), and Base64 encoding identification and decoding.
