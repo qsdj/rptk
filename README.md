@@ -8,7 +8,7 @@ RTPK Requirements
 
 - python-registry module - Will Ballenthin's (https://github.com/williballenthin/python-registry)
 
--enum34 module - (https://pypi.org/project/enum34/#files)
+- enum34 module - (https://pypi.org/project/enum34/#files)
 
 For information about RPTK and usage instructions, see the following blog posts:
 
