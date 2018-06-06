@@ -1,6 +1,6 @@
 READ ME
 
-The RPTK directory contains the following folders and contents:
+The RPTK directory contains the following Python scripts and directory structure:
 
 Python Scripts
 	-rptk.py
